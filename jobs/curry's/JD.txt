@@ -1,0 +1,68 @@
+Vacancy ID:  50189
+AI Engineer
+
+Currys London Campus at Waterloo
+Permanent
+Full Time
+Grade 3
+
+ 
+
+At Currys we’re united by one passion: to help everyone enjoy amazing technology. As the UK’s best-known retailer of tech, we’re proud of the service our customers receive – and it’s all down to our team of 25,000 caring and committed colleagues. Working as one team, we learn and grow together, celebrating the big and small moments that make every day amazing.
+
+
+You'll be part of Tech and Transformation, where we're building Al-powered solutions that genuinely change how Currys works. We drive innovation that creates seamless, secure experiences - from modernising platforms to deploying smart tools across stores, supply chain, contact centres and corporate teams. Using analytics, Al and automation, we simplify work, improve decisions and unlock new opportunities. It's a team that values curiosity and collaboration, and with access to learning platforms and mentoring, you'll grow as fast as the tech we build.
+
+
+You'll partner with product managers to understand business needs and deliver practical Al solutions that work in the real world. Your work will span multiple business areas - from colleagues in stores and contact centres to teams in trading, supply chain and operations. You'll join a community of engineers who share ideas, raise standards and support each other, helping you move from prototype to production with confidence.
+
+Key Responsibilities:
+ 
+
+Build Al solutions and agents that improve productivity and decision-making across the business
+Create and iterate on prototypes using modern LLM and agent frameworks
+Help take Al features into production, working with senior engineers to meet reliability and security needs
+Contribute to data preparation and feature engineering for Al use cases
+Write clean, well-tested code that follows Currys engineering standards
+Monitor Al solutions in production, tracking quality, performance and cost
+Troubleshoot issues and improve implementations based on feedback and metrics
+Document your work clearly so solutions can be supported and scaled by the wider team
+Learn continuously and bring new ideas, tools and techniques to the team
+
+Required Skills & Experience:
+
+
+Strong engineering foundations with real experience delivering working solutions in a team
+Comfortable with Python and the ability to write code that others can understand and maintain
+Practical knowledge of APIs, services and development practices like version control, code reviews and testing
+Evidence you've already started building with Al - through personal projects, a starter role, or experimenting with tools like Codex or Cursor
+Understanding of basic ML and Al concepts like prompting, evaluation, embeddings and how models work
+Intellectual curiosity and problem-solving instincts that drive you to figure things out
+A genuine desire to learn fast and grow your skills in applied Al and agentic tooling
+The ability to work collaboratively in an agile environment with product teams and multiple stakeholders
+Exposure to Databricks, Azure Al services or similar cloud Al platforms beneficial
+Experience with agent frameworks, RAG patterns or orchestration tools beneficial
+Knowledge of data platforms like SQL or Spark and how Al integrates with them beneficial
+Engineering experience in software, data or ML with real-world delivery in a team setting
+Working proficiency in Python and writing production-quality code
+Familiarity with APIs, services and modern development practices like version control and testing
+Early evidence of Al or LLM work through personal projects, a starter Al role, or building tools using Codex, Cursor, OpenAl APIs or similar
+Degree in Computer Science, Engineering, Al/ML, or equivalent experience
+Why join us:
+We know our people are the secret to our success. That's why we're always looking for ways to reward great work. You'll find a host of benefits designed to work for you, including:
+
+
+25 days of annual leave (plus bank holiday entitlement) and a competitive pension scheme
+Life Assurance
+Fantastic colleague discounts on Tech with Currys and iD Mobile
+Hybrid working (with an expectation to meet in person 2-4 times per month)
+
+Join our team and we’ll be with you every step of the way, helping you develop the career you want with new opportunities, on-going training and skills for life.
+
+ 
+
+Not only can you shape your own future, but you can help take charge of ours too. As the biggest recycler and repairer of tech in the UK, we’re in a position to make a real impact on people and the planet. 
+
+ 
+
+Every voice has a space at our table and we’re committed to making inclusion and diversity part of everything we do, including how we strengthen our workforce. We want to make sure you have a fair opportunity to show us your talents during our application process, so if you need any additional assistance with your application please email careers@currys.co.uk and we’ll do our best to help.
