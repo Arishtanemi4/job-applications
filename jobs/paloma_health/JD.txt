@@ -1,0 +1,142 @@
+AI Engineer
+Hybrid: London Bridge office, working 2 days per week in person if possible, with some flexibility possible if required
+AI Engineer
+
+Location: Our preference is hybrid working: two days in the London office (Wed/Thu) and three days remote. We consider alternatives if this is not possible for you.
+
+Office location: 140 Borough High Street, London, SE1 1LB
+
+Reporting to: Avishai Gurt, VP Technology 
+
+ 
+
+About Paloma
+
+In 2024, our founders, Mark and Darshak, were shocked to find that children needing an NHS autism or ADHD assessment were waiting 4-10 years for these assessments. Delayed assessments result in children being more likely to develop mental health conditions and fall behind in education. Furthermore, the much-needed pre/post-assessment support (outside of ADHD medications) is typically not funded by the NHS. 
+
+These long waits have built up due to increased recognition and understanding of neurodevelopmental conditions and a lack of investment and innovation within the NHS to meet the growing demand.
+
+Mark and Darshak, with their 25 years of combined NHS experience, including building services that have treated over 1,000,000 patients in obesity & ophthalmology, founded Paloma to change this. Our mission is to make NHS autism and ADHD assessments and care accessible within 4 weeks of a GP referral, and, in turn, help every child achieve their potential.
+
+As of May 2026, we have successfully reduced waits to 3 months by;
+
+Taking a product-first approach to redesign the care pathway to give families a more consumer-like experience of care
+Our in-house product, engineering and AI team building our own autism and ADHD specific electronic health record and AI documentation tool to free clinicians from their significant documentation burden to re-focus on supporting families
+Investing in expanding the clinician workforce and upskilling them in new ways of working.
+We are proud that Paloma is:
+
+Loved by families, with 4.9 out of 5 Trustpilot and Google ratings
+Care Quality Commission (CQC) registered and quality-focused
+Clinically-led, with a team of 130 people, including over 80 clinicians supporting families through their assessment journey. We are hiring 100+ more roles over the next 12 months.
+A community of passionate, mission-driven and innovative team members who challenge the status quo and test and learn from new ideas and approaches.
+Backed by leading healthcare investors Triple Point and Heal Capital
+What’s next?
+
+Whilst we have reduced wait times, it is estimated that up to 500,000 children are still waiting for an NHS autism or ADHD assessment. We won’t rest until this comes down.
+We want to build new services to support families and children diagnosed with autism or ADHD who feel lost after their assessments when the NHS is no longer there for them.
+ 
+
+The Opportunity
+
+Do you want to build AI-driven applications that directly help families get faster access to NHS children’s autism and ADHD assessments? This role is for you!
+
+We seek a talented and passionate AI Engineer with proven experience building and evaluating AI-driven applications to join our dynamic AI squad, which sits within our wider product & engineering and expert clinical teams (your subject matter experts are within Paloma; you don’t need to wait for external stakeholders!).
+
+You will be one of the founding members of the AI team at Paloma. The title is hands-on, but the scope is not small: you will help shape our evaluation culture, our tooling choices, and how the AI team grows from here.
+
+You will work on:
+
+Cutting-edge agentic AI product development and evaluation in partnership with our expert clinicians, product managers, and software developers, always focusing on how we improve staff efficiency and the family and child experience.
+Building and running the evaluation pipelines for our AI products: creating gold-standard datasets, testing every prompt and pipeline change against them, and using the results to decide what ships
+Developing our internal AI ‘guild’, a collaborative team of AI engineers and internal AI experts to ensure Paloma is an AI-native organisation
+As the AI team scales, you will be positioned to grow with it, into a Senior AI Engineer role and beyond.
+
+About you
+
+Does this sound like you?
+
+An innovative problem-solver with a deep belief in the potential of LLMs
+You work at pace and are comfortable with the iterative nature of AI development.
+You are a clear communicator and a collaborative team player who, above all, cares about the mission to make children's assessments better and accessible to more patients. 
+You take the responsibility of building for a clinical setting seriously and would rather get something right than ship it fast.
+You have high agency, spotting what needs to be done and driving it through without waiting to be asked
+You want to be part of an always-learning environment, and you will help us go further with your positive attitude.
+ 
+
+Responsibilities:
+
+Design, develop, and maintain AI-driven applications and agents, and integrate them into existing clinical applications
+Design and run the evaluation pipelines that gate AI outputs for quality and safety, building eval sets in partnership with clinicians, product and operations, versioning every prompt and pipeline change and measuring the effect of each change before it ships
+Champion evaluation-driven development across the wider engineering team, helping colleagues build the same habits
+Document code and technical specifications in line with healthcare regulatory requirements.
+ 
+
+Qualifications and experience:
+
+Essential:
+
+Bachelor's or Master's degree in Computer Science, Artificial Intelligence, or a related field, or equivalent practical experience.
+A track record of building AI products in a systematic, data-driven way with at least two years of industry experience or equivalent
+Hands-on experience building and evaluating LLM-powered products that reached real users – you have owned features through the full loop of build, evaluate and improve, not just experimented with prompts
+Excellent analytical and problem-solving skills.
+Proficiency in Python, with a strong grasp of clean, typed, tested code and good software engineering practices.
+Understanding of prompt engineering principles and techniques
+Experience with systematic LLM evaluation techniques – for example, golden/regression datasets, LLM-as-judge pipelines, synthetic data for evaluation, structured error analysis, human-in-the-loop review with domain experts (indicative, not exhaustive)
+Strong communication skills, including the ability to translate complex technical topics into understandable language for colleagues across product and clinical domains.
+Desirable: 
+
+Familiarity with Vertex AI/Gemini Enterprise and the wider Google Cloud Platform (e.g. Cloud Run, Pub/Sub, Cloud Storage).
+Experience with an LLM observability or evaluation platform such as Langfuse, LangSmith, Braintrust or Arize Phoenix.
+Understanding of MCP and integration of tools with agentic systems.
+Experience grounding LLM output in data via techniques such as RAG
+Experience with an LLM orchestration or agent framework such as LangGraph or Agent Development Kit.
+Experience working with health data and adhering to regulatory requirements.
+ 
+
+Why join Paloma?
+
+You will be part of a mission-driven organisation that’s transforming access to autism and ADHD care in England. For all employees, we offer:
+
+A strong and positive culture that prioritises team building, transparency, and career development. This includes protected time and budget for team connection and learning.
+Comprehensive compensation, including:
+Competitive annual salary and equity package. 
+Annual salary reviews, ensuring they are competitive
+5% employer pension contribution
+Equity compensation through Share Options in Paloma Health 
+Optional Private Medical Insurance and Employee Assistance Programme
+Home Office Equipment Allowance
+Professional Registration Fees Allowance for clinicians
+A unique annual leave benefits package which includes:
+37 days of annual leave. This is 28 standard days, plus eight bank holidays, plus your birthday off.
+Option to buy an additional 5 days per year (giving a maximum of 42 days)
+Where required, 2 days per year of special leave, for events that can happen in life, whether personal or family-related
+Additional benefits include:
+A premium performance company laptop
+NHS discounts, including the Blue Light Card (as we are an NHS provider).
+ 
+
+Equality & Diversity
+
+Paloma Health is an equal opportunity employer committed to diversity and inclusion in the workplace and throughout the application process. We do not discriminate based on any protected characteristic.
+
+ 
+
+Accommodations
+
+We’re glad to accommodate candidates who need adjustments throughout the hiring process. We encourage you to be open about the adjustments you need, so we can adapt our interview process accordingly.
+
+ 
+
+Safer Recruitment & Pre-Employment Checks
+
+Paloma Health ensures that supporting people to be safe is at the heart of our work and a key priority. As part of our pre-employment checks, you will be asked to complete a Disclosure and Barring Service (DBS) check. Depending on your role within the business, this will be at either an Enhanced, Standard, or Basic level. We are committed to safer recruitment practices and expect all applicants to share our dedication to safeguarding. 
+
+ 
+
+Application process
+
+Please apply via our website. In your application, we’d love to hear about an AI product you’ve built, and how you knew each release was better than the last. We understand that applying for a new job requires significant effort, and we appreciate the time you put into it and look forward to reviewing your application.
+
+ 
+
+Join us and be part of our journey to revolutionise access to NHS autism and ADHD care!

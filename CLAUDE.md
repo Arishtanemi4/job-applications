@@ -6,9 +6,10 @@
 
 ## Application Tailoring
 
-- Tailor my MasterCVKaustubhSonawane.docx or MasterCVKaustubhSonawane.pdf as per the job description supplied to you.
+- Tailor my `KaustubhSonawaneCVUK.docx` or `KaustubhSonawaneCVUK.pdf` as per the job description supplied to you.
 - Save the tailored cv is a seperate folder for the company applied in `jobs/{commpnayname}/KaustubhSonawane{JobRole}.docx`
 - Use the MasterCV as is in terms of formatting. Change the words and roles as needed.
+- The fromat of the cv must be as is in the `KaustubhSonawaneCVUK.docx` i.e. the structuing, layout and the endlines "---\n" that lead to a line covering the width.
 
 ## Job Roles
 
@@ -27,4 +28,4 @@
 - I shall be supplying Claude Code with the Job Description for each job I am to apply, once done You are supposed to:
     1. Draft the tailored Resume and Cover Letter.
     2. Save the created files the proper folder (Create the folder as well if not existing).
-    3. Update the excel sheet accordingly.
+    3. Update the excel `ApplicationTracker.xlsx` sheet accordingly.
