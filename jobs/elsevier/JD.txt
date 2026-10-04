@@ -1,0 +1,61 @@
+Data Scientist, London/Oxford hybrid working
+
+Are you excited by the opportunity to use machine learning, NLP, and generative AI to help researchers discover knowledge faster and make better decisions?
+
+Would you enjoy turning complex scientific and business challenges into practical, production-ready AI solutions that create real user value?
+
+About our Team
+
+Our global team support products education electronic health records that introduce students to digital charting and prepare them to document care in today’s modern clinical environment. We have a very stable product that we’ve worked to get to and strive to maintain. Our team values trust, respect, collaboration, agility, and quality.
+
+About the Role
+
+In this role, you will design and build machine learning, NLP, and generative AI solutions that support scientific discovery, knowledge extraction, decision support, and intelligent content understanding. You will work with large-scale scientific content and data, applying the right techniques to solve complex problems and deliver reliable, production-ready systems. Working closely with cross-functional partners, you will help turn ambiguous challenges into measurable outcomes that improve how researchers discover and use knowledge.
+
+Responsibilities
+
+Design and build machine learning, NLP, and generative AI systems for scientific discovery, knowledge extraction, decision support, and intelligent content understanding.
+Work with large-scale, complex, and heterogeneous data, including scientific publications, research datasets, knowledge graphs, ontologies, taxonomies, citations, metadata, and content from every scientific discipline.
+Apply the right technique to each problem, using approaches such as classification, regression, clustering, ranking, feature engineering, deep learning, embeddings, LLMs, retrieval, and generative AI.
+Develop capabilities for semantic search, information retrieval, entity extraction, content classification, recommendation, ranking, summarization, question answering, and evidence-grounded generation.
+Build, evaluate, fine-tune, prompt, and integrate models into robust production systems, while continuously improving quality, relevance, reliability, and user value.
+Write clean, tested, production-quality Python and contribute reusable data science components, packages, and scalable data pipelines for preprocessing, inference, experimentation, monitoring, and continuous improvement.
+Support deployment, monitoring, model maintenance, drift detection, automated retraining, and ongoing optimization of data science systems.
+Collaborate with engineering, product, UX, analytics, research, and domain experts, and communicate technical concepts, model behavior, insights, trade-offs, and recommendations clearly to technical and non-technical audiences.
+Requirements
+
+Experience in data science, machine learning, artificial intelligence, NLP, statistics, applied mathematics, computer science, or a related quantitative area.
+Experience working with frontier LLMs such as OpenAI’s GPTs, Anthropic’s Claude, and Google’s Gemini, including fine-tuning LLMs and/or SLMs.
+Strong Python skills and a habit of writing clean, maintainable, well-tested code.
+A solid grasp of machine learning fundamentals, including supervised and unsupervised learning, feature engineering, model evaluation, model selection, and performance measurement.
+Experience working with structured, semi-structured, or unstructured data, especially large-scale text or content datasets.
+Familiarity with common data science and machine learning tools such as Pandas, NumPy, SciPy, Scikit-learn, PyTorch, TensorFlow, or Matplotlib.
+The ability to translate complex and ambiguous requirements into practical, measurable, data-driven solutions, with strong analytical thinking, problem-solving skills, and attention to quality.
+Clear communication skills, a collaborative approach to working with engineering, product, and business stakeholders, and a genuine interest in building production-ready systems that deliver real user value.
+Work in a Way That Works for You
+
+We promote a healthy work/life balance across the organisation. We offer an appealing working prospect for our people. With numerous wellbeing initiatives, shared parental leave, study assistance, and sabbaticals, we will help you meet your immediate responsibilities and your long-term goals.
+
+Working Pattern
+
+Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive
+
+About the Business
+
+A global leader in information and analytics, we help researchers and healthcare professionals advance science and improve health outcomes for the benefit of society. Building on our publishing heritage, we combine quality information and vast data sets with analytics to support visionary science and research, health education and interactive learning, as well as exceptional healthcare and clinical practice. At Elsevier, your work contributes to the world's grand challenges and a more sustainable future. We harness innovative technologies to support science and healthcare to partner for a better worl
+
+
+
+
+
+
+
+We know your well-being and happiness are key to a long and successful career. We are delighted to offer country specific benefits. Click here to access benefits specific to your location.
+
+We are committed to providing a fair and accessible hiring process. If you have a disability or other need that requires accommodation or adjustment, please let us know by completing our Applicant Request Support Form or please contact 1-855-833-5120.
+
+Criminals may pose as recruiters asking for money or personal information. We never request money or banking details from job applicants. Learn more about spotting and avoiding scams here.
+
+Please read our Candidate Privacy Policy.
+
+We are an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law.

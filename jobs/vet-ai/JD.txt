@@ -1,0 +1,42 @@
+About the job
+Senior AI EngineerLocation: Remote (UK-based)Reports to: Staff Engineer, TechTeam: AI, within EngineeringSalary: £70k-£80k
+Who we areWe are Vet-AI, and we are delivering the pet care of the future. Our flagship app, Joii Pet Care, was created to make pet care affordable and accessible for all pet owners. Through Joii, pet mums and dads can video call a vet 24/7, use an intelligent pet symptom checker (think NHS 111 but for pets), or seek preventative care through nurse clinics. And yes — it can all be done from the comfort of home, drastically reducing the need for in-person vet trips.Our mission
+To make pet care affordable and accessible for everyone.
+To improve the lives and wellbeing of everyone working within the veterinary industry.
+Quite simply, we want vet care to be available to everyone, and to ensure the people who are delivering it with us are as happy as they can be. We’re called Joii, after all.Our brand valuesBrave
+We are not afraid to disrupt the status quo. Championing what’s right for pets and standing confidently behind our purpose. Even when it’s challenged.
+We have the courage and confidence to tackle things that nobody has done before.
+We may face hurdles, adversity, and the fear of failure but we have the conviction to keep going.
+Boundless
+We do not constrain ourselves to the expectations of traditional pet care; we’re young, bright and full of fresh ideas.
+We bring energy and pro-activity to everything we do. We’re problem solvers, with a ‘can do’ outlook.
+Our boundless attitude brings the joy.
+Togetherness
+We share an ‘in-it-together’ mindset. We’re one team; we don’t leave anyone to face problems alone when we can help.
+We champion empathy and compassion; caring about what our customers and our colleagues are going through. Going above and beyond when they need us.
+We strive for constant collaboration, no matter where we are in the world.
+
+The role Our AI system is live and doing real clinical work every day: an agentic triage system that reasons about what a pet owner brings to us, such as a lump, a limp, a rash, a wound, and works alongside our vets to get the pet to the right outcome. It is a domain where being confidently wrong has consequences, and that shapes how we build, how we measure, and how much we trust our own results.You would join the team that owns it. The work runs across multimodal understanding, evaluation of system, and the design of the agentic workflows underneath, carried from research plan through to live traffic rather than handed over as a prototype.We are looking for an AI engineer who has already done this in production: strong Python, real depth in evaluation, and hard-won opinions about prompt and tool design and about what breaks when a system meets real users.
+What you’ll actually doTake research all the way into production. You will design the experiment, run the offline simulation, interpret the results honestly, A/B test against the current production variant, and own the monitoring and rollback path once it is live.Design experiments that actually answer the question. Turning a loosely defined opportunity into a research plan with a clear hypothesis, a proposed architecture, a baseline, an evaluation method, success criteria, known risks and a route to production.Improve the agentic system. New sub-agents, new tools, refactored agentic workflows, and the retrieval and memory design underneath them. Architectural decisions made under real uncertainty, where there is no established solution to copy.Own the evidence. Extending our simulation environments and LLM judges so that offline results correlate with what actually happens in production. Prompt optimisation research sits here too.Explain your work to people who are not engineers. Clinical, product and the senior management team all have a stake in what AI does next. You will need to make research plans, results and limitations legible to them.
+What we’re looking forEssential
+4+ years in AI/ML engineering, with production systems you can talk about in detail
+Strong Python.
+Evaluation design where there is no clean ground truth. Generative and agentic systems are hard to measure. We need someone with real opinions and experience here.
+You have taken your own research from prototype to live traffic, including reliability, latency, rate limits, monitoring and rollback.
+Agentic systems experience. Built with an agent framework such as Google ADK, LangGraph or similar. The specific framework matters far less than having thought hard about tool design, orchestration and failure modes.
+Real multimodal or computer vision experience. You have shipped something where a model interpreted an image and the answer mattered,  that might be applied work with frontier vision models plus the evaluation and guardrails around them, or training and deploying custom vision models. We care that you have done it and can reason about when each approach is right.
+Cloud deployment on GCP or equivalent — containerised services, and a managed model platform such as Vertex AI.
+Comfortable being wrong in public. A large part of research is discovering that your idea did not beat the baseline. We need someone who reports that plainly rather than finding a metric that flatters it.
+A clear communicator with technical and non-technical audiences alike.
+RAG - Depth in retrieval-augmented generation
+Nice to have
+Healthcare, veterinary or another high-trust domain where being wrong has consequences.
+Prompt optimisation research
+Golang
+Pub/Sub, BigQuery, and building the dashboards and observability.
+AI safety, information governance or model risk in a regulated or clinically adjacent product.
+
+The process
+An introductory conversation with our Staff Engineer or Head of Engineering.
+A technical conversation about a system you have built
+A practical exercise / technical interview
