@@ -1,0 +1,50 @@
+Are you looking for a new challenge?
+
+Fancy helping us shape the future of motor insurance?
+
+Prima could be the place for you. 
+
+Since 2015, we’ve been using our love of data and tech to rethink motor insurance and bring drivers a great experience at a great price. Our story began in Italy, where we’ve quickly become the number one online motor insurance provider. In fact, we’re trusted by over 5 million drivers. And now we’re expanding to help millions more drivers in the UK and Spain.
+
+
+To help fuel that growth, we need a Software Engineer- Machine Learning to join our Engineering team.
+ 
+This team is the beating heart of Prima. 
+ 
+You’ll be joining over +350 engineers across software development, infrastructure, operations and security. Fueled by curiosity, experimentation and collaboration, you’ll help deliver scalable, impactful solutions that shape the future of insurance.
+ 
+Excited to make an impact? Here are the details
+The team mission is to exploit the power of machine learning to revolutionize the insurance claims process. To help fuel that growth, we need a Software Engineer to join our Claims Machine Learning team.
+What you’ll do:
+Leverage Machine Learning and advanced data analytics to identify risks and opportunities in our claims management platform.
+Analyze and interpret complex data to support the claims management lifecycle.
+Contribute directly to the company’s growth and long-term success through actionable insights.
+Collaborate with cross-functional teams to transform data into intelligence and intelligence into action
+What we’re looking for:
+Software Engineer First: You’re a strong software engineer at heart: you write clean, maintainable, and production-ready code. While you're comfortable handling data, generating insights, and training machine learning models, you approach these tasks with a software engineering mindset, prioritizing scalability, reliability, and performance. 
+Analytical Prowess: Strong quantitative, logical, and analytical skills are essential. At Prima, you'll tackle diverse and stimulating challenges that will put your skills to the test
+Strong Python background with hands-on experience in Pandas, Numpy, PyTorch or Tensorflow, Hugging Face and GenAI. 
+Proficient with RDBMS ( Postgres )
+Broad ML Knowledge: You have a solid grasp of various machine learning paradigms: from classical models to cutting-edge approaches like deep learning, computer vision, and generative AI. You know when and how to apply the right technique to solve real-world problems effectively.
+Nice-to-Have:
+Have international experience and are fluency in English
+Know how to create, manipulate and analyze large datasets
+Background in developing applications using Elixir/Rust.
+Experience working in a Cloud-based environment ( AWS preferred ) is a plus
+Why you’ll love it here:
+ 
+We want to make Prima a happy and empowering place to work. So if you decide to join us, you can expect plenty of perks.
+ 
+🤸 Work Your Way: Enjoy full flexibility – work from home, the office or a mix of both. Plus, work from anywhere for up to 30 days a year.
+
+🏁 Grow with us: We may move fast at Prima, but we move together. Get access to learning resources, mentorship and a growth plan tailored to you.
+
+🌈 Thrive and perform: Your best work begins when you feel your best. Enjoy private healthcare, gym discounts, wellbeing programs and mental health support.
+
+Think you’re a match? Apply now.
+
+ 
+
+At Prima, we celebrate uniqueness. If you don’t meet every requirement but are passionate about this role, we still want to hear from you. Innovation thrives on diverse perspectives.
+
+Prima is proud to be an equal opportunity employer. Need accommodations during the process? Email us at accessible.recruiting@prima.it. Let’s build the future of insurance, together.

@@ -94,6 +94,17 @@ Confirmed mapping for the GenAI applications: ReactJS frontend (Nginx, own EC2 i
   - **Results:** best seed-mean validation SBERT cosine of 0.998 / 0.937 / 0.895 (tic-tac-toe / numbers / shapes). Benchmarked against six pre-trained VLMs: BLIP scored 0.000 / 0.000 / 0.120 on caption correctness, SigLIP did best on shapes (0.860, but as a retrieval task), and GPT-4o and Claude beat the team's models on numbers. The report says the protocols differ, so the cross-model numbers are not directly comparable.
   - Numbers above come from a web summary of the report. Check them against `report/team30.tex` before quoting.
 - **B.Tech Final Year Project:** Udacity self-driving car simulator, a self-driving car trained using a **Convolutional Neural Network (CNN)** model.
+- **Wingman (candidate's proudest project, conventionally developed):** AI dating-coach web app. GitHub: https://github.com/Arishtanemi4/wingman.git. **Not the hackathon entry**: the Encode winner (see Achievements) is a separate, spec-driven build on codeplain's stack. This one was developed normally. Both are called Wingman, so name the one you mean.
+  - **What it does:** the user chats with any of **108 AI personas across 12 personality archetypes** who reply like real matches (short and aloof to lazy openers, warmer only when the message earns it); evaluates the user's dating profile from the perspective of each archetype; analyses hobbies and bio against the archetypes with concrete improvement directions; scores uploaded photos with a vision model.
+  - **Stack:** React (Vite, Tailwind) frontend; Python FastAPI backend; OpenAI-compatible client to **NVIDIA NIM** (Kimi K2 and DeepSeek V4 Pro, selectable per request); vision model `llama-3.2-11b-vision-instruct`; personas generated once with **TinyTroupe** and stored as JSON.
+  - **Design choices (verified in the repo):**
+    - **Personas are data, not code:** one `PersonaAgent` class builds the system prompt from persona JSON plus per-archetype fragments (traits, hobbies, example texting lines), so adding or tuning a persona needs no code change.
+    - **Behaviour by prompt:** a "match his effort" rule (lazy opener gets a low-effort reply, a good one earns warmth), few-shot texting examples per archetype with "never reuse these lines", no asterisk actions, low max tokens (150) and temperature 0.9. A commit ("Chats lowered in verbosity") shows it was tuned after seeing output.
+    - **Rate limits shaped the architecture:** evaluation uses **one persona per archetype (12 LLM calls, not 108)**; LLM and vision calls are serialised with a semaphore (40 RPM limit); results **stream to the UI over server-sent events** as each finishes and are written to disk incrementally; responses are **cached by a hash of the input** (photos cached by image hash).
+    - **LLM output treated as untrusted:** prompts request JSON, **Pydantic** validates it, `json_repair` fixes malformed output, known model quirks are normalised, partial results are salvaged (the insights endpoint always returns all 12 archetypes) and a bad result is not cached. Vision calls retry once, because the model returned prose instead of JSON when overloaded.
+    - **Photo strength:** per-photo scores are combined best-dominant (0.5 best, 0.3 main photo, 0.2 average, soft penalty below 5), with the same constants mirrored in the frontend.
+    - **State:** per-user results held in localStorage under user-specific keys; history appended to a per-user JSON file on the server.
+  - **Guardrails:** warmth adaptation is prompt-driven, not a scoring engine, so don't claim a "dynamic warmth model". No formal evals. Login is a plaintext `users.csv` (demo-grade), so never present it as secure auth. Photo scores such as golden ratio and facial symmetry are LLM-judged and unvalidated, so don't lean on them. The repo's history is 15 commits across 20–21 June 2026 from a single committer. Deployment status and user numbers are unknown, so don't claim either. The repo has `CLAUDE.md` files, so AI-assisted coding was part of the workflow; confirm the wording with the candidate before describing how it was built.
 - **Pauti:** expense tracking and payment splitting Android app, offline-only and privacy-first using a **CRDT** architecture. GitHub: https://github.com/Arishtanemi4/pauti.git
 - **Swindon Borough Council Fuel-Poverty Hack:** household and neighborhood-based fuel poverty data analysis tool. GitHub: https://github.com/Arishtanemi4/fuel-poverty.git
 - **Contact Reminder:** Android app that texts contacts on important dates (birthday, anniversary), with phone call and WhatsApp integration. GitHub: https://github.com/Arishtanemi4/contact-reminder.git
@@ -101,7 +112,7 @@ Confirmed mapping for the GenAI applications: ReactJS frontend (Nginx, own EC2 i
 ## Achievements
 
 - **Project Hack 27:** Rolls-Royce Derby, 4th place. Human-centric data analytics tool to predict the competition winner from wellbeing and psychological temperament survey data. GitHub: https://github.com/Arishtanemi4/team-4b.git
-- **Encode Vibe Coding Hackathon:** Codeplain.ai track, 2nd place. Wingman.ai, an AI-powered dating app simulation built with codeplain's spec-driven framework. GitHub: https://github.com/Arishtanemi4/wingman-codeplain.git
+- **Encode Vibe Coding Hackathon:** Codeplain.ai track, 2nd place. Wingman.ai, an AI-powered dating app simulation built with codeplain's spec-driven framework (**spec-driven development on the codeplain API stack**). GitHub: https://github.com/Arishtanemi4/wingman-codeplain.git. This is the version that won and the one on the CV. The candidate's own favourite is the separately built, conventionally developed Wingman in **Projects** (https://github.com/Arishtanemi4/wingman.git); don't merge the two.
 - **University of Bristol Datathon (sponsored by Lloyds Bank):** 3rd place. Kaggle credit card fraud detection problem.
 
 ## Skills Inventory
@@ -116,7 +127,7 @@ Confirmed mapping for the GenAI applications: ReactJS frontend (Nginx, own EC2 i
 
 | Role | Lead with | Supporting |
 |---|---|---|
-| AI Solutions / GenAI / Agentic AI Engineer | End-to-end ownership of GenAI apps, RAG stream, Azure OpenAI, LlamaIndex, pgvector | Email-parsing automation (Textract → Azure OpenAI), Wingman.ai, FastAPI |
+| AI Solutions / GenAI / Agentic AI Engineer | End-to-end ownership of GenAI apps, RAG stream, Azure OpenAI, LlamaIndex, pgvector | Email-parsing automation (Textract → Azure OpenAI), Wingman (conventional build, persona-agent app), Wingman.ai (codeplain hackathon winner), FastAPI |
 | Forward Deployed Engineer | HDFC title match, end-to-end delivery for internal stakeholders, Power BI migration | Full-stack + AWS deployment |
 | Machine Learning Engineer | CNN, VisionCaptioner, MSc ML work | MLOps stream; SageMaker (email pipeline only, not model training) |
 | Data Scientist | Bristol MSc, AstraZeneca dissertation, Apriori, Pandas | Hackathon wins |

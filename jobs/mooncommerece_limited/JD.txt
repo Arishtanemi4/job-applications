@@ -1,0 +1,41 @@
+About the job
+About Moon CommerceMoon Commerce Limited is a UK-registered technology company building and operating digital ventures across commerce, consulting, property and SaaS. We trade online, advise businesses on digital transformation and data-driven marketing, and are developing an AI-powered automation platform that turns repetitive processes into scalable systems.We're small and early-stage, which means the person in this role will see the whole business rather than one corner of it.The roleWe're building an agentic automation platform that replaces repetitive operational work with systems. This role is hands-on building and testing those workflows — not research, not prompt tinkering. You'll ship things other people depend on.You'll work directly with the leadership team on what gets built and why.What you'll do
+Build and test automation workflows using LLM APIs
+Work on retrieval over internal and client documents
+Integrate with third-party tools and APIs across our ventures
+Write evaluations — decide how we know a workflow is working and catch it when it isn't
+Take workflows from prototype to reliable enough to run unattended
+Document what you build so someone else can pick it up
+Your first three months
+Month 1: learn the ventures, get into the existing codebase, and ship a small automation end-to-end
+Month 2: Own a workflow in production with evaluation coverage
+Month 3: lead the build on a client-facing automation
+What we're looking for
+Minimum 2 years' hands-on Python experience
+Practical experience with an LLM API (Anthropic, OpenAI or similar) — something you built, not just used
+Comfort working with REST APIs and JSON
+Understanding of RAG and why grounding matters
+Git, and the habits that come with working in a shared repo
+A realistic view of where these models fail and what to do about it
+Clear written English — you'll be documenting and explaining decisions
+Right to work in the UK — we cannot offer sponsorship
+Able to work from our [area] office 2 days a week
+Nice to have
+Vector databases (Pinecone, Chroma, pgvector or similar)
+LangChain, LlamaIndex or equivalent
+AWS or other cloud deployment
+Automation tooling (n8n, Zapier, Make) at a technical level
+What we offer
+Salary £35,000–£39,000 depending on experience
+25 days' annual leave plus 8 UK bank holidays
+Office closed between Christmas and New Year
+Workplace pension with [15 ]% employer contributions]
+Hybrid working — 2 days a week at our [area] office, 37.5 hours, permanent
+£[3750] annual learning budget for courses and certifications
+Direct mentoring from the leadership team and exposure across every venture
+Real ownership of your work and a short path to broader responsibility
+Hiring process
+20-minute introductory call
+45-minute technical conversation about something you've built
+30-minute conversation with the founding team
+We aim to give a decision within a week of the final stage, and we give feedback either way.Reporting to: Technology LeadVisa sponsorship: We are not able to offer visa sponsorship for this role. Applicants must already hold the right to work in the UK.Equal opportunitiesMoon Commerce is an equal opportunity employer. We welcome applications from all backgrounds and make hiring decisions on merit. If you need any adjustment to the application or interview process, tell us and we'll arrange it.

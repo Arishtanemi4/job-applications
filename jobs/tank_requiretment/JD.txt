@@ -1,0 +1,59 @@
+Data Scientist x 2 (BBBH97524) London, England
+Salary:	GBP80000 - GBP90000 per annum + Bonus
+Role: Data Scientist (Generative AI)
+Location: London, United Kingdom (flexible hybrid)
+Type: Permanent - Immediate start. 
+
+ 
+
+My client, a well established global data and AI consultancy serving major organisations across sectors including insurance, healthcare, banking and retail, is looking for a highly capable and innovative Data Scientist with strong Generative AI experience to join their Data Science team.
+
+ 
+
+The Role:
+You'll lead the development and deployment of GenAI solutions, including LLM-based applications, prompt engineering, fine-tuning, embeddings, and retrieval-augmented generation (RAG) for enterprise use cases. My client is after someone with a strong foundation in machine learning and NLP, and hands-on experience with modern GenAI tools such as OpenAI, LangChain, Hugging Face, or comparable frameworks.
+
+ 
+
+Key Responsibilities:
+
+Design and build GenAI solutions using LLMs for business problems spanning customer service, document automation, summarisation, and knowledge retrieval
+Fine-tune or adapt foundation models using domain-specific data
+Implement RAG pipelines, embedding models, and vector databases (e.g., FAISS, Pinecone, ChromaDB)
+Collaborate with data engineers, MLOps, and product teams to build end-to-end AI applications and APIs
+Develop custom prompts and prompt chains using common orchestration frameworks
+Evaluate model performance, mitigate bias, and optimise for accuracy, latency, and cost
+Stay current with the latest trends in LLMs, transformers, and GenAI architecture
+ 
+
+Essential Experience:
+
+Solid experience in Data Science / ML, including recent hands-on work with LLMs/GenAI projects
+Strong Python skills, particularly with Transformers, LangChain, scikit-learn, PyTorch, or TensorFlow
+Experience with GPT-4, Claude, Mistral, LLaMA, or similar models
+Knowledge of vector search, embedding models, and semantic search techniques
+Ability to build and deploy scalable AI workflows via APIs or web apps (e.g., FastAPI, Streamlit, Flask)
+Familiarity with major cloud platforms and MLOps best practices
+Strong communication skills, with the ability to translate technical solutions into business impact
+ 
+
+Desirable:
+
+Experience with prompt tuning, few-shot learning, or LoRA-based fine-tuning
+Understanding of data privacy and security considerations in GenAI applications
+Familiarity with enterprise architecture, SDLC, or GenAI use cases in regulated industries
+Experience with enterprise data platform tools is a plus
+ 
+
+What's on Offer:
+
+Competitive salary plus bonus
+Private healthcare, life assurance, income protection, and pension scheme
+Additional financial wellbeing benefits
+Strong investment in professional development and training
+Share purchase scheme
+Flexible hybrid working model
+A genuinely inclusive, equal-opportunity employer
+ 
+
+Please note: candidates must already hold the right to work in the United Kingdom.
