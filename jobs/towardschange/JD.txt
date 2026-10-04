@@ -1,0 +1,18 @@
+About UsTowardsChange is a technology consulting company with a passion for innovation.We help organisations reinvent how they operate, build, and innovate by combining deep technical expertise with a strong understanding of business challenges.As official partners of OpenAI, NVIDIA, Anthropic, and Microsoft, we help our customers identify and deploy these technologies for their transformation.For this role, you can be based in London, Paris, Marseille, Dubai, or Beirut, working closely with our teams and enterprise customers across Europe and the Middle East.
+About the RoleAs an Applied AI Engineer at TowardsChange, you will work directly with enterprise customers to design, build, and deploy AI solutions that deliver measurable business outcomes.You will combine process mining and business requirements gathering with AI, data, and software expertise to take use cases from initial discovery and architecture through prototyping, evaluation, integration, production deployment, and scale.
+In This Role, You Will
+Work directly with enterprise customers to identify and prioritise high-value AI use cases.
+Translate business requirements into technical architectures, implementation plans, and measurable success criteria.
+Design, build, and deploy production AI applications using OpenAI, Anthropic, Microsoft, open-source models, and other relevant technologies.
+Develop AI agents, RAG systems, enterprise search, workflow automation, structured-data applications, and model-powered business applications.
+Make technical decisions across models, agents, retrieval, tools, data architecture, observability, security, privacy, infrastructure, and governance.
+Help customers move from prototypes and proofs of concept to reliable production systems and scaled deployments.
+Stay at the forefront of developments across proprietary and open-source AI technologies and determine where they can create real enterprise value.
+
+You’ll Thrive in This Role If You
+Have experience designing and building AI, machine-learning, or advanced software systems, ideally including systems deployed into production.
+Are curious, pragmatic, and willing to challenge technical assumptions when a simpler or better solution exists.
+Understand that building enterprise AI requires more than calling an LLM API—you think about data, architecture, evaluation, security, reliability, latency, cost, and user experience.
+Are comfortable working with both proprietary and open-source models rather than being tied to a single AI provider.
+Can communicate effectively with engineers, business teams, IT and security leaders, and executives.
+Have strong ownership and can operate effectively in fast-moving and sometimes ambiguous environments

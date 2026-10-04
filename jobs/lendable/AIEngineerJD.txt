@@ -1,0 +1,46 @@
+About the role
+This role combines applied AI engineering, process design and hands-on Python development. You will work on loosely defined problems, test ideas quickly and turn the strongest ones into reliable services.
+
+In under a year, we built a chatbot across Loans, Credit Cards and Motor Finance that now handles more than 1 million customer chats a year at around a 70% resolution rate. It completes complex account actions autonomously, end to end, and we hold it to the same standard as our best operations agents.
+
+We have also built AI document parsers that process around 500,000 documents a year, and are trialling voice AI on our phone lines. You will help take these systems further and find the next high-impact processes to automate.
+
+What you will do
+Improve the chatbot's quality and expand the account actions it can complete autonomously.
+
+Expand our in-house document extraction pipelines to make parsing faster and more accurate.
+
+Design LLM-driven workflows that simplify case management.
+
+Find new opportunities to replace manual work with effective AI systems.
+
+Own solutions from discovery and prototyping through deployment, evaluation and monitoring.
+
+What we are looking for
+Strong engineering skills and experience building production systems.
+
+Hands-on experience using LLMs in real workflows.
+
+Experience designing and improving prompts, retrieval pipelines, agent workflows and evaluations.
+
+An understanding of business processes and good judgement about where AI can simplify or automate them.
+
+The ability to structure ambiguous problems, test hypotheses and make progress with partial information.
+
+Clear communication and the ability to explain trade-offs and influence stakeholders.
+
+Why join us
+Work with LLMs, retrieval systems, agents and automation pipelines every day.
+
+Join a small, autonomous team with meaningful ownership and decision-making power.
+
+Interview process
+Introductory call
+
+Take-home exercise
+
+Take home debrief
+
+Case study
+
+Onsite final interview

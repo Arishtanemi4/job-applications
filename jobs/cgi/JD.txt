@@ -1,0 +1,76 @@
+AI Engineer / Developer
+Category: Analytics and Emerging Digital Technologies
+Main location: United Kingdom, England - South West, Gloucester
+Position ID: J0426-1083
+Employment Type: Full Time
+Position Description:
+At CGI, you will help design and deliver advanced AI solutions that support mission-critical systems across the Space, Defence and Intelligence sector.
+
+As an AI Developer / Engineer, you will build and deploy intelligent applications that unlock the value of data, enhance decision-making, and drive operational impact. Working with cutting-edge technologies and expert teams, you will take ownership of complex challenges, contribute innovative ideas, and grow your career within a collaborative and supportive environment.
+
+The Space, Defence and Intelligence business unit in CGI is a true IT Systems Integrator. We work, build, and operate bespoke, technically complex, mission-critical systems which help our clients keep us all safe and secure. We bring innovation to our clients using proven and emerging technologies, agile delivery processes and our deep expertise across the breadth of space, defence, intelligence, aerospace and maritime, all underpinned by our end-to-end cyber capability. We work collaboratively with global technology companies, cutting edge SMEs and academia to deliver the optimal solution for each client.
+
+CGI was recognised in the Sunday Times Best Places to Work List 2025 and has been named a UK ‘Best Employer’ by the Financial Times. We offer a competitive salary, excellent pension, private healthcare, plus a share scheme (3.5% + 3.5% matching) which makes you a CGI Partner not just an employee.
+
+We are committed to inclusivity, building a genuinely diverse community of tech talent and inspiring everyone to pursue careers in our sector, including our Armed Forces, and are proud to hold a Gold Award in recognition of our support of the Armed Forces Corporate Covenant. Join us and you’ll be part of an open, friendly community of experts. We’ll train and support you in taking your career wherever you want it to go.
+
+Due to the secure nature of the programme, you will need to hold UK Security Clearance or be eligible to go through this clearance. This position will be based on site near Gloucester 5 days a week.
+
+Your future duties and responsibilities:
+In this role, you will design, build and deploy AI-enabled applications within secure, often disconnected environments. You will take ownership of developing machine learning and AI solutions, including large language models, retrieval systems and data pipelines, ensuring they are scalable, reliable and optimised for performance.
+
+Working closely with multidisciplinary teams, you will integrate AI capabilities into existing systems and contribute to solving complex operational challenges. You will bring creativity and technical expertise to developing innovative solutions, while being supported by a collaborative and forward-thinking environment.
+
+• Design & Develop AI-enabled applications and machine learning solutions
+
+• Build & Optimise end-to-end ML pipelines and data workflows
+
+• Train, Fine-tune & Deploy models, including LLMs and other AI systems
+
+• Integrate & Enhance AI capabilities within existing platforms
+
+• Deploy & Manage AI workloads using containerisation and orchestration tools
+
+• Collaborate & Innovate with cross-functional teams to solve complex challenges
+
+• Monitor & Improve model performance and scalability in production
+
+Required qualifications to be successful in this role:
+You should have strong experience in AI or machine learning development, with solid programming skills and an understanding of modern AI frameworks and deployment practices. Experience delivering AI solutions into production environments is essential.
+
+• You should have strong Python development skills
+
+• Solid understanding of machine learning fundamentals and AI concepts
+
+• Experience with frameworks such as PyTorch, TensorFlow or LangChain
+
+• Experience developing and deploying machine learning models into production
+
+• Knowledge of data pipelines and CI/CD practices
+
+• Experience with Docker, Kubernetes or similar technologies
+
+• Familiarity with LLMs, retrieval systems or vector databases (desirable)
+
+• Experience working with GPU or on-premise AI environments (advantageous)
+
+#LI-SB2
+
+Skills:
+AI Data Modeling
+LangChain
+PyTorch
+What you can expect from us:
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.
