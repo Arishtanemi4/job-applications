@@ -40,5 +40,5 @@
 - I shall be supplying Claude Code with the Job Description for each job I am to apply, once done You are supposed to:
     1. Draft the tailored Resume and Cover Letter.
     2. Save the created files the proper folder (Create the folder as well if not existing).
-    3. Update the excel `ApplicationTracker.xlsx` sheet accordingly.
+    3. Update the excel `ApplicationTracker.xlsx` sheet accordingly. (Put Apply date for the same date the cv is created.)
     4. Fill the `GAPS.md` file approprieately.

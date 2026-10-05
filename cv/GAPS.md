@@ -2,7 +2,7 @@
 
 Topics and tech that the jobs applied for ask for, and that `EXPERIENCE.md` cannot back with a real project. Build a project for each, then add it to `EXPERIENCE.md` and the CV.
 
-- **Source:** the 13 JDs in `jobs/*/JD.txt` (BSC, CATCHES, CGI, Currys, Elsevier, Lendable, Moon Commerce, Moonpig, Paloma Health, Prima, Tank/Data Scientist GenAI, TowardsChange, Vet-AI). Milltech has no JD saved, so it is not counted.
+- **Source:** the 13 JDs in `jobs/*/JD.txt` (BSC, CATCHES, CGI, Currys, Elsevier, Lendable, Moon Commerce, Moonpig, Paloma Health, Prima, Tank/Data Scientist GenAI, TowardsChange, Vet-AI), plus Pay.UK (14th, added 5 Oct 2026; only B12 and the S1 mention below count it, other counts are still x/13). Milltech has no JD saved, so it is not counted.
 - **Count (x/13):** how many JDs ask for it, from a manual read. Required and nice-to-have are both counted, so treat it as approximate. Most of the 13 are AI Engineer roles, so Data Scientist and ML items are under-counted.
 - **Tiers:** S = build first. A = high value. B = middle. C = lower. D = only if cheap. F = skip, a bullet or a line in Skills is enough.
 - **Ordering rule:** AI/ML tech sits in S and A, data work in the middle tiers, MLOps, cloud and extra languages in the low tiers. Within that, ties are broken by how many JDs ask and how firmly, then by how cheap the project is.
@@ -26,7 +26,7 @@ Also deploy one of the flagships on Vertex AI (Cloud Run + Vertex) to close B10 
 
 | # | Topic | Asked by | Gap today | Project to build |
 |---|---|---|---|---|
-| S1 | **LLM evaluation**: gold/regression datasets, LLM-as-judge, synthetic eval data, error analysis, evaluating where there is no clean ground truth, offline-to-online correlation | 9/13: Paloma, Vet-AI, CATCHES, Lendable, Moon, BSC, TowardsChange, Currys, Tank | No formal evals at HDFC or in Wingman. Paloma and Vet-AI make this their core requirement. | Flagship 2. Report the baseline plainly, including where a change did not beat it. |
+| S1 | **LLM evaluation**: gold/regression datasets, LLM-as-judge, synthetic eval data, error analysis, evaluating where there is no clean ground truth, offline-to-online correlation | 9/13: Paloma, Vet-AI, CATCHES, Lendable, Moon, BSC, TowardsChange, Currys, Tank (+ Pay.UK: structured testing and evaluation of model outputs) | No formal evals at HDFC or in Wingman. Paloma and Vet-AI make this their core requirement. | Flagship 2. Report the baseline plainly, including where a change did not beat it. |
 | S2 | **Agent frameworks and orchestration**: LangGraph, Google ADK, multi-agent systems, subagents, durable workflows, managed agents | 10/13: Vet-AI, Paloma, CATCHES, Currys, CGI, Tank, TowardsChange, Lendable, Moon, BSC | Only hand-rolled tool calling and LlamaIndex. No framework, multi-agent or durable workflow project. | Flagship 1. Build the same agent on LangGraph, on ADK and with a custom loop, and write up the trade-offs. |
 | S3 | **MCP**: building servers and clients, evaluating connectors, tool gateways | 3/13: Paloma, CATCHES, BSC | No project. Claude Code is only a tool in Skills. Ranked S for high signal and low effort (a few days), not for frequency. | Flagship 1. Publish an MCP server over a real data source plus a client, and compare MCP tools against plain function calling. |
 | S4 | **Agent harness and context engineering**: context management, structured outputs, compaction, long-running sessions, state, memory schemas, forgetting, retries and fallbacks | 3/13: CATCHES, BSC, Vet-AI | Wingman has validate/repair/retry/cache and SSE streaming, but no memory, compaction or long-running sessions. | Flagship 1. Add a memory store with reconciliation and forgetting, and measure what compaction costs in quality. |
@@ -60,6 +60,7 @@ Also deploy one of the flagships on Vertex AI (Cloud Run + Vertex) to close B10 
 | B9 | **Voice AI** and multimodal inputs (messaging, voice) | 2/13: Lendable, CATCHES | None. | A small voice agent (speech-to-text, LLM, text-to-speech) with a latency measurement. |
 | B10 | **Managed cloud AI platforms**: Vertex AI/Gemini, Azure AI services, Bedrock | 6/13: Paloma, Vet-AI, Currys, TowardsChange, BSC, CGI | Azure OpenAI at HDFC, and AWS. No Vertex AI or GCP. Moved up from C: 6/13, and GCP with Vertex AI is essential at Vet-AI. | Deploy one flagship on Vertex AI (Cloud Run + Vertex), and call Azure AI. Low effort on top of a flagship. |
 | B11 | **CI/CD for ML and LLM systems** (eval gates in pipelines) | 3/13: CGI, Moonpig, Paloma | Jenkins/GitLab deploys at HDFC, with no eval gates. Moved up from C because it is part of flagship 2. | Part of flagship 2. GitHub Actions that block a merge on an eval regression. |
+| B12 | **Microsoft Copilot Studio and Microsoft Foundry**: building and delivering copilots/agents in Copilot Studio, Foundry for model deployment and evaluation | 1/14: Pay.UK (Copilot Studio is a "must", Foundry good to have) | None. Azure OpenAI API at HDFC only, and no Copilot Studio or Foundry delivery. Applied to Pay.UK without it and said so in the cover letter. A hard requirement there, but only one JD, so B rather than higher. | Build and publish a Copilot Studio agent (topics, knowledge sources, a Power Automate or API action) and deploy and evaluate one model in Foundry. A few days of work; pairs with C4 if you target Microsoft-heavy roles. |
 
 ## C tier
 
@@ -68,7 +69,7 @@ Also deploy one of the flagships on Vertex AI (Cloud Run + Vertex) to close B10 
 | C1 | **Spark / Databricks and the wider data platforms**: Databricks, Fabric, BigQuery, dbt | 4/13: Currys, BSC, Vet-AI, Moonpig | None. | A small Databricks or Spark pipeline, plus a dbt model layer. Fabric and BigQuery are lower value. |
 | C2 | **Model monitoring, drift detection, automated retraining** | 3/13: Elsevier, Moonpig, CGI | None. | Add drift detection and a retrain trigger to flagship 3 or B7. |
 | C3 | **Multi-user isolation, permissions and secrets management** | 3/13: CATCHES, BSC, Tank | RBAC and LDAP at HDFC. No SSO, OAuth or secrets-manager work. | Add OAuth, per-user isolation and a secrets manager to flagship 1. |
-| C4 | **Microsoft ecosystem**: Graph API, SharePoint, Power Automate | 1/13: BSC | None. | An agent that reads SharePoint via Graph API. Only worth it for Microsoft-heavy roles. |
+| C4 | **Microsoft ecosystem**: Graph API, SharePoint, Power Automate (see B12 for Copilot Studio and Foundry) | 1/13: BSC | None. | An agent that reads SharePoint via Graph API. Only worth it for Microsoft-heavy roles. |
 
 ## D tier
 
@@ -90,6 +91,7 @@ Skip these: they show up once, are cheap to learn on the job, and do not justify
 | Streamlit / Flask | Tank | FastAPI already covers the API requirement. |
 | Elixir / Rust | Prima (nice to have) | Not worth a project. |
 | Cursor / Codex as tools | Currys | Claude Code is already listed in Skills. |
+| Technical documentation for models, pipelines and APIs | Pay.UK | No documentation work is recorded in `EXPERIENCE.md`, so the Pay.UK CV does not claim it. Write READMEs and model cards in the flagship repos (see D5) and it is covered. |
 
 ## Gaps that a project cannot close
 

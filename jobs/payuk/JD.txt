@@ -1,0 +1,65 @@
+AI Engineer
+London
+ 
+
+AI Engineer, London, Permanent
+
+We’re looking for an AI Engineer to help us apply AI in a setting where reliability, clarity and trust matter every day. At Pay.UK, you’ll work in an organisation that supports UK retail payments at national scale, with systems processing over 10 billion transactions worth over £11 trillion annually. This is a chance to build practical AI solutions in a complex, highly important environment, while working with colleagues across technology and the wider business.
+
+You’ll join a team that values quality engineering, clear communication and continuous learning. We are transparent, collaborative and open to ideas, and we want someone who can turn AI concepts into well-designed, usable tools and services.
+
+Accountabilities
+Design and build AI solutions that address defined business and operational needs within Pay.UK.
+Develop, test and deploy machine learning and generative AI models for internal tools, workflows or decision support.
+Prepare and refine datasets for model training, evaluation and ongoing performance monitoring.
+Integrate AI services into existing platforms, applications and engineering workflows.
+Create technical documentation for models, data pipelines, APIs and deployment processes.
+Evaluate model outputs, identify risks or limitations, and improve performance through structured testing.
+Collaborate with engineers, data specialists and business teams to translate requirements into working AI applications.
+Monitor live AI solutions, troubleshoot issues and implement updates to maintain reliability and accuracy.
+Qualifications, Skills and Experience
+Experience designing, building and deploying AI or machine learning solutions for live production use.
+Experience using Python and AI or machine learning libraries to develop, test and maintain AI solutions.
+Experience preparing datasets, training models and evaluating model performance using structured testing and evaluation methods.
+Experience integrating AI solutions with business applications, APIs or cloud-based services.
+Experience producing technical documentation and explaining implementation choices to both technical and non-technical colleagues.
+Delivery experience with Microsoft copilot Studio is a must.  Microsoft Foundry is good to have and/or other LLM technologies.
+Pay.UK Behaviours
+At Pay.UK, our behaviours are central to who we are and how we operate. They bring our values to life, shape our culture, and guide how we make decisions, collaborate, and respond to challenges across the payments ecosystem. All interview processes will assess the following behaviours:
+
+Listen to Find Win-Wins - Empathy, Listening and Understanding
+Influence with Courage - Influence, Courage
+Go Horizontal First - Cross Boundary Collaboration
+Take Ownership - Self Development
+Opportunity Mindset - Initiative
+Simplify - Achievement Orientation
+ 
+
+Inclusivity
+At Pay.UK, we value diversity and inclusivity. Research has shown that candidates from underrepresented groups may hesitate to apply unless they meet all the requirements listed. We encourage all qualified candidates to apply, regardless of how closely their skills and experience match the requirements. We are committed to supporting accessibility needs and creating a welcoming environment for all employees. Become part of our team and contribute to the creation of an inclusive work environment that values everyone's unique input.
+
+Who we are
+Pay.UK maintains and develops the UK retail payment systems and standards that are core to the economy being able to function on a day-to-day basis.
+
+From Bacs to Faster Payments and cheques – we act as the single operator for all UK retail payments. We put the needs of consumers and businesses at the heart of everything we do, working in the public interest to ensure that the systems the country relies on for its banking transactions are safe, open, innovative and resilient.
+
+Our payment systems underpin the services that enable funds to be transferred between people and institutions. In 2024, the UK's retail payment systems processed 11 billion transactions worth over £10 trillion through Bacs Direct Credit, Direct Debit, Faster Payments, and cheques, and our Current Account Switch Service has facilitated over 9 million switches since it’s launch in 2013.
+
+Every day, individuals and businesses use the services we provide to get their salaries, pay their bills and make online and mobile banking payments. Our vision for the future is to enable a vibrant economy, with Pay.UK delivering robust payment infrastructure and standards for the benefit of consumers and businesses nationwide.
+
+Learn more about life at Pay.UK by hearing what employees have to say, click here to view videos.
+
+Benefits & additional information
+12% Non-contributory pension
+Discretionary annual bonus
+30 days annual leave (excluding bank holidays)
+Private medical insurance, life assurance, income protection, health cash plan, dental insurance, Bupa medicals etc
+Employee assistance programme
+Cycle to Work Scheme
+Season ticket loan
+Annual fitness subsidy of up to £500 per annum
+Working from home policy - minimum 40% in the office (eg. 2 days in the office over a 5 day working week)
+Please note:
+
+Some of our benefits are only available to colleagues after meeting the requirements of the probationary period.
+Pay.UK employee benefits are not available to contractors and are only available to permanent and fixed-term employees.
