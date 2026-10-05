@@ -1,0 +1,32 @@
+About the job
+About:
+One of 30 new companies, from more than 25,000, selected by NVIDIA for its GTC 2026 event in San Jose. Investors include Antoine Arnault, Natalia Vodianova, Roy Chung (Apollo.io), Dillon Erb (Paperspace) and Sarah Willersdorf (former Head of Luxury, BCG).
+Location: Remote
+Job Summary:
+AI Engineer role focussed on building a new consumer-facing agentic experience at CATCHES.This is an opportunity to combine modern agentic systems with proprietary data and foundational technology developed in-house to create a unique product experience.You’ll work directly with the founders and engineering team to design, build and ship the systems behind the product, taking new capabilities from prototype through to production.
+Responsibilities:
+Agentic workflows: tool use, planning, routing, multi-step execution and proactive behaviour
+Agent harness: build and evolve context management, structured outputs, retries, fallbacks, compaction and long-running sessions
+State, memory and retrieval: durable state, memory schemas, reconciliation, forgetting, keyword/vector/hybrid retrieval
+Orchestration: subagents, multi-agent systems, managed runtimes vs custom harnesses, durable workflows
+Tools and integrations: MCP, tool gateways, third-party services, browser/computer use, messaging and multimodal inputs
+Decisioning and control: model/tool routing, guardrails and calibrated decision models
+Evals and observability: task success, regressions, failure modes, tracing and production monitoring
+Production: reliability, security, multi-user isolation, latency, cost and model serving
+
+Requirements:
+Strong software engineering foundations ideally across backend or full-stack engineering
+Experience shipping agentic or LLM-powered product experiences to real users
+Hands-on experience building agent orchestration, tool use and multi-step workflows
+Strong understanding of context engineering, state, memory and long-running agent systems
+Experience designing evals and diagnosing agent failure modes
+Experience with tracing, observability and debugging non-deterministic systems
+Comfortable integrating models, APIs, third-party services and product infrastructure
+Strong product judgement and the ability to move quickly from experimentation into production
+Comfortable evaluating rapidly changing models, frameworks and approaches
+
+Working at CATCHES:
+Remote with optional co-working access.
+Be part of an experienced team that values shipping, experimentation, and autonomy.
+Contribute early to product and architecture decisions.
+Use cutting-edge tech to deliver pioneering consumer facing technology at scale.
