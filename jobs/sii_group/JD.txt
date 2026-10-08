@@ -1,0 +1,81 @@
+Published on 17/09/2026
+PERMANENT CONTRACT / SII United Kingdom
+MISSION
+We are seeking an AI Engineer for Autonomy to design, develop and deliver advanced Artificial Intelligence and Machine Learning solutions within complex and safety-critical environments. Working within a multidisciplinary AI and software engineering team, you will transform business and operational challenges into robust, scalable and secure AI capabilities.
+
+
+This role offers the opportunity to contribute across the full AI lifecycle, from concept development and model design through to deployment and continuous improvement, while supporting innovation across high-profile defence and technology programmes.
+
+PROFILE
+KEY RESPONSIBILITIES:
+
+• Translate business and operational requirements into AI solution designs and measurable outcomes.
+• Develop, train and evaluate AI and Machine Learning models across areas such as computer vision, autonomy, large language models and predictive analytics.
+• Design and maintain robust data processing, training and evaluation pipelines.
+• Apply Responsible AI principles, ensuring model robustness, explainability, security and compliance.
+• Work closely with software engineers to deploy AI capabilities into production environments.
+• Define and monitor model performance metrics, data quality indicators and model drift measures.
+• Produce high-quality, secure and maintainable code following software engineering best practices.
+• Generate technical documentation including architecture designs, model reports and implementation guidance.
+• Develop reusable AI components and frameworks to accelerate future programme delivery.
+• Support customer demonstrations, proof-of-concepts, technical workshops and bid activities.
+• Collaborate with data engineers, architects and cyber security specialists to develop integrated
+solutions.
+• Evaluate emerging AI technologies and promote continuous improvement and innovation.
+ 
+
+ESSENTIAL SKILLS & EXPERIENCE:
+• Strong Python development experience within commercial or industrial environments.
+• Experience developing AI and Machine Learning solutions using frameworks such as PyTorch,
+TensorFlow or Scikit-Learn.
+• Knowledge of autonomy frameworks such as ROS2 or equivalent technologies.
+• Experience working with Computer Vision, Deep Learning, NLP/LLM or Time-Series Analytics
+solutions.
+• Strong understanding of data analysis and manipulation using tools such as Pandas, NumPy
+and SQL.
+• Experience deploying AI models into operational environments.
+• Understanding of Responsible AI principles, model explainability and AI security
+considerations.
+• Experience using Git and modern software development practices including testing and
+continuous integration.
+• Knowledge of Agile development methodologies and DevOps/MLOps principles.
+• Strong stakeholder engagement and communication skills with both technical and nontechnical
+audiences.
+• Degree, Master's qualification or equivalent experience in Artificial Intelligence, Software
+Engineering, Data Science or a related discipline.
+• Eligible to obtain UK Security Clearance (SC).
+ 
+
+DESIRABLE SKILLS:
+• Experience with MLflow, Weights & Biases or similar experiment-tracking tools.
+• Experience with Spark or large-scale data processing platforms.
+• Knowledge of ONNX, TorchScript, FastAPI or gRPC.
+• Experience deploying AI solutions within Azure, AWS or Google Cloud environments.
+• Experience using Docker and containerised deployment approaches.
+• Experience developing software in C++ within safety-critical environments.
+• Experience defining solution architectures or technical governance.
+• Familiarity with large-scale data management and data-labelling strategies.
+• MLOps experience supporting production AI deployments.
+• Contributions to open-source projects, technical publications or patents.
+• Relevant AI, cloud or Agile certifications.
+
+OUR AGENCY
+With five strategic offices in Belfast, Chester, Farnborough, London and Oxford, we work in partnership with our customers UK-wide to deliver high-impact engineering solutions. 
+SII UK is a trusted Aerospace and Defence engineering partner, supporting the delivery of complex, mission-critical programmes while helping to shape the future of innovation across next-generation systems and technologies. 
+Our teams contribute daily to creating a fulfilling, stimulating and career development focused work environment. 
+True to our human-centred values, we are committed to making SII UK a Great Place To Work®, having been certified 5 years running. 
+Joining SII UK means being part of our collective goals, guided by our mission “Let’s Tech Together,” and helping to build a digital future that is sustainable, at the heart of an environment that values learning & collaboration.
+ 
+
+SII GROUP
+Who are we?
+
+With five strategic offices in Belfast, Chester, Farnborough, London and Oxford, we work in partnership with our customers UK-wide to deliver high-impact engineering solutions.
+
+SII UK is a trusted Aerospace and Defence engineering partner, supporting the delivery of complex, mission-critical programmes while helping to shape the future of innovation across next-generation systems and technologies.
+
+Our teams contribute daily to creating a fulfilling, stimulating and career development focused work environment.
+
+True to our human-centred values, we are committed to making SII UK a Great Place To Work®, having been certified 5 years running.
+
+Joining SII UK means being part of our collective goals, guided by our mission “Let’s Tech Together,” and helping to build a digital future that is sustainable, at the heart of an environment that values learning & collaboration.

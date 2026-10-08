@@ -1,0 +1,88 @@
+Machine Learning Engineer
+London, United Kingdom
+Trending
+Job Description
+Machine Learning Engineer
+
+Function: Data & AI Solutions
+Location: Hybrid, London office 
+
+ 
+
+Curious about what’s next?
+So are we. Join Compare the Market and help to make financial decision making a breeze for millions.
+
+At Compare the Market, we’re a purpose-driven business powered by tech and AI. We’re building high-performing, results-driven teams with the skills, mindset, and ambition to deliver outcomes at pace. Every role here plays a part in driving our mission forward, and we create an environment where you can bring your authentic self, grow a truly characterful career, and see the direct impact of your work on the lives of our customers.
+
+We’ve carved a meerkat-shaped niche and we’re looking for ambitious, curious thinkers who thrive in a fast-moving, high-impact environment. If you love accountability, embrace challenge, and want to make a real difference, you’ll fit right in.
+
+  
+
+We’d love you to be part of our journey.
+
+Compare the Market is building AI systems that connect directly to how millions of people in the UK find and buy financial products - and as a Machine Learning Engineer, you will play an important role in making those systems production-ready. That means contributing to the engineering that takes ML models and AI capabilities from experimentation into reliable, scalable production use: the pipelines, the deployment tooling, the monitoring, and the shared components that make the whole thing work. 
+
+This is a hands-on role where you will grow your technical skills across a fast-moving and expanding set of AI capabilities and systems. You will work closely with data scientists, engineers, and product teams - delivering well-scoped ML and AI features, contributing to engineering standards, and building your understanding of what good looks like in a modern ML engineering function. 
+
+ 
+
+Some of the great things you'll be doing:
+
+ML Engineering and AI Systems 
+
+Deliver well-scoped ML and AI system components end-to-end, from design through to testing, deployment, and production support 
+Contribute hands-on code to model packaging, deployment, and lifecycle automation 
+Build and improve systems that monitor model performance, drift, reliability, and operational health 
+Support both batch and real-time ML workloads depending on use case requirements 
+Work on emerging AI and LLM-powered capabilities, helping integrate modern AI techniques into production systems where they can deliver real user value 
+ 
+
+Platform and Standards 
+
+Contribute to the evolution of our internal ML and AI platform to support experimentation, governance, and collaboration 
+Apply and help promote best practices for ML and AI system design, including reproducibility, testing, CI/CD, model and agent observability and evaluation 
+Contribute to shared tools and libraries that accelerate safe, efficient, and scalable ML development 
+ 
+
+Collaboration 
+
+Work closely with data scientists to help productionise experimental models and turn prototypes into robust services 
+Contribute to code reviews, providing and receiving constructive feedback 
+Participate in architecture and design discussions, raising considerations around scalability, reliability, and system interactions 
+ 
+
+Culture and Innovation 
+
+Contribute to a culture of engineering excellence, collaboration, and continuous learning 
+Stay curious about emerging tools and approaches in MLOps and applied AI, and bring ideas for improvement to the team 
+Support responsible AI practices, contributing to explainability, auditability, and fairness in ML systems 
+ 
+
+What we'd like to see from you:
+
+The Essentials 
+
+Some experience delivering ML or AI components in a production or near-production environment 
+Solid software engineering skills in Python, with an understanding of how to write maintainable, testable code 
+Familiarity with ML tooling and platforms such as Databricks, MLflow, Airflow, or equivalent 
+Familiarity with CI/CD pipelines and how they apply to ML systems 
+An understanding of ML lifecycle challenges - versioning, testing, monitoring, governance 
+Good collaboration and communication skills, with an ability to work effectively across data science, engineering, and product teams 
+ 
+
+Nice to Have 
+
+Exposure to LLM-based systems - for example prompt engineering, RAG, or orchestration frameworks such as LangGraph or LangChain 
+Familiarity with multi-step AI patterns - systems where models plan, retrieve information, and take sequences of actions 
+Active personal use of AI-assisted or agentic coding tools, and an interest in how similar patterns could be applied to automate and accelerate ML engineering workflows - candidates who are exploring this space, even at an early stage, are encouraged to talk about it 
+Experience or interest in financial services, insurance, or another regulated sector 
+Interest in responsible AI and ML model governance 
+ 
+
+Why Compare the Market?
+
+We’re a business built for pace and performance. Here, you’ll be encouraged to think differently, act boldly, and deliver brilliantly in a culture that values results and rewards progress.
+
+We believe diverse teams make better decisions, and we’re committed to creating an inclusive workplace where everyone feels empowered to grow, contribute, and thrive.
+
+If you’re ready to stretch yourself, raise the bar, and grow with a team that’s serious about performance, innovation, and purpose, we’d love to hear from you.

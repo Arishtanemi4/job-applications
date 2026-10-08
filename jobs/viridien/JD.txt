@@ -1,0 +1,94 @@
+remote type
+Hybrid
+locations
+Crawley, United Kingdom
+time type
+Full time
+posted on
+Posted 8 Days Ago
+job requisition id
+JR101453
+Viridien (www.viridiengroup.com) is an advanced technology, digital and Earth data company that pushes the boundaries of science for a more prosperous and sustainable future. With our ingenuity, drive and deep curiosity we discover new insights, innovations, and solutions that efficiently and responsibly resolve complex natural resource, digital, energy transition and infrastructure challenges. 
+
+
+Do you enjoy solving the practical challenges of deploying AI in real-world environments?
+
+Viridien is expanding its ability to deploy secure, scalable and reliable agentic AI solutions across complex scientific and enterprise environments.
+
+We are looking for a hands-on Forward Deployed AI Engineer to help adapt, integrate and deploy agentic AI systems in production across cloud, on-premises, hybrid and restricted environments.
+
+
+Who you'll work with
+
+As a member of our AI Lab, you'll collaborate with senior machine learning engineers, software developers, platform engineers, and security and infrastructure specialists as well as scientific domain experts across Viridien. Learn more about our work and the team on our website, in a recent blog post featuring one of our senior machine learning engineers and from our Voices of Viridien.
+
+
+What you'll work on
+
+Contribute to design and implementation of production architectures for agentic AI, LLM and vision-language applications.
+Adapt agent workflows, models, tools, retrieval systems and configurations for production use.
+Integrate AI systems with enterprise APIs, databases, applications and data platforms.
+Help develop reusable connectors, APIs and Model Context Protocol tools.
+Build automated CI/CD, testing, configuration management and deployment workflows.
+Work with colleagues to implement authentication, access control, secrets management, security and auditability.
+Establish monitoring, logging, tracing, alerting and evaluation for models, agents and tools.
+Optimise systems for reliability, latency, throughput, scalability and infrastructure cost.
+Troubleshoot production issues and convert deployment experience into reusable platform capabilities.
+
+What we look for
+
+
+Essential
+
+Degree in computer science, software engineering, artificial intelligence, engineering or a related discipline, or equivalent practical experience.
+Strong Python programming and software-engineering skills.
+Experience developing, integrating and operating software or AI applications.
+Working understanding of LLMs, agentic AI, tool calling and retrieval-augmented generation.
+Experience building APIs, services and data pipelines, with Docker and cloud or on-premises deployments.
+Understanding of authentication, networking, access control and enterprise security.
+Experience implementing monitoring, logging and operational support for production systems.
+Troubleshooting skills across application, AI, infrastructure, network and data layers.
+
+Desirable 
+
+Experience deploying agentic or generative AI applications in production.
+Experience building and operating large-scale, distributed AI systems involving multiple agents, models, tools and services.
+Experience with Azure, AWS or Google Cloud, Kubernetes, Helm, Terraform and CI/CD technologies.
+Experience with LangGraph, AutoGen, smolagents or similar frameworks.
+Experience with Model Context Protocol, model-serving platforms, vector databases and LLM gateways.
+Experience implementing AI evaluation, observability, tracing and performance monitoring.
+Experience with high availability, autoscaling, load testing, incident management or restricted environments.
+Experience applying AI to scientific, engineering, energy or geoscience workflows.
+
+​Why work with us
+
+Competitive salary commensurate with experience
+Highly attractive bonus scheme
+Initial 22 days annual leave with future increases, complemented by a flexible buying and selling holiday program
+Hybrid working with two days at home, flexible working
+Company pension with generous employer contribution
+Wellbeing Unmind app – puts you in control of your mental health
+A flexible benefits platform with numerous discount schemes - gym membership, restaurants, cinema tickets, and more
+Cycle purchase scheme
+Flexible Private Medical & Dental care programmes
+Bank Holiday Swap - our holiday swap program allows you to change it for another day of your choice!
+Relaxed dress code policy
+
+Learning and Development
+
+At Viridien, we foster a culture of continuous learning and provide tailored training programs through our Learning Hub, designed to enhance technical, commercial, and personal growth.
+
+
+We Care about the Environment
+
+We encourage and actively support a strong sense of community, through volunteering and various company initiatives, as well as a strong company commitment to protecting our environment through sustainable solutions, energy saving and waste reduction enterprises.
+
+Our Hiring Process
+
+At Viridien, we are committed to delivering a respectful, inclusive, and transparent recruitment experience.
+
+Due to the high volume of applications we receive, we may not be able to provide individual feedback to every applicant. Only candidates whose qualifications closely match the role criteria will be contacted for an interview. We do, however, aim to share personalized feedback with those who progress to the first round of interviews and beyond.
+
+We are also dedicated to ensuring that our hiring process accessible to all. If you require any reasonable adjustments to fully participate in the application or interview stages, please don’t hesitate to contact your recruiter directly.
+
+We see things differently. Diversity fuels our innovation, we value the unique ways in which we differ, and we are committed to equal employment opportunities for all professionals.

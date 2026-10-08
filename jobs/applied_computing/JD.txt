@@ -1,0 +1,110 @@
+Applied Computing was founded in 2023 to build Orbital, a physics-informed foundation model for energy operations. We’re live across oil and gas, refineries, and petrochemicals, working towards our mission: sustainable
+abundance for a growing planet.
+
+
+The hydrocarbon industry keeps the world running. But its complexity has left operators tied to legacy systems, making critical decisions on less than 10% of available data. We built Orbital to change that. It’s a foundation model built specifically for energy that lets companies use AI at scale, harnessing all of their operational
+data and optimising in real time for any metric. Decisions get faster, operations get safer, and carbon intensity falls.
+
+
+We’ve raised over $32 million, including one of the largest seed rounds for an
+AI company in the UK. We’re just getting started
+
+
+As a Forward Deployed ML Engineer, your job is to make Orbital’s AI systems work in customer reality. You will deploy, configure, tune, and operationalise our deep learning models inside live industrial environments; spanning cloud, on-premise, hybrid, and air-gapped infrastructure.
+
+This is not a pure research role.
+
+You are not training experimental models in isolation. You are adapting production AI systems to customer data, configuring agents and RAG pipelines, tuning anomaly detection, and ensuring models deliver value in production workflows.
+
+If Research builds the models, you make them work on-site.
+
+
+Operating Context
+Forward Deployed ML Engineers operate in pods of three alongside:
+• Full Stack Engineers
+• Data Engineers
+Each pod delivers 2–3 customer deployments per quarter, owning AI configuration, model tuning, agent orchestration, and inference reliability in production.
+
+MSc in Computer Science, Machine Learning, Data Science, or related field, or equivalent practical experience.
+
+Strong proficiency in Python and deep learning frameworks (PyTorch preferred).
+
+Solid software engineering background; designing and debugging distributed systems.
+
+Experience building and running Dockerised microservices, ideally with Kubernetes/EKS.
+
+LLM API integrations (OpenAI, Claude, Gemini), FastAPI for ML services and REST inference APIs
+
+Familiarity with message brokers (Kafka, RabbitMQ, or similar).
+
+Comfort working in hybrid cloud/on-prem deployments (AWS, Databricks, or industrial environments).
+
+Exposure to time-series or industrial data (historians, IoT, SCADA/DCS logs) is a plus.
+
+Domain experience working as a data scientist in oil and gas or energy is a plus.
+
+Ability to work in forward-deployed settings, collaborating directly with customers.
+
+Comfortable in customer-facing technical roles.
+
+Able to operate in forward-deployed environments.
+
+Strong troubleshooting capability in production AI systems
+
+What Success Looks Like
+• AI systems are deployed and running in customer environments.
+• Models are tuned to customer data and delivering operational value.
+• Anomalies and predictions are trusted by engineers.
+• Multi-agent copilots function reliably in production workflows.
+• RAG systems retrieve accurate, domain-relevant insights.
+• Inference pipelines run with high uptime and low latency.
+
+1) AI System Deployment & Configuration
+• Deploy Orbital’s AI/ML services into customer environments.
+• Configure inference pipelines across cloud, on-prem, and hybrid infrastructure.
+• Package and deploy ML services via Docker/Kubernetes.
+• Ensure inference services are reliable, scalable, and production-ready.
+2) Time Series & Predictive Model Tuning
+• Deploy and tune time-series forecasting and anomaly detection models.
+• Adapt models to customer-specific industrial processes.
+• Configure thresholds, alerting logic, and detection sensitivity.
+• Validate model outputs against engineering expectations.
+Typical model classes include:
+• Gradient boosting models (LightGBM)
+• Transformer models
+• Statistical anomaly detection methods
+• Multivariate monitoring systems
+3) Multi-Agent & LLM System Configuration
+• Deploy and configure multi-agent AI systems for customer workflows.
+• Set up LLM provider integrations (OpenAI, Claude, Gemini).
+• Configure agent routing and orchestration logic.
+• Tune prompts and workflows for operational use cases.
+4) Retrieval Augmented Generation (RAG)
+• Deploy RAG pipelines in customer environments.
+• Ingest customer documentation and operational knowledge.
+• Configure knowledge graphs and vector databases.
+• Tune retrieval pipelines for accuracy and latency.
+5) Intelligent Data Agents
+• Configure SQL agents for structured customer datasets.
+• Deploy visualization agents for exploratory analytics.
+• Adapt agents to customer schemas and naming conventions.
+6) Explainability & Interpretability
+• Generate SHAP explanations for model outputs.
+• Build interpretability reports for engineering stakeholders.
+• Explain anomaly drivers and optimisation recommendations.
+• Support trust and adoption of AI insights.
+7) Forward Deployment & Customer Integration
+• Deploy AI systems into restricted industrial networks.
+• Integrate inference pipelines with:
+o Historians
+o OPC UA servers
+o IoT data streams
+o Process control systems
+• Work with IT/OT teams to satisfy infrastructure and security constraints.
+• Debug production issues in live operational environments.
+8) Production Reliability & MLOps
+• Monitor inference performance and drift.
+• Troubleshoot production model failures.
+• Version models and datasets (DVC or equivalent).
+• Maintain containerised ML deployments.
+• Support CI/CD for model updates.
