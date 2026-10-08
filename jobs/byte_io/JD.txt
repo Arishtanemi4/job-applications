@@ -1,0 +1,39 @@
+02
+AI ENGINEER - BYTE
+London · Full-time · Hybrid
+
+Applied AI, backend engineering and full-stack ownership
+
+Byte is building a personal AI agent that helps students navigate university and everyday life. It connects information across their campus, communications and personal context, then helps them act on it with appropriate permissions.
+
+We’re hiring an AI Engineer to work directly with our CTO and take features from an initial idea through to a reliable product. You should combine strong ML fundamentals with the engineering ability to build APIs, integrate external services, ship user interfaces and investigate failures across the stack.
+
+Your early work will focus on email and calendar integrations, personal context, retrieval, agent workflows and the infrastructure needed to support our first university pilots.
+
+In this role, you will:
+
+Build useful AI features: Develop retrieval pipelines, context extraction, structured model outputs and tool execution workflows.
+Connect external services: Implement Outlook and calendar integrations using OAuth, webhooks, background jobs and reliable synchronisation.
+Develop personal memory: Store and retrieve information with source references, timestamps, corrections and access controls.
+Own features end to end: Build backend services, database models and frontend flows, including loading states, errors and recovery.
+Make actions reliable: Handle duplicate requests, retries, timeouts and partial failures, with explicit approval for consequential actions.
+Measure quality: Create evaluation datasets, investigate failures and assess correctness, latency and cost before and after changes.
+Ship and operate: Write focused tests, deploy services, instrument important workflows and resolve production issues.
+You should bring:
+
+Strong Python and SQL skills, with experience building and deploying backend services.
+Practical experience developing LLM applications involving retrieval, structured outputs or external tools.
+Solid ML fundamentals: loss functions, gradients, optimisation, generalisation, regularisation, data leakage and evaluation.
+An understanding of how transformers, attention, embeddings, tokenisation and autoregressive generation work.
+Confidence reasoning about API contracts, authentication, transactions, concurrency, queues and idempotency.
+The ability to build and debug frontend features in TypeScript and a framework such as React.
+Evidence that you can explain your own technical decisions, validate assumptions and follow a problem across multiple layers of a system.
+Good judgment when using AI development tools, including reviewing generated code and checking its behaviour.
+Experience with PostgreSQL, vector search, Redis, Docker, CI/CD, Microsoft Graph or agent orchestration frameworks would be useful. Depth in evaluation, security, observability or inference optimisation is also valuable.
+
+You’ll have meaningful ownership of Byte’s architecture and product, direct collaboration with the CTO, and the opportunity to see your work used in early pilots. We value engineers who make clear decisions, communicate uncertainty and take responsibility for what they ship.
+
+To apply
+Send your CV and links to relevant work to jeffrey@usebyte.io.
+
+Our selection process includes an approximately 90-minute online assessment, and a discussion of your work with the team.

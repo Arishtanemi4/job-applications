@@ -1,0 +1,57 @@
+Machine Learning Engineer
+Apply nowJob no: 568525
+Work type: Full time
+Site: Redditch
+Categories: IT, Data and Analytics
+Location: West Midlands
+Salary: Competitive + Car Allowance
+Business Area: Halfords Support Centre
+
+About us
+
+Halfords is on a journey - building the future of motoring and cycling and looking for people who want to help shape what comes next. We’re a place for cocreators: people who want to make a real impact, take ownership and be part of something that’s still evolving.
+
+Technology at Halfords is at a turning point. We’re modernising our foundations, sharpening our delivery, and ensuring every technology decision is connected to real commercial and customer outcomes.
+
+We're looking for people who act as trusted advisors to the business, take end-to-end accountability for outcomes, and can balance pace with long-term architectural integrity. Innovation here means practical, scalable solutions, not ideas that stay on whiteboards.
+
+About the role
+
+As a Machine Learning Engineer within our Data & Analytics team, you'll be responsible for turning machine learning models into production-grade solutions that deliver real value across the business. Working at the intersection of software engineering, MLOps, and data science, you'll build the frameworks, pipelines, and services that enable machine learning models to be deployed, monitored, scaled, and embedded within customer and operational experiences.
+
+You'll work closely with Data Scientists to understand the problems they're solving and the models they're developing, helping transform experimental code into robust, maintainable, and secure production solutions. From building CI/CD pipelines and automated retraining processes to designing APIs, orchestration frameworks, and monitoring capabilities, you'll ensure machine learning solutions can operate reliably at enterprise scale.
+
+This is an exciting opportunity to join a growing data science function that has strong backing from senior leadership and a clear vision for the future. As Halfords continues its journey towards a more personalised and data-driven customer experience, you'll play a key role in embedding machine learning into core business processes and customer journeys. If you enjoy solving complex engineering challenges and seeing your work underpin real-world AI and machine learning applications, you'll have the opportunity to make a significant impact from day one.
+
+Key responsibilities
+
+Partner with Data Scientists to transition models from experimentation into scalable, production-ready applications and services
+Design, build, and maintain MLOps frameworks, deployment pipelines, and automated model lifecycle processes
+Develop and support CI/CD pipelines, version control frameworks, and automated testing processes for machine learning solutions
+Build APIs, services, and integration patterns that enable machine learning models to be embedded into business systems and customer-facing applications
+Implement model monitoring, performance tracking, drift detection, and automated retraining capabilities to ensure ongoing reliability and business value
+Work with cloud-native technologies including Azure Databricks, MLflow, and related platforms to support enterprise-scale machine learning workloads
+Collaborate with Data Engineers, Architects, and Developers to deliver secure, scalable, and maintainable machine learning solutions
+
+About you
+
+Proven experience deploying machine learning solutions into production environments and supporting them throughout their lifecycle
+Strong understanding of version control practices, including Git, branching strategies, and release management
+Strong software engineering skills in Python, with a solid understanding of engineering best practices, testing, code quality, and maintainability
+Experience building CI/CD pipelines, MLOps frameworks, and automated machine learning deployment processes
+Hands-on experience with Azure Databricks  or similar machine learning platforms (ie MLFlow, KubeFlow, SageMaker etc)
+Experience building APIs, microservices, and cloud-based solutions that integrate machine learning capabilities into wider platforms and applications
+Excellent collaboration and technical communication skills, with the ability to work effectively alongside Data Scientists, Architects, Engineers, and Business Analysts / Project Managers.
+
+Reward & benefits
+
+A fair and competitive salary evaluated against market data, annual discretionary bonus scheme, pension, life assurance, 25 days annual leave plus bank holidays and enhanced family leave.
+Commitment and dedication to your ongoing personal and professional development. We help you to own and grow your potential so you can be at your best in your current role and to support your future career aspirations.
+We offer hybrid working with a blend of working in our Support Centre and from home. 
+You will have access to a wealth of employee discounts across the Halfords suite of products and services.
+Wellbeing and inclusion are at the heart of our colleague experience. We offer resources and ongoing support to enhance your wellbeing at work and active Colleague Networks supporting inclusion initiatives across Halfords.
+ 
+
+Not sure you meet all the criteria? We'd encourage you to take the wheel and apply anyway! At Halfords we are committed to creating an inclusive workplace for our colleagues. We're an equal opportunities employer and proud to welcome applications from all backgrounds and embrace diversity within our one Halfords Family.
+
+Note: Halfords operates a hybrid working policy – this position will be based 3 days per week at our support centre in Redditch, West Midlands.
