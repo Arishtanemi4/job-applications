@@ -1,0 +1,67 @@
+Posted Date : 17/07/2026
+Experience : 4-8
+Job Type : Permanent
+Location : Gurgaon, HR
+Overview :
+Position: Lead AI/ML Engineer
+Job Location: Gurugram
+Work Experience- 4+ years in AI/ML engineering, with 2–3 years in a lead role.
+Email ID: careers@antino.com
+
+
+About Antino:
+With the intention and conviction of emerging as an unparalleled IT Digital Transformation Services
+platform, we at Antino Labs are known for providing impeccable software services using cutting edge
+technology across the globe. Without ever compromising with the quality of our output and bringing
+talent and diligence on a common platform, we have been noticed for our efficiency and reliability. With
+dynamic exposure to the industry, we believe in refining and redefining our standard according to the
+changes in the market's requirement. Our multiple years of experience in the industry has enabled us to
+register our global presence. Presently, our branch offices are in Bangalore, UK, Dubai, Canada, and the
+US. In the coming years, we envisage more expansion to emerge as a global IT Service Provider.
+Antino website - https://www.antino.com/
+LinkedIn profile- https://www.linkedin.com/company/antino-labs/mycompany/
+
+
+Job Description:
+We are seeking a versatile and highly skilled Lead AI/ML Engineer with deep expertise in Generative AI
+(GenAI) and Large Language Models (LLMs). This role requires a leader who can take full ownership of the
+AI lifecycle—from initial architectural design to final production execution. You will lead the development
+of scalable AI-powered applications, demonstrating exceptional execution skills and the ability to deliver
+high-performance results under pressure in demanding production environments.
+
+Machine Learning & LLM Capability:
+
+End-to-End ML Engineering: Build and manage comprehensive ML pipelines, including data ingestion, preprocessing, training, and evaluation using frameworks like PyTorch, TensorFlow, and Scikit-learn.
+Advanced LLM Systems: Design and implement sophisticated LLM-based applications such as autonomous agents, chatbots, and complex automation tools.
+Generative AI Specialization: Architect and optimize Retrieval-Augmented Generation (RAG) pipelines using vector databases like FAISS, Pinecone, or Weaviate.
+Model Optimization: Fine-tune open-source and proprietary models (e.g., LLaMA, GPT) using advanced techniques like LoRA, QLoRA, or instruction tuning.
+Agentic Frameworks: Develop complex agentic workflows utilizing frameworks such as LangChain or LlamaIndex.
+Prompt Engineering: Implement expert-level prompt engineering, tool/function calling, and structured output generation.
+
+Project Ownership & Execution
+
+Full Lifecycle Ownership: Take complete accountability for the full ML and GenAI lifecycle,
+spanning data processing, model development, monitoring, and optimization.
+Architectural Leadership: Drive strategic architectural decisions for AI platforms, ensuring they
+are modular, scalable, and maintainable.
+Execution Excellence: Write clean, high-performance Python code following strict OOP principles
+and manage CI/CD pipelines for seamless project execution.
+Leadership & Mentoring: Act as a key technical leader, managing stakeholders and mentoring
+team members to ensure all project milestones are met with quality.
+System Integrity: Manage model and prompt versioning, experiment
+comprehensive documentation for all pipelines and workflows.
+Performance Under Pressure
+
+Production Reliability: Ensure all AI systems maintain extreme scalability and performance under heavy production workloads, including both batch and real-time processing.
+High-Pressure Optimization: Rapidly optimize inference latency and system costs for ML and LLM systems to meet urgent business and technical requirements.
+Proactive Problem Solving: Apply strong analytical thinking to address complex challenges such as system drift, hallucinations, and latency in fast-paced environments.
+Robust Guardrails: Implement and manage strict evaluation frameworks and feedback loops to maintain system quality under stress. tracking, and
+
+Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, AI, ML, or a related field.
+Proven expertise in Python, system design, and scalable AI/ML architecture.
+Deep knowledge of NLP, Computer Vision, and Deep Learning models.
+Hands-on experience with Docker, Kubernetes, MLOps, and major cloud platforms (AWS, GCP, or Azure).
+Skills :
+AI/ML,LLM,Pytorch,tensorflow,Fine-tuning LLMs,Agentic AI,LangChain,Pandas,NumPy
