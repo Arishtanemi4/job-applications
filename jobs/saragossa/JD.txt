@@ -1,0 +1,13 @@
+https://saragossa.io/
+
+AI Engineers - up to £140k base + equity (re-locate to London)
+
+About the job
+Do you want to get on the AI train? This is your chance.
+You're going to be coming in to build out various AI solutions, specifically LLM/GenAI products that have been designed for clients. You'll be joining a team of AI Engineers who have the core AI experience, but in some cases aren't hardcore engineers who can build out the in-depth software backend. That's where you'll come in.
+This is still a heavily focused AI job, you'll be hands on with the AI solutions and the build into production, but the great part is that you don't have to be as strong on the AI side as the true AI Engineers, your key impact will come on the Python side. Over time, you'll pick up the expert level skills in AI and vice versa for the others.
+So, with that, it'll be no surprise that you're going to need to be a great Python software developer. Additionally, strong experience working with data and building microservices will also be a huge plus. Some experience with LLMs/GenAI will be necessary but you don't need to be an expert.
+You'll be joining a fast growing scale-up AI Consultancy who are working closely with clients across all industries to build cutting edge AI technology. You will be liaising with these clients too, understanding their projects and building the solution collaboratively.
+It's a hybrid working environment, with some need to travel to client site. Starting salary will be up to £140,000 plus a range of benefits that are continuously improving as the company grows.
+Want to build your AI skills whilst leveraging your Python development skills? Get in touch.
+No up-to-date CV required.

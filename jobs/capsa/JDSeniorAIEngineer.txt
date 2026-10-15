@@ -1,0 +1,71 @@
+The AI Operating System for Private Capital.
+
+Capsa
+
+Private capital funds have to find potential investments, research and analyse them thoroughly, monitor them over time, drive improvements, and decide when to buy and sell. They've got to see through the marketing. They've got to outbid the competition. And they've got to learn from every deal they do. Historically, these processes have run on people, we are building the AI Operating System that will run them in the future.
+
+We're focused, ambitious, and obsessed with building a category-defining company. In the last 12 months we've grown ARR 15x, achieved product–market fit with leading multi-billion-dollar PE firms, and expanded across the US, UK, and Europe. Now we're doubling down: we've raised a large Series A from top-tier VC investors to scale the team. We're hiring hyper-talented people who want to work at the forefront of AI and revolutionise an industry.
+
+At a Glance
+
+Role: Senior AI Engineer
+
+Location: London, UK (Hybrid, in-person 4 days per week)
+
+Team: Engineering
+
+Compensation: Top of market. Competitive base + ESOP
+
+The role
+
+Build the AI systems at the heart of a platform that the world's leading PE firms run their investment processes on. You'll design, ship, and improve the agents that do real work for deal teams: researching companies, analysing documents, authoring outputs, and citing every claim. You'll own the full harness: agent design, tool building, retrieval, evals, and the iteration that turns a capable demo into a system professionals trust with billion-dollar decisions.
+
+The opportunity
+
+Ownership: You'll own agent capabilities end to end: from the harness internals to the evals that prove they work. You'll make the design calls, ship them, and operate them.
+
+Growth: You'll work across the entire stack, alongside a team of startup veterans, and take on real responsibility.
+
+Upside: You'll receive meaningful equity in a company that grew 15x last year.
+
+Impact: You'll leave an indelible mark on an industry responsible for ~7% of US GDP.
+
+Recent projects include
+
+Agent Harness: Our own agent harness built on a custom, streaming-first graph execution framework.
+
+Code Execution Framework: Our own code execution framework that can be interrupted and resumed mid-execution for programmatic tool calling.
+
+Document Ingestion, Indexing, and Search: A VLM-based OCR pipeline, a self-hosted search cluster, and domain-aware search strategies.
+
+Citations: An end-to-end approach to citation, enabling users to quickly review supporting documentation for any AI generated statement.
+
+Document Authoring: Agent tooling and a document editor supporting advanced collaborative authoring across Word, Excel, PowerPoint, and email.
+
+Your track record
+
+You’ve worked in a high performance environment. Five or more years building production backend systems at a venture-backed startup or top tech firm, owning AI powered services and systems end-to-end.
+
+You've shipped things that mattered. Agents, retrieval systems, or LLM features taken from ideation to production, with the eval results, adoption, and war stories to show for it.
+
+Expertise with our stack. Python, LLMs, agents, retrieval and search (we use OpenSearch), evals, and the surrounding infrastructure (FastAPI, Postgres, RabbitMQ). TypeScript and React familiarity is a plus.
+
+Domain curiosity. You go deep on the problem. You care about what the product does for the person using it, and that shows in how you build.
+
+Comfortable at pace. Fast-moving environments are where you do your best work.
+
+How you operate
+
+Accountable: You take responsibility for what you build and make sure it has a positive impact on our customers and the team.
+
+Thoughtful: You think deeply about the problems you're solving and the code you're submitting. You use AI to enhance your thinking, not to outsource it.
+
+Pragmatic: You accept that time is limited and information is incomplete. You make progress regardless, and adjust as we learn more.
+
+If this opportunity excites you
+
+We'd like to meet you. Initial conversations are direct and substantive, going deep on the work, the team, and what you'd own in the first six months.
+
+Capsa provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.
+
+Capsa is committed to a fair and transparent hiring process. We confirm that this advertisement is for an active, existing vacancy within our organization. Please be advised that we may use artificial intelligence-driven tools to assist our recruitment team in screening, assessing, and selecting candidates for this position.

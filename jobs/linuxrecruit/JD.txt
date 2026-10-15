@@ -1,0 +1,24 @@
+About the job
+A chance to join elite builders for a company changing the enterprise world for the better...
+For decades, enterprise software has been the place where great engineering goes to slow down. You have likely seen it yourself: roadmaps stretching across quarters, decision making drowning in corporate process, and you're spending more time navigating bureaucracy than actually building.
+This company is putting an end to that.
+They are building the AI operating platform that allows large organisations to move with the speed and agility of a startup. Im talking, integrating AI agents, intelligent workflows and complex orchestration systems directly into how enterprise teams operate.
+The strategy is working. They're backed by top tier investors with £70mil+ rasied already, company has achieved strong PMF and is quietly becoming one of the most impressive breakout AI businesses in Europe.
+Despite the massive momentum, the team remains small, which is exactly why your work will matter.
+You will ship ideas in days rather than months, working across the entirefull stack and staying close to the actual problems. You will work alongside the Founders and a world class engineering team, speaking directly to customers and seeing your code immediately deployed inside large scale organisations.
+What you will bring
+Strong fundamentals: Deep comfort with modern languages (Kotlin, Typescript, Python etc) and not afraid to pick up new ones
+A builder’s DNA: You have side projects, startup experience, or open source contributions.
+AI Native: Shipped AI products in production
+Product intuition: You care about the purpose and the user experience just as much as the system architecture
+
+You will join at the exact stage where a small group of engineers can still completely shape the trajectory of the business. This is the type of enviroment careers are made, joining the best builders, high onwership, fast paced. In return, you will receive excellent compensation, meaningful equity, and full visa sponsorship if required.
+If you're open to hearing more, lets chat, apply below or send me an email on ethan.farrell@linuxrecruit.co.uk
+
+Requirements added by the job poster
+
+• Bachelor's Degree
+
+• 2+ years of work experience with Agentic AI Development
+
+• 2+ years of work experience with Large Language Models (LLM)

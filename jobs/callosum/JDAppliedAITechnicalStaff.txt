@@ -1,0 +1,63 @@
+About Us
+We’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity.
+
+Callosum is the Intelligent Systems Company. We believe the next generation of AI won't be defined by any single model or chip, but by intelligent systems in which hardware and intelligence co-evolve. We are building the infrastructure that unifies heterogeneous compute across the full stack. This opens a new axis of scaling intelligence: a dynamic system that tailors itself to what each workload actually needs, whether that's speed, cost, precision, or whatever unit comes next.
+
+The last era scaled on a different bet: one bigger model, more of the same chip, more data. That bet is running into structural limits. Frontier models offer extraordinary capability at unsustainable cost, one that today's monolithic infrastructure was never designed to serve.
+
+Our founding principle is that intelligence comes from many specialised systems working together, not from any single component. We build the software orchestration layer that co-evolves models, workflows and silicon into one system, delivering inference tailored to every workload, and demonstrating orders-of-magnitude leaps in capability and cost.
+
+Because our software spans the full stack, our engineering team works directly with heterogeneous accelerators and frontier silicon, including Cerebras, d-Matrix, Intel, NVIDIA, AMD, Normal Computing, Tenstorrent, GreatSky, and Mixx. We are not stopping at today's chips: each new generation of silicon unlocks algorithms that couldn't run before, and we intend to be first to them, every time. If we get it right, it will belong to everyone building on it - not to any single vendor.
+
+In our latest funding round, we raised $100M, led by Atomico with participation from Plural, DCVC and the UK Sovereign AI Fund’s first investment. With this, we are building the infrastructure for the next era of intelligence.
+
+We are engineers and scientists based in London, working across the full depth of the stack. We are curious, intellectually honest, and building what doesn't exist yet. If you thrive on uncharted territory and are energised by the scale of the challenge, we'd love to hear from you.
+
+About the Role
+The Applied AI team own Callosum's customer engagements end to end. You will work directly with customer engineering teams to understand their AI workloads, design and run rigorous evaluations against their production pipelines, integrate optimised workflows into their systems, and make sure the results hold in production.
+
+At Callosum, Applied AI Engineers are the technical bridge between what customers run and what we build. What you learn shapes the research and platform roadmap. The evaluations you run are how we prove the technology in production. As an early member of the team, you will help build the methodology, tooling, and engagement practices the function runs on. The role is engineering-led: you will employ technical judgment to recognise what kind of system a problem needs and prototype it.
+
+You will work closely with the engineers designing new intelligent systems, with the platform team that serves them, and directly with senior technical stakeholders on the customer side. We run a flat Member of Technical Staff structure. Responsibility and scope grow with what you demonstrate, including leadership of the Applied AI function as the team scales.
+
+What You'll Build
+Customer engagement from first workload scoping through evaluation, integration, and production deployment
+
+Design and run rigorous evaluations on customers' production workloads: set success criteria, instrument the comparison, present results to their engineering teams
+
+Develop deep technical understanding of customer systems (retrieval pipelines, agentic workflows, code intelligence stacks) and design optimised Callosum workflows
+
+Integrate Callosum workflows into customer environments and support them through to stable production
+
+Work with our research and platform teams to turn what you learn into general product capability
+
+Build the team's shared methodology: evaluation harnesses, integration runbooks, and engagement standards
+
+What You Bring
+Exceptional technical depth, demonstrated through any of: production systems at scale, research that shipped, or an early/founding role where you owned the system end to end
+
+Experience with LLM serving infrastructure, agent orchestration, or retrieval systems
+
+Rigour in evaluation or benchmarking work
+
+A bias for action, comfort with ambiguity and a strong sense of ownership
+
+What Sets You Apart
+Experience working directly with external engineering teams, whether as a forward deployed engineer, solutions architect, technical consultant, or comparable customer-facing role
+
+Familiarity with novel accelerator platforms
+
+Experience at an early-stage company or in a founding-engineer role
+
+What We Offer
+Competitive Salary, determined by skills and experience
+
+Equity & Ownership
+
+Private healthcare
+
+We offer Visa sponsorship and relocation benefits to hire the best in the world
+
+We work in person at our London office. You'll have the tools, space and setup to do your best work, and if you have specific needs, just tell us
+
+We're committed to building an inclusive workplace where everyone feels welcome, and believe in equal opportunities for all.
