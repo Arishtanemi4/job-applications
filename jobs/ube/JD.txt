@@ -1,0 +1,185 @@
+JOB DESCRIPTION
+Employment status and working hours
+Permanent, full time.
+
+Full time hours at the University are 35 per week with the standard working pattern Monday to Friday from 09:00 to 17:00, with some flexibility in start/finish times.
+
+Organisation structure
+Chief Operating Officer, Technology.
+
+Your line manager will be Tony Phillips, Solutions Architecture and Development Manager.
+
+Place of work flexibility
+Your time will be split between the Horizons, Reading office and your home*. The exact split of days/hours is negotiable but must include a minimum of two working days each week in Horizons. *Working from home is only possible if your environment is suitable – please see the ‘Working from home’ section on our Careers Site for further information.
+
+High level summary of job role
+As the Software Engineer, you will design, develop, test, and maintain software applications and services that support organisational objectives. You will focus on leveraging modern Python development practices and Artificial Intelligence technologies, including Microsoft Copilot and Generative AI tools, to improve business processes, enhance user experiences, and accelerate software delivery.
+
+You’ll work collaboratively with stakeholders, technical teams, and business users to identify opportunities for automation, intelligent solutions, and digital transformation initiatives.
+
+Specific job role accountabilities and responsibilities
+Software development
+Design, develop, test, deploy, and maintain robust software applications using Python and related technologies.
+
+Produce high-quality, secure, and maintainable code following agreed development standards.
+
+Participate in the full software development lifecycle, including requirements gathering, design, implementation, testing, and support.
+
+Develop APIs, integrations, and backend services to support business applications.
+
+AI and automation
+Design and implement AI-enabled solutions that deliver measurable business value.
+
+Evaluate and integrate Generative AI technologies, including Microsoft Copilot and AI-assisted development tools.
+
+Develop and maintain AI-powered workflows, automation solutions, and intelligent applications.
+
+Ensure AI implementations align with governance, security, privacy, and ethical standards.
+
+Collaboration and stakeholder engagement
+Work closely with business stakeholders to understand requirements and translate them into technical solutions.
+
+Contribute to technical design discussions and architectural decisions.
+
+Provide technical advice and guidance on software engineering and AI adoption opportunities.
+
+Quality and continuous improvement
+Perform code reviews and contribute to development best practices.
+
+Partner with business stakeholders through Functional and User Acceptance Testing (UAT) to validate requirements and ensure high-quality releases.
+
+Create and maintain technical documentation.
+
+Design and execute automated test suites within robust CI/CD pipelines to ensure rapid, reliable software delivery.
+
+Monitor application performance and resolve issues in a timely manner.
+
+Continuously evaluate emerging technologies and recommend improvements.
+
+Security and compliance
+Ensure solutions comply with organisational security policies and data protection requirements.
+
+Implement secure coding practices and support vulnerability remediation activities.
+
+Contribute to governance processes relating to AI usage and software development.
+
+Other duties
+Undertake any other related duties commensurate with the scope and level of the role.
+
+Some out of hours work may be required on occasion to support upgrades/changes.
+
+Other important features of the job role
+Line management responsibilities: None.
+
+Budget responsibility: None.
+
+In this role you will liaise with the following: All staff groups including employees and Associate Lecturers, students, 3rd party suppliers, and contractors.
+
+PERSON SPECIFICATION
+E = Essential person requirement; D = Desirable person requirement
+
+How the person requirement will be assessed:
+
+A = Application; I = Interview; T = Test or other assessment
+
+Please be aware that as part of safer recruitment and onboarding processes, we will seek original documentary evidence of the relevant academic and/or professional qualifications which you include within your job application. This is all part of our comprehensive pre-employment screening which also includes checking your identity, right to work, criminal record history (basic disclosure unless specified otherwise), and three years employment history. This is all part of our commitment to safeguarding our students. Keeping our students safe is a responsibility shared by everyone within the University.
+
+Qualifications and training
+Degree in Computer Science, Information Systems, or a related discipline, or equivalent experience (E, A).
+
+Evidence of continuing professional development in software engineering, Python development, and/or AI/ML (E, A, I).
+
+Previous experience
+Designing, developing and supporting enterprise software applications and services (E, A, I).
+
+Developing, integrating and supporting AI-enabled solutions, including generative AI, machine learning or LLM-based services (E, A, I).
+
+Developing solutions using Python and other relevant programming languages, frameworks and development tools (E, A, I).
+
+Developing and consuming APIs, integrations & data services (E, A, I).
+
+Working with cloud platforms (Azure preferred) and cloud-native application architectures (E, A, I).
+
+Applying modern software engineering practices including source control, automated testing and CI/CD (E, A, I).
+
+Translating user, business or operational requirements into technical solutions (E, A, I).
+
+Troubleshooting, optimising and maintaining complex software systems in a production environment (D, A, I).
+
+Behaviours and attitudes
+Alignment to the University’s core values and growth mindset approach, which reflect our culture. Refer to the specific behaviours within the Competency Framework (E, I) – summarised within the careers site.
+
+Skills, knowledge, other requirements
+Strong software engineering skills with the ability to produce secure, maintainable and scalable code (E, A, I).
+
+Strong knowledge of Python and contemporary software development frameworks and tools (E, A, I).
+
+Good understanding of application architecture, design patterns and software engineering best practices (D, A, I).
+
+Knowledge of cloud technologies, API design, integration patterns and distributed systems (D, A, I).
+
+Knowledge of AI, machine learning and generative AI concepts, including the practical application of LLM technologies (E, A, I).
+
+Understanding of software security, data protection and accessibility requirements relevant to application development (E, A, I).
+
+Strong analytical and problem-solving skills with the ability to evaluate technical options and recommend appropriate solutions (D, A, I).
+
+Effective communication and collaborative working skills, with the ability to explain technical concepts to technical and non-technical audiences (D, A, I).
+
+Digital skills confidence: We use MS Office which includes Teams, Outlook, Word, Excel, and PowerPoint and several other systems/technology (E, I, T).
+
+Commitment to delivering positive outcomes for our students regardless of your area of work within the University; we want our students to be successful (E, I).
+
+You must be prepared to undertake mandatory online training should you be appointed. The University is regulated by the Office for Students and Ofsted, and we have specific requirements and expectations around safeguarding, Prevent, and anti-harassment and bullying. This is all part of our Competency Framework requirements (E, I).
+
+PAY AND BENEFITS
+Salary: Salary range £40,000 to £45,000 per annum.
+
+Holiday: 26 days paid holiday (rising to 28 with service) plus paid bank/public holidays plus up to five paid closure days (typically between Christmas and New Year); all per holiday year Full Time Equivalent. Our holiday year runs from 1 August to 31 July. We also have a holiday buy and sell scheme in place. Sometimes the University does not need to close for five days per year and any balance (for example one day), can be used as a paid Wellbeing Day to take time out for your own physical or mental health.
+
+Pension and life assurance: Pensions auto-enrolment to the People’s Pension which is a default salary sacrifice scheme. You may opt out of salary sacrifice but remain in the scheme, or you may choose to opt out altogether. We provide life assurance (death in service) cover as standard to all employees.
+
+Family-friendly policies: Policies in place for all types of family-friendly statutory leave with enhanced pay available from day one of employment for some leave types. Access to Tax-Free Childcare (Government scheme).
+
+Wellbeing: Full access to the Employee Assistance Programme as well as the Thrive Mental Wellbeing app. Several employees are trained Mental Health First Aiders and can support staff. We have a wellbeing policy and we focus on five pillars of wellbeing.
+
+Sustainable travel: Cycle to Work and Electric Vehicle salary sacrifice schemes.
+
+Parking: We have locked sheds for bicycles. For cars, for Horizons based roles, we may in the future be able to offer parking on site however you must not assume this will be possible. Every now and then we may have a spare parking space become available and you can ask to join the waiting list. The University is keen wherever possible, to encourage staff to commute as sustainably as possible.
+
+Other health related benefits: Employer-funded Health Cash Plan (Simplyhealth) and voluntary dental insurance (Unum).
+
+Other valuable benefits:
+
+Charity giving options available including one voluntary paid day, per annum.
+
+You will have access to range of lifestyle discounts and everyday savings.
+
+We offer learning platforms including LinkedIn learning.
+
+APPLICATIONS - THINGS TO CONSIDER
+For an informal discussion about the role please contact Emma Stone on 0118 921 4600 or email e.stone@ube.ac.uk . For any other enquiries please contact HR on 0118 467 2454 / 2433 or email recruitment@ube.ac.uk
+
+Did one of our employees recommend you? If you apply on the recommendation of an existing employee, please make sure to mention their name within your application.
+
+We're passionate about sustainability and we have a five-year strategic plan: We expect job seekers to be curious about who we are and what we do. We point you towards a couple of resources about who we are and sustainability.
+
+Closing date and next steps
+We will receive applications until the advert closes on Monday 26 October 2026 at 17:00. We will not consider late applications. Our ATS does not screen applications, we humans do. Applications may be reviewed prior to the closing date and occasionally, you may be invited to interview ahead of the closing date.
+
+Interview details
+Dates for interviews will be advised to you later in the process. We'll ask you to tell us about any dates you cannot make, up to 4 weeks from the closing date; this helps us to plan interviews should you be shortlisted, prior to contacting you.
+
+Interviews are normally carried out over Microsoft Teams or Zoom. Depending on the job role and place of work, your interview may be at our Reading or London office. Please be prepared for a two-stage interview process, held on different dates. As part of the interview process, you will likely meet a member of the Senior Leadership Team.
+
+Note for internal candidates
+If you are an existing employee, we request you inform your current line manager of your intention to apply for this role.
+
+Department
+COO - Technology
+Location
+Horizons, Reading, UK
+Remote status
+Hybrid
+Salary
+£45,000/year

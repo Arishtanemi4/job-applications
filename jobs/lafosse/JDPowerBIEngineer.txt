@@ -1,0 +1,63 @@
+Power BI Engineer – Contract
+
+ 
+
+Inside IR35 | £550-600/day | Central London (2 days on-site per week) | Initial 6 Months
+
+ 
+
+We’re working with a leading organisation looking to engage an experienced Power BI Developer to support the delivery of a major global reporting programme.
+
+ 
+
+This role is heavily focused on hands-on Power BI development, working from established designs and templates to build consistent, intuitive and high-quality reporting solutions. You’ll be working closely with Data Engineers, Product Owners and business stakeholders, with Databricks forming a key part of the underlying data platform.
+
+ 
+
+This would suit someone who is an out-and-out Power BI specialist with strong experience across visualisation, DAX, semantic modelling and connecting to modern data platforms.
+
+ 
+
+Key Responsibilities
+
+Design and develop interactive Power BI reports and dashboards.
+Build reports in line with established designs, templates and visual standards.
+Develop and maintain semantic models and datasets.
+Create and optimise DAX measures, calculations and filtering.
+Build intuitive multi-page reports with strong navigation and user experience.
+Connect Power BI to multiple data sources, including Databricks.
+Work closely with Data Engineers and business stakeholders to deliver accurate, consistent reporting.
+ 
+
+Ideal Candidate
+
+Extensive hands-on Power BI development experience.
+Strong background developing complex, user-friendly reports and visualisations.
+Excellent understanding of DAX, filtering and semantic modelling.
+Experience connecting Power BI to Databricks and other enterprise data sources.
+Strong understanding of data modelling and reporting best practice.
+Comfortable working from predefined designs and maintaining consistent reporting standards.
+Strong communication and stakeholder engagement skills.
+ 
+
+Required Skills
+
+Power BI
+DAX
+Semantic Modelling
+Power Query
+Databricks
+SQL
+Data Visualisation
+ 
+
+Desirable Experience
+
+Azure Databricks / Lakehouse environments
+Power BI Service
+Deployment pipelines / DevOps
+Large-scale enterprise reporting programmes
+Microsoft Fabric
+ 
+
+If you’d be interested in discussing the opportunity further, please apply directly.

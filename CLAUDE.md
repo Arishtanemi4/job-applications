@@ -12,6 +12,7 @@
 - Use the MasterCV as is in terms of formatting. Change the words and roles as needed.
 - The fromat of the cv must be as is in the `KaustubhSonawaneCVUK.docx` i.e. the structuing, layout and the endlines "---\n" that lead to a line covering the width.
 - The exception to teh struction change is only in the Work Experience section. (It is siloed as per the multiple different responsibilities that I had. Incase they are not relevant to an application restructure them or remove them as you see fit in improving my chances to land the job.)
+- If the Role is being read from `jobs-india/*` then the application is being targeted for an Indian position and thus would need an Indian CV format and a **TRUE** flag for India column in the excel sheet.
 
 
 ## Job Roles

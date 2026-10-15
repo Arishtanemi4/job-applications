@@ -1,0 +1,36 @@
+Job Title: BI Engineer
+Type: Permanent, Full-Time
+Location: London (Hybrid – 3 days onsite)
+Sector: Transportation
+Salary: Circa. £60K 
+
+Overview:
+
+We’re hiring a BI Engineer focused on delivering scalable, high-quality data solutions for reporting and self-service insight.
+
+Reporting to the Lead BI Engineer, you’ll partner with developers and business stakeholders to deliver well-structured datasets and reliable data pipelines. The role requires a blend of technical delivery and the ability to translate business requirements into effective data solutions.
+
+Key Responsibilities:
+
+Build and maintain ETL/ELT pipelines to ingest, transform, and prepare data
+Develop and optimise datasets for reporting and analytics
+Implement data transformations using SQL and Python (incl. PySpark)
+Monitor, troubleshoot, and improve performance of data pipelines and queries
+Apply data quality controls and maintain clear documentation
+Contribute to ongoing improvements in data architecture and tooling
+Translate business requirements into scalable data solutions
+Partner with BI developers to support reporting and dashboard needs
+Engage stakeholders and support adoption of self-service analytics
+Work with platform teams on architecture, scalability, and performance
+Follow engineering standards and contribute to continuous improvement
+Support incident management and ongoing maintenance of BI solutions
+Skills & Experience
+
+Experience with AWS data services (e.g. Redshift, Athena, S3, Glue, Lambda)
+Strong SQL skills
+Exposure to SnapLogic or similar integration platforms
+Proficiency in Python (including PySpark)
+Familiarity with modern data tooling (e.g. open table formats, DuckDB beneficial)
+Experience with version control (Git / CodeCommit preferred)
+Awareness of BI tools (e.g. QuickSight, Power BI, Tableau)
+Strong stakeholder engagement and requirements translation skills

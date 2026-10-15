@@ -1,0 +1,23 @@
+About the job
+AI Engineer | Enterprise AI Platform 
+Join an enterprise-grade AI platform programme focused on delivering secure, scalable and production-ready Generative AI and ML capabilities. This hands-on role focuses on turning platform services into practical AI-driven business capabilities across enterprise applications, workflows and SDLC processes.
+You’ll design and implement domain-specific AI solutions, working closely with SMEs and platform teams to develop reliable RAG, agent orchestration and AI logic. The role also involves structured evaluation and continuous improvement to ensure AI services perform effectively within established platform standards.
+Key responsibilities:
+Build RAG pipelines and knowledge retrieval workflows.
+Design prompt strategies and implement appropriate guardrails.
+Configure agent workflows and reusable orchestration patterns.
+Work with subject matter experts to refine domain behaviour.
+Conduct structured evaluation and iteratively improve AI capabilities.
+Develop AI-driven business functionality using established platform services.
+Contribute reusable AI patterns and approaches back to the wider platform.
+
+Key Skills:
+Hands-on LLM API experience
+Production RAG or agent-based systems
+Strong API and integration skills
+Prompt engineering and AI guardrails
+AI evaluation and hallucination mitigation
+Responsible AI understanding
+Agent orchestration
+
+For more information or to apply directly, please email Mir@gazellegc.com. I review applications daily and will contact shortlisted candidates as quickly as possible.

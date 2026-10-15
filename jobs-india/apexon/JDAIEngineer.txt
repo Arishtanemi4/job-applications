@@ -1,0 +1,114 @@
+About Apexon:
+
+Apexon is an AI-first technology services firm that engineers intelligent enterprises. Our interconnected disciplines of Domain & Strategy, Cognitive Architecture, and Harness Engineering guide every engagement, helping clients deliver meaningful business outcomes while applying collective intelligence to confidently scale from early AI strategies to enterprise-grade production systems. For over three decades, we have helped organizations by leveraging our deep and practical expertise in Artificial Intelligence, Data & Analytics, Digital Engineering, and Experience, combined with our industry knowledge across Banking & Financial Services, Healthcare and Life Sciences to create lasting business value. Apexon is backed by Goldman Sachs Asset Management and Everstone Capital.
+
+We are looking for hands-on AI Engineers to build enterprise-grade GenAI and Agentic AI solutions for complex financial-services workflows. The role will focus on AI-assisted exception classification, root-cause analysis, impact assessment, workflow orchestration and remediation across large-scale transaction and data-processing environments.
+
+The engineer will work with structured and unstructured enterprise data, historical issues, workflow/ticketing systems, business rules and operational context. Strong Python, SQL, API and software-engineering fundamentals are essential, along with practical experience building LLM and agentic AI applications.
+
+
+
+Key Responsibilities:
+
+Build AI workflows for exception classification, triage, root-cause analysis, impact assessment and remediation recommendations.
+Develop agentic workflows involving orchestration, tool/function calling, state management and human-in-the-loop validation.
+Correlate new exceptions with historical issues, known root causes, business rules and transaction/data attributes.
+Build Python and SQL-based services to query, transform and analyze structured enterprise datasets.
+Integrate AI applications with enterprise APIs, databases, workflow/ticketing platforms and internal data sources.
+Develop reusable tools and services that AI agents can invoke for retrieval, investigation, analysis and workflow execution.
+Apply RAG/context retrieval where regulatory documents, historical knowledge or issue repositories need to be searched.
+Implement confidence scoring, validation, guardrails and traceability for AI-generated outcomes.
+Build backend services and APIs using Python/FastAPI.
+Implement testing, logging, evaluation, observability, exception handling and production engineering practices.
+Collaborate with onshore AI engineers, architects, business analysts, data engineers and application teams.
+
+
+Skills:
+
+Python
+SQL & Data Analysis
+GenAI / LLM Application Development
+Agentic AI / Workflow Orchestration
+APIs / FastAPI
+Tool / Function Calling
+Structured Data Processing
+Problem Solving / Root-Cause Analysis
+Git / Software Engineering
+RAG / Retrieval
+LLM Evaluation / Guardrails
+
+
+Cloud Agentic AI Experience
+
+Hands-on experience with at least one agent/workflow orchestration framework such as LangGraph, Google ADK, CrewAI, AutoGen, Semantic Kernel, or an equivalent custom framework.
+
+Candidates should understand how to implement workflows such as:
+
+Input
+Classification
+Tool/Data Retrieval
+Investigation
+Reasoning
+Validation
+Action.
+
+
+Preferred Domain Experience
+
+Financial-services experience is preferred but not mandatory.
+Exposure to Regulatory Reporting,
+Capital Markets, trade lifecycle, post-trade processing, transaction reporting, reconciliations, exception management, risk or controls will be advantageous.
+Familiarity with regulations such as EMIR, MiFID II or SFTR is a plus.
+
+
+Nice to Have
+
+Model Context Protocol (MCP) and reusable agent tool interfaces.
+Knowledge Graph / Graph RAG or data-lineage concepts.
+Vector databases, hybrid search or re-ranking.
+AI observability and evaluation frameworks.
+Spec-Driven Development (SDD): ability to translate business/technical requirements into clear specifications, tasks and acceptance criteria before implementation.
+Experience using Claude Code or equivalent AI coding assistants within disciplined software-engineering practices.
+Basic React or frontend integration experience
+
+
+We are looking for engineers who can build the complete workflow around an AI model—not simply prompts or basic chatbots. The candidate should be comfortable working across data, tools, agents, deterministic logic, validation, APIs and production engineering.
+
+A representative problem could involve receiving a new reporting exception across a large transaction population, determining whether it maps to a known issue, identifying potentially impacted transactions, establishing supporting evidence, and routing unresolved cases for further investigation.
+
+
+
+Qualifications
+
+5–8 years of professional experience in software engineering, AI/ML engineering, data engineering, GenAI or related roles.
+Strong hands-on Python development experience.
+Demonstrated experience building LLM/GenAI applications beyond proof-of-concept chatbots.
+Practical experience implementing agentic workflows, tools or orchestration.
+Strong analytical, debugging and problem-solving skills.
+Ability to collaborate effectively across onshore/offshore engineering and business teams.
+Bachelor's or Master's degree in Computer Science, Engineering, AI, Data Science or a related discipline preferred.
+
+
+Our Commitment to Diversity & Inclusion:
+
+Did you know that Apexon has been Certified™ by Great Place To Work®, the global authority on workplace culture, in each of the four regions in which it operates: USA (for the seventh time in 2026), India (for the tenth consecutive time in 2026), the UK(for the fourth time in 2026) and Mexico (for the second time in 2026). Apexon is committed to being an equal opportunity employer and promoting diversity in the workplace. We take affirmative action to ensure equal employment opportunity for all qualified individuals. Apexon strictly prohibits discrimination and harassment of any kind and provides equal employment opportunities to employees and applicants without regard to gender, race, color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. You can read about our Job Applicant Privacy policy here Job Applicant Privacy Policy (apexon.com)
+
+Our Commitment to Environment:
+
+Actively contribute to Apexon's commitment to environmental responsibility by following sustainable practices and supporting ESG initiatives.
+
+Our Perks and Benefits:
+
+Our benefits and rewards program has been thoughtfully designed to recognize your skills and contributions, elevate your learning/upskilling experience and provide care and support for you and your loved ones. As an Apexon Associate, you get continuous skill-based development, opportunities for career advancement, and access to comprehensive health and well-being benefits and assistance.
+
+We also offer:
+
+Group Health Insurance covering family of 4
+Term Insurance and Accident Insurance
+Paid Holidays & Earned Leaves
+Paid Parental Leave
+Learning & Career Development
+Employee Wellness
+Job Location :
+
+Bengaluru, India
