@@ -1,0 +1,50 @@
+Your Role
+We're looking for a Machine Learning Engineer to join our Search & Recommendations team, where we build the machine learning systems that help millions of customers discover products every day.
+
+From personalised recommendations and product ranking to emerging AI-powered styling experiences, our work sits at the heart of the customer journey and directly influences how customers explore and shop on ASOS.
+
+Our recommendation and ranking systems power experiences such as Similar Items, People Also Viewed, and personalised customer journeys that adapt in real time based on customer behaviour. These systems operate at significant scale, using signals from millions of interactions to surface the most relevant products and content.
+
+As a Machine Learning Engineer, you'll work across the full machine learning lifecycle – from experimentation and model development through to deployment, monitoring and optimisation in production environments. You'll collaborate closely with Machine Learning Engineers, Applied Scientists, Software Engineers and Product partners to transform ideas into reliable, scalable systems that deliver measurable customer and commercial impact.
+
+You'll also help shape the future of discovery at ASOS, contributing to areas such as next-generation recommendation systems, sequence-based modelling, outfit generation and AI-driven styling experiences.
+
+What you'll be doing
+
+Designing, building and maintaining production-grade machine learning systems that power personalisation and product discovery
+Developing and improving recommender systems, ranking models and customer-facing machine learning capabilities
+Deploying models into batch and real-time environments, ensuring reliability, scalability and performance at scale
+Collaborating with Applied Scientists and Engineers to take models from experimentation into robust production systems
+Monitoring, evaluating and iterating on models using real-world customer behaviour and performance metrics
+Contributing to engineering best practices, MLOps tooling and shared machine learning platform capabilities
+Helping to improve how machine learning is developed, deployed and operated across the organisation
+
+We’re ASOS, the online retailer for fashion lovers all around the world.
+
+We exist to give our customers the confidence to be whoever they want to be, and that goes for our people too. At ASOS, you’re free to be your true self without judgement, and channel your creativity into a platform used by millions.
+
+Everyone needs some help showing up as their best self. We're Disability Confident Committed - Let our Talent team know if you need any adjustments throughout the process in whatever way works best for you.
+
+
+About You
+
+We're keen to hear from Machine Learning Engineers who enjoy solving real-world problems, learning from others and building systems that deliver meaningful impact.
+
+You don't need to meet every requirement below to apply. If this role sounds exciting and aligns with your experience or career ambitions, we'd love to hear from you.
+
+Experience developing, deploying or operating machine learning solutions in production environments
+Familiarity with modern machine learning frameworks and tooling such as PyTorch, TensorFlow, XGBoost or similar technologies
+Experience training models using GPUs, or an interest in distributed computing and scalable machine learning systems
+Understanding of software engineering fundamentals, including version control, CI/CD, testing, observability and containerisation
+An appreciation of MLOps practices and the challenges of deploying machine learning systems at scale
+Strong collaboration and communication skills, with experience working across engineering, science and product disciplines
+Curiosity, adaptability and a genuine enthusiasm for learning new technologies and approaches
+
+BeneFITS’
+
+Employee discount (hello ASOS discount!)
+Employee sample sales
+25 days paid annual leave + an extra celebration day for a special moment
+Private medical care scheme
+Fixed Annual Payment in addition to your salary each year, it's just an extra thank you from us
+Opportunity for personalised learning and in-the-moment experiences that enable you to thrive and excel in your role

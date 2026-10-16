@@ -1,0 +1,35 @@
+Senior Machine Learning Engineer at Faculty
+Location
+London, United Kingdom
+Compensation
+£110k-£130k
+Join Faculty’s Life Sciences team as a Senior Machine Learning Engineer and lead the deployment of AI solutions that optimize the research of life-changing therapies. This £110k-£130k role offers a rare mix of architectural ownership, deep Python engineering, and high-stakes client advisory for major pharma and MedTech firms.
+
+You’ll be moving the needle on real-world healthcare challenges using production-grade AI, not just chasing hype. With over 350 global customers and a decade of experience, Faculty is the perfect place for an autonomous engineer to build a measurable positive legacy in AI.
+
+Role overview
+Join Faculty’s Life Sciences team to lead the development of production-grade AI systems for pharma and MedTech leaders. You will own the full ML lifecycle—from technical scoping and architecture to deployment and monitoring. This hybrid London role balances deep engineering with client advisory to deliver AI solutions that accelerate life-changing healthcare therapies.
+
+About Faculty
+
+London, United Kingdom · Growth (VC-backed)
+
+Founded in 2014, Faculty is one of Europe’s longest standing applied AI companies. Our suite of AI products spans everything organisations need to access frontier AI and get it into the hands of their frontline teams to support their most important work. Widely recognised as a leader in AI safety, we work for the world’s leading AI labs, such as OpenAI, Anthropic and Meta, to ensure their latest models are safe, human-led and explainable.
+
+Our expertise spans working with Boards, leadership teams and governments to develop a robust AI strategy, designing, building and implementing high-performing AI products, and equipping organisations with the knowledge and skills they need to thrive in the AI era. Our PhD-heavy team of deep AI experts has delivered hundreds of real-world AI products to improve critical public services and drive sustained economic returns across every sector of the economy. Headquartered in London, Faculty remains founder-led following its acquisition by Accenture in 2026.
+
+Backed by Apax Digital Fund, LocalGlobe, GMG Ventures, GMG Ventures LP, Jaan Tallinn, Mercuri.
+
+Open roles at Faculty
+What you will do
+Lead technical scoping and architectural decisions for scalable, production-grade machine learning systems meeting rigorous ethical and operational standards.
+Design and build robust ML software and infrastructure using Python, Docker, and Kubernetes across major cloud platforms like AWS, Azure, or GCP.
+Act as a trusted technical advisor to senior stakeholders, translating complex AI concepts into actionable strategies that solve critical healthcare challenges.
+Who this is a fit for
+Significant experience operationalizing models built with TensorFlow or PyTorch, transitioning them from training environments into monitored, live production systems.
+Expert-level Python software engineering skills with a focus on building reusable systems and a deep understanding of cloud infrastructure and containerization.
+Excellent communication skills with the ability to guide both technical teams and non-technical client stakeholders through complex architectural trade-offs.
+Why this role is remarkable
+Lead high-impact projects within the Life Sciences sector, partnering with major pharma firms and MedTech startups to optimize the commercialization of life-changing therapies.
+Own the entire path from model to monitored production system, exercising significant autonomy over architectural decisions and deployment standards across the business.
+Join a mature, intellectually curious culture at one of the UK’s most respected AI consultancies with a decade-long track record of success.

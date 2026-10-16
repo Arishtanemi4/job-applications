@@ -5,6 +5,17 @@
 - Keep ApplicationTracker.xlsx updated on every job application. 
 
 
+## Security Clearance (check FIRST - hard stop)
+
+- **Before any other work on a JD, check whether it requires security clearance.** Triggers: "SC", "SC clearance", "must be eligible for SC clearance", "security cleared", "SC cleared", "DV", "CTC", "BPSS", "clearance required", "must hold or be eligible for security clearance", "UK nationals only", "reserved post", or any similar wording.
+- **If clearance is required: STOP IMMEDIATELY.** Do NOT draft the CV, do NOT draft the cover letter, do NOT tailor anything. The role will never be applied to, so do not spend tokens on it beyond step 2 below.
+- Do only this:
+    1. **Make NO entry in `ApplicationTracker.xlsx`.** There is nothing to track, and clearance roles are dropped from the sheet: CGI and Rowden have both been removed. (A leftover `jobs/{company}/` folder may stay on disk, as CGI's did, but nothing is tracked in the sheet.)
+    2. Add any of the JD's requirements that `EXPERIENCE.md` cannot back to `GAPS.md` (see the eligibility note there), so the gap stays on record.
+- **Why:** SC needs **5 years of continuous UK residency** immediately before applying (3 years for BPSS/CTC, 10 for DV). I am an Indian national whose UK residency began in Sep 2025, so I am about 1 year in and cannot meet this until roughly Sep 2030. Nationality is not the bar in itself, but a role that states clearance is required is a near-certain screen-out, so tailoring a CV for it is wasted effort.
+- Override: only proceed with a CV when I explicitly ask for it anyway, and then flag the clearance gap in the cover letter.
+
+
 ## Application Tailoring
 
 - Tailor my `KaustubhSonawaneCVUK.docx` or `KaustubhSonawaneCVUK.pdf` as per the job description supplied to you.

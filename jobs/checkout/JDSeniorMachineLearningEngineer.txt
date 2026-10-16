@@ -1,0 +1,70 @@
+ompany Description
+
+We’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day.
+
+
+We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppers.
+
+Whether you want to book a holiday, order food, renew a subscription, or check out online, there’s a good chance our tech powers the payments behind the scenes. Our platform helps the most ambitious businesses deliver effortless digital experiences, at scale.
+
+If you want to do career-defining work, you’ve come to the right place. We move fast, think globally, and believe great teams are built by hiring exceptional people with conviction, curiosity, and the desire to make an impact.
+
+With 20 offices across six continents and London as our HQ, we’re shaping the future of fintech – and we’re just getting started.
+
+
+As an ML (Machine Learning) Engineer at Checkout.com in the Disputes ML team, you will contribute to the development of our brand-new, ML-driven dispute optimisation suite. This is a unique opportunity to get in on the ground floor of an expanding area, grow alongside top-tier engineers, and make a tangible impact on millions of disputes.
+
+You will be building solutions that power our stack of value added services in the Disputes area. We’re a growing team in an expanding area within the company and we’re looking for individuals who have strong ownership, are passionate about productionising ML and have a pragmatic approach to converting big problems into smaller iterations to constantly deliver value.
+
+How you’ll make an impact
+
+Build systems for training, deploying and monitoring machine learning models used in our Disputes platform, at scale
+
+Build and optimize data pipelines and backend services to process dispute and payment data in real time
+
+Build and scale our feature store for use-cases both online and offline
+
+Take complete ownership of delivering comprehensive, end-to-end features within a startup-like setting, driving the entire lifecycle from requirement refinement, data pipeline construction and model training to troubleshooting and production deployment
+
+Turn raw data into production-ready features that feed our dispute systems
+
+Collaborate with platform and backend engineers to integrate models seamlessly
+
+Experience and qualifications
+
+5+ years of experience as MLOps /ML Engineer
+
+High proficiency in writing clear, production-ready Python code
+
+Experience with production ML models (online or offline) and standard MLOps practices
+
+Experience with monitoring and observability of production systems, with a strong sense of ownership
+
+Experience with training and operating models on Databricks
+
+Familiarity in Cloud-based application development (we use AWS & Azure)
+
+Familiarity with one or more ML frameworks and technologies: scikit-learn, xgboost, TensorFlow, PyTorch, Spark, SageMaker, Vertex AI, Kubeflow, Seldon, Triton
+
+Strong communication skills, able to express ideas clearly and collaborate across teams
+
+
+Additional Information
+
+Bring all of you to work
+
+We create the conditions for high performers to thrive, through real ownership, fewer blockers, and work that makes a difference from day one.
+
+Here, you’ll move fast, take on meaningful challenges, and be recognized for the impact you deliver. It’s a place where ambition gets met with opportunity, and where your growth is in your hands.
+
+We work as one team, and we back each other to succeed. So whatever your background or identity, if you’re ready to grow and make a difference, you’ll be right at home here.
+
+It’s important we set you up for success and make our process as accessible as possible. So let us know in your application, or tell your recruiter directly, if you need anything to make your experience or working environment more comfortable.
+
+Life at Checkout.com
+
+We understand that work is just one part of your life. Our hybrid working model offers flexibility, with three days per week in the office to support collaboration and connection.
+
+Curious about what it’s like to be part of our team? Visit our Careers Page to learn more about our culture, open roles, and what drives us.
+
+For a closer look at daily life at Checkout.com, follow us on LinkedIn and Instagram

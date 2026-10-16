@@ -1,0 +1,89 @@
+An Introduction to Primer
+
+Primer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.
+
+Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we're building the payments layer the world's best companies rely on.
+
+Watch our showcase > https://primer.io/the-primer-showcase
+
+Read up on our $100m Series C  https://www.primer.io/blog/series-c
+
+Learn more about our culture > https://primer.io/careers
+
+Which team will you be joining?
+You'll be our first Senior Engineer in ML, working alongside our Staff Engineer to help build the foundations from the ground up. There's no existing DS/ML team yet, so the two of you will shape it together, working closely with engineering, data, and product, who are already exploring how ML can be used in payments. There's a lot still to figure out and a lot to build. You'll work closely with your team's stakeholders to identify where ML can move the needle, and report to engineering leadership while that function takes shape.
+
+What will you be doing?
+Own the full lifecycle of ML-powered features within your initiatives - from independently researching and testing approaches through training, deployment and monitoring in production
+
+Productionise smart routing decisions across the payment flow, building the ML infrastructure around them as you go - versioning, CI/CD, observability
+
+Partner closely with product, data and engineering to turn promising use cases into shipped, measured outcomes
+
+Bring a pragmatic, impact-first mindset to experimentation and model evaluation, rather than chasing the most sophisticated approach
+
+Mentor other engineers as they pick up ML techniques, sharing how you think about tradeoffs and when to keep things simple
+
+Talk directly to customers to validate ideas and pressure-test what you're building against real usage
+
+Help set technical direction within your area, working with your team to prioritise the use cases worth pursuing
+
+Establish patterns and practices that make ML work reliable and repeatable at Primer, building on foundations rather than defining them alone
+
+What we're looking for
+Senior experience in ML engineering, data science, or applied research, with real production deployments behind you (API, batch, or streaming)
+
+You think statistically. You can design and run experiments and A/B tests, and report what the results do and don't show
+
+Strong Python skills and hands-on experience with ML libraries such as scikit-learn, XGBoost, TensorFlow, PyTorch or Keras
+
+Solid grounding in modern software engineering, infrastructure and data tooling, and an understanding of the MLOps challenges across the full ML lifecycle. You don't need to have built a platform, but you know what one has to handle
+
+Familiarity with reinforcement learning (multi-armed or contextual bandits, for example). Production experience with it isn't required, but you need to understand how it works and where it applies
+
+Cloud experience — AWS preferred; GCP or Azure both fine
+
+Exposure to payments or e-commerce is a plus, not a prerequisite - you'll build that domain depth on the job
+
+Comfortable with ambiguity, in the problems and in the process. You can research, develop and productionise independently, and you'll help define how we work as you go
+
+You may not like it here
+You enjoy working in an office setting — we're remote-first, and always will be
+
+You need a fully mapped-out roadmap before you start — we're building this function, and there is a lot yet to be defined.
+
+You prefer handing models to another team to deploy and run.
+
+✅ A typical interview process
+An initial intro call with a Talent Partner
+
+An interview with the Hiring Manager
+
+Challenge Stage - Contextualised to the role
+
+A final, values-alignment interview
+
+What's the culture like at Primer?
+
+We're building a culture where people can do their best work and be proud of the impact they have. You'll be working with people who are mission-driven, smart, and reflective, and who are genuinely invested in building exceptional products and delivering success for our merchants.
+
+We work remotely, and have done since day one. We believe that building a successful, profitable company goes beyond proximity. We invest in our relationships through great remote working practices and thoughtfully designed face-to-face time, including workations, our annual company retreat, and access to co-working spaces across most major cities.
+
+The work is challenging. Scaleups are a challenge, and building category-defining products is a challenge. But there's a meaningful difference between a challenge and a struggle. At Primer, the right challenge comes with the right support: strong onboarding, a collaborative environment, and a team that is genuinely invested in your success. It's never something you face alone.
+
+Our benefits
+🌍 We are fully remote and globally distributed; and have been since day one
+💰 Competitive share options
+🌴 Flexible holiday, with 25 days minimum to be taken
+🗣️ Co-working space access across major cities
+📅 Workations & Company Retreat
+💻 The best equipment for your role
+🏠 £500 towards your home office setup
+🔎 Generous learning budget
+🏥 Private Medical Insurance
+📈 A broad set of additional perks and benefits (depending on location)
+
+Don’t meet every single requirement?
+At Primer, we're dedicated to building a diverse, inclusive, and authentic workplace. If you're excited about this role but your experience doesn't align perfectly with every qualification listed, we encourage you to apply. You may be the right candidate for this or other roles.
+
+Primer is committed to the equal treatment of all current and prospective employees and adopts a zero-tolerance approach to discrimination, regardless of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, marriage and civil partnership, or any other background or belief.

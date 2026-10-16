@@ -1,0 +1,69 @@
+AI Solutions Architect
+We're building the UK's next generation engineering powerhouse, providing critical technology that strengthens national security and resilience. 
+
+We specialise in turning advances in sensing, AI, and communications into operational capability for the edge, where connectivity may be degraded or denied. Our work focuses on accelerating the deployment of technology, improving decision-making for frontline teams, and protecting people and critical assets in demanding environments. 
+
+Headquartered in Bristol, Rowden employs around 200 people and operates over 20,000 square feet of engineering and manufacturing facilities. We have a growing international footprint and are one of Europe's fastest-growing engineering businesses.
+
+About the role
+
+We are looking for an AI Solutions Architect to join our growing AI capability, designed for a capable AI or ML engineer who wants to move beyond pure implementation and start thinking at a systems and solution level.
+
+You will work alongside senior architects on live programmes and pre-sales engagements. You will get structured exposure to the full arc of solution architecture, from shaping problem statements and designing AI pipelines through to supporting bids and engaging with customers, with direct mentorship and increasing ownership over time.
+
+This is not a research role or a pure engineering role. It suits someone who is technically strong, curious about how AI systems fit into larger operational contexts, and ready to start thinking about how solutions are designed, communicated, and delivered, not just built.
+
+Candidates must be eligible for SC clearance. 
+
+More information about security clearance is available here: https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels
+Key areas of responsibility
+Support the design of end-to-end AI pipelines, from data ingestion and feature engineering through to model training, evaluation, deployment, and monitoring, contributing technical input and developing architectural judgement under senior guidance.
+Assist in the design and documentation of agentic AI systems, including tool use, orchestration, memory/context management, and LLM integration patterns.
+Support the integration of AI & ML solutions into wider systems, working with engineering teams to ensure AI components connect reliably with existing platforms and applications.
+Develop in-depth knowledge of the MLOps lifecycle, including retraining cadences, model versioning, drift detection, and rollback procedures, to support robust and reliable production AI systems.
+Contribute to technical proposals, architecture diagrams, and solution documentation for bids and pre-sales engagements, working closely with senior architects.
+Research and assess tooling, platform, and hosting options, summarising trade-offs clearly to inform architectural decisions.
+Support the identification of technical risks in AI solutions, including data quality issues, model drift, integration failure modes, and AI security and safety considerations.
+Work with ML engineers, data engineers, and domain SMEs to understand specialist constraints and incorporate them into solution designs.
+Develop your understanding of how AI solutions are scoped, costed, planned, and assured across the programme lifecycle.
+Gradually take on more ownership of discrete solution components as confidence and experience grow.
+Key skills, experience and behaviours
+We are looking for someone with solid AI and ML engineering foundations who is ready to start applying that knowledge at a higher level. We value potential and appetite as much as prior experience in architecture.
+
+Essential
+Hands-on experience as an AI or ML engineer. You have built, trained, and deployed models and understand what makes AI systems work in practice.
+Working knowledge of at least one of: agentic AI and LLM application patterns, ML model serving and monitoring, data pipeline design, or MLOps practices.
+Ability to think beyond implementation. You can ask “why are we building this?” and “how does this fit into the wider system?” as well as “how do we build it?”.
+Clear written and verbal communication. You can explain technical concepts to people who aren’t deeply in the weeds.
+Curiosity and a willingness to develop in areas outside your current specialism.
+Awareness of AI security and safety principles (e.g. secure data handling, access control, model risk), and a willingness to build this further given Rowden’s defence and national security context.
+Eligibility for SC clearance.
+Desirable (not essential)
+Exposure to data platform patterns such as medallion or lakehouse architectures.
+Hands-on experience with MLOps tooling or model-serving infrastructure used to operationalise and scale ML systems.
+Any experience contributing to technical documentation, proposals, or solution designs, even informally.
+Familiarity with edge deployment constraints or resource-limited inference environments.
+Experience in secure, regulated, or government-adjacent environments.
+About you
+You are technically grounded but starting to think beyond the code. You want to understand the full shape of a solution, not just your part of it.
+You communicate clearly and are comfortable articulating ideas to people at different levels.
+You are curious and self-directed. You don’t wait to be told what to learn next.
+You are humble about what you don’t know, and you actively seek to close those gaps.
+You want a role where you are developed, not just deployed.
+You are ready to engage with customers and stakeholders, even if that’s new territory, and you see it as an opportunity.
+Working at Rowden
+We are committed to building a flexible, inclusive, and enabling company. Our aim is to create a diverse team of talented people with unique skills, experience, and backgrounds, so please apply and come as you are!
+ 
+We also recognise the importance of flexible working and support this wherever we can. We typically operate a flexible, hybrid-working model, with an average 3 days in the office each week (dependent on the role). We welcome the opportunity to discuss flexibility, part-time working requirements and/or workplace adjustments with all our applicants.
+ 
+Rowden is a Disability Confident Committed company, and we actively encourage people with disabilities and health conditions to apply for our roles. Please let us know your requirements early on so that we can make sure you have everything you need up front to help make the recruitment process and experience as easy as possible.
+ 
+Finally, if you feel that you don’t meet all the criteria included above but have transferable skills and relevant experience, we’d still love to hear from you!
+About Rowden
+What matters to us?  
+Our focus is on the end user. We exist to deliver the best possible outcomes for the users of our systems. 
+Pace matters. The problems we solve are urgent.  
+Our diverse skills and backgrounds make us better. Our team prides itself on being inclusive and multidisciplinary. 
+We are radically honest. Saying what we mean, even when it isn’t easy. 
+We are pragmatists. We provide realistic, focused solutions that get to the point. 
+We improve continuously. We are relentless in our drive to make things better. 
