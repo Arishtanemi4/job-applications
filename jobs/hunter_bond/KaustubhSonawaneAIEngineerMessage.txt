@@ -1,0 +1,13 @@
+Dear Hunter Bond team,
+
+I would like to apply for the AI Engineer role (ref AIEGU0626). I am based in Bristol and eligible for the Graduate Visa, which gives two years of full working rights, and I am happy to work hybrid in London.
+
+For three years at HDFC Asset Management I built GenAI systems from first prototype to production for the Compliance, Client Service and Investment teams who used them. I designed them end to end: a ReactJS frontend, Python FastAPI microservices and RAG with LlamaIndex and Azure OpenAI over PostgreSQL with pgvector, plus agents that call Python functions as tools to run SQL-backed fund-comparison calculations and produce PDF reports on request. I guardrailed responses with system prompts, versioned every prompt change in Git and had Compliance review each release. I also built a pipeline that turns over 300 unstructured rating-agency emails a day into structured data, and moved it from AWS Textract to Azure OpenAI when one agency began sending its emails as images. On the infrastructure side I deployed the applications on AWS with Docker, an Nginx reverse proxy and a Jenkins and GitLab CI/CD pipeline, and took them through the security team's VAPT after they had repeatedly failed it. In my final year I was de facto team lead for up to 4 interns, and the work was recognised internally with Best Team Project in 2024 and 2025.
+
+To be direct about where I am thinner against the spec: my retrieval ran on pgvector without hybrid search, re-ranking or retrieval metrics, and my agents were hand-built tool calling rather than a framework with durable memory or compaction. I have not built a voice system (speech-to-text, text-to-speech or real-time audio), I have no production monitoring or observability stack, I have not fine-tuned a model, and my evaluation work was informal - user feedback and Compliance review rather than gold datasets or LLM-as-judge. Those are the areas I would expect to grow fastest in here.
+
+My CV is attached. Relevant work: CellLineSelector, co-built for my MSc dissertation with feedback from AstraZeneca scientists, where I designed the RAG-based AI assistant (github.com/Arishtanemi4/az-team25); and Wingman, a FastAPI and React app where users hold multi-turn chats with 108 persona prompts and untrusted LLM output is validated, repaired and cached (github.com/Arishtanemi4/wingman). What draws me to this role is the combination of real retrieval depth and production engineering, which is exactly the work I have owned end to end, and I would be glad to talk it through.
+
+Kind regards,
+Kaustubh Sonawane
+Bristol, UK | ksstubh.sonawane@gmail.com | +44 7388229743 | Graduate Visa eligible (2 years full working rights)

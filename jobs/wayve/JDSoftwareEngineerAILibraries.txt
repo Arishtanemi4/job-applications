@@ -1,0 +1,75 @@
+Before the detail, here's the challenge you'd help us solve.
+
+We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the team, plugs into that.
+
+Here’s what this particular role covers.
+
+🛠️ About our AI Platform Team
+
+Our AI Platform teams build the foundations that enable Wayve’s machine learning engineers and researchers to train, evaluate and deploy models at scale. Within the AI Libraries team, you’ll create high-quality platforms, tools and reusable abstractions that support thousands of GPUs and help accelerate the development of our autonomous-driving technology.
+
+ 
+🧠 Your day-to-day
+
+You’ll work closely with machine learning teams to understand their workflows and turn complex requirements into stable, scalable and intuitive software. You’ll spend much of your time designing and writing Python, leading projects from discovery through delivery, improving engineering standards and supporting users as they push the scale and performance of their models.
+
+🧩 What you’ll be working on
+
+You’ll build modular libraries for areas such as multimodal data loading, distributed training and inference, checkpointing and observability. You’ll improve the reliability, performance and developer experience of systems used across Wayve, helping teams train models efficiently on large GPU clusters and work with camera, radar, lidar and other data sources.
+
+ 
+🙌 You should apply if
+
+You have extensive Python experience and a track record of designing, delivering and maintaining high-quality software systems at scale. You understand software architecture, testing and observability, and have experience with concurrent, parallel or distributed computing. Familiarity with ML frameworks such as PyTorch or TensorFlow and cloud environments—ideally Azure—is highly valuable. This is a software and platform engineering role rather than an ML modelling position.
+
+ 
+🌱 Not ticking every box? That’s totally okay! If you’re passionate about autonomy and keen to learn, we encourage you to apply even if you don’t meet every requirement.
+
+ 
+More about Wayve:
+
+🚀 Wayve is building the leading AI platform for autonomous driving. We are pioneering an end to end AI approach that enables vehicles to learn directly from real world experience, developing the ability to adapt, generalise and improve at scale. Instead of relying on hand coded rules or pre mapped environments, our AI Driver learns to drive by understanding the world around it. The result is technology that navigates complex urban environments with intelligence, precision and natural flow, unlocking meaningful advances in both safety and efficiency. We believe autonomy represents a once in a generation transformation in how people and goods move, comparable to the shift from horses to cars, and from human driven vehicles to intelligent machines.
+
+Our ambition is to make autonomy universal. Wayve’s mapless and hardware agnostic AI platform integrates with global OEM partners, enabling continuous software evolution and unlocking advanced levels of automation from L2 plus through to L4 as our core AI model scales. In a race increasingly defined by intelligence and real world learning, Wayve is taking a distinct approach, building a generalisable driving intelligence that can power any vehicle, anywhere. By combining embodied AI with scalable deployment, we are creating technology that can be shaped to each OEM brand and driver experience, accelerating the transition to a safer, more intelligent future of mobility.
+
+ 
+How we work 💻- Locations & Flexible Working:
+
+Our main hubs are in London, Sunnyvale, Yokohama, Herzliya, Vancouver and Leonberg. We operate a hybrid working model that combines in-person collaboration in our dedicated office spaces with focused time working remotely. This gives our teams the connection and energy of working together, alongside the flexibility to do their best work in a way that fits their lives.
+
+ 
+🔍 The Interview Process:
+
+Our process is clear and respectful of your time:
+
+Recruiter screen
+
+Competency Interviews
+
+Deep-dive technical interviews
+
+Final interview
+
+We’ll always explain the format and work around your availability.
+
+ 
+What’s in it for you (Location dependant):
+
+💰 Salaries benchmarked against the market annually
+📈 Meaningful equity, sharing in the ownership and long term success of Wayve
+✈️ Relocation support and visa sponsorship where applicable
+✅ Hybrid working, core hours and the chance to work hands on in vehicle workshops and labs
+📚 Learning and development budgets with support for training, conferences and growth
+🩺 Comprehensive benefits including health insurance, dental, enhanced maternity and paternity leave, retirement or pension where applicable, access to therapists, wellbeing partnerships, team socials and more
+
+A quick, honest note before you apply.
+
+Wayve is not a mature, fully-structured place with the playbook already written. Much of how we work is still being written, and if you join, you’ll help write it. That suits people who want real ownership more than people who need a settled structure from day one.
+
+If that sounds like the kind of problem you want to spend your time on, we’d really like to hear from you.
+
+At Wayve we're committed to creating a diverse, fair and respectful culture that is inclusive of everyone based on their unique skills and perspectives, and regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, veteran status, pregnancy or related condition (including breastfeeding) or any other basis as protected by applicable law.
+
+For more information visit Careers at Wayve. To learn more about what drives us, visit Values at Wayve
+
+DISCLAIMER: We will not ask about marriage or pregnancy, care responsibilities or disabilities in any of our job adverts or interviews. However, we do look to capture information about care responsibilities, and disabilities among other diversity information as part of an optional DEI Monitoring form to help us identify areas of improvement in our hiring process and ensure that the process is inclusive and non-discriminatory.

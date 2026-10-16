@@ -1,0 +1,36 @@
+AI Engineer
+AIEGU0626
+Posted: 25/09/2026
+Up To £100,000 P/A
+London
+Permanent
+Role: AI Engineer
+
+Salary: up to £100,000 P/A
+
+Type: Hybrid
+
+
+
+The role
+
+A London-based organisation is looking to bring on an AI Engineer to help develop next-generation intelligent systems powered by advanced RAG (Retrieval-Augmented Generation) and agentic AI approaches. This role offers the chance to work on impactful, real-world applications at the intersection of modern AI and robust software engineering.
+
+
+
+What to expect
+
+Work on complex, high-impact AI systems spanning conversational AI, agentic workflows, and voice applications
+A strong focus on production-grade engineering, scalability, and real-time performance
+Collaboration with cross-functional teams including architecture, security, and data governance
+Exposure to modern AI tooling, LLM frameworks, and cloud-native infrastructure
+Opportunities to experiment with emerging AI techniques and influence technical direction
+
+
+What you’ll do
+
+Design and implement advanced RAG pipelines with hybrid search, re-ranking, and optimized retrieval strategies
+Build and deploy conversational AI agents with robust multi-turn dialogue and contextual memory
+Develop end-to-end voice AI systems integrating STT, TTS, and real-time audio processing
+Optimize LLM performance through fine-tuning, prompt engineering, and evaluation frameworks
+Architect scalable AI infrastructure, including model serving, monitoring, and observability in production environments
