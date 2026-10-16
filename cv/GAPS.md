@@ -22,6 +22,8 @@ Five projects close most of S and A. Build them as the open-source repos a recru
 
 Also deploy one of the flagships on Vertex AI (Cloud Run + Vertex) to close B10 at low cost.
 
+For single projects that close all six S gaps at once (20 ideas, with a recommended first build), see `PROJECT-IDEAS.md`.
+
 ## S tier
 
 | # | Topic | Asked by | Gap today | Project to build |
