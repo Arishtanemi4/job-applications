@@ -1,0 +1,13 @@
+Dear Angstrom Sports hiring team,
+
+I would like to apply for the Data Engineer role. I am based in Bristol and eligible for the Graduate Visa (two years of full working rights), and I am happy to work hybrid from your London or Leeds office.
+
+For three years at HDFC Asset Management I built and ran the data side of an internal analytics platform. I designed the normalized PostgreSQL schema and wrote the Python scripts that ingest the Morningstar API on a fortnightly and monthly refresh, covering every fund in the Indian mutual fund market (2023-2025) and merging in the legacy data analysts held in Excel, with optimized SQL, functions and procedures on top. I also built a pipeline that parses over 300 rating-agency emails a day into structured data and saves 60 analyst hours a month. It runs as a scheduled job on AWS (EventBridge, Lambda, SageMaker, with S3 for the output), and when one agency began sending emails as images and broke the parser, I rebuilt it on Azure OpenAI. For the security side, I implemented role-based access with LDAP, restricted access with AWS Security Groups and an Nginx reverse proxy, and worked with the security team until the applications passed their VAPT. I worked directly with the analysts, compliance and investment teams from requirements to release.
+
+To be direct about where I am thinner against your spec: all of my pipelines were scheduled batch jobs, so I have not run pipelines on Kafka or another event stream. On AWS I have used S3, Lambda, EventBridge and EC2, but not Athena, ECS or CloudWatch, and I provisioned infrastructure from CloudFormation templates the security team prepared rather than writing them. I have not used Spark and I do not follow formal TDD. These are the areas where I expect to grow fastest, and I learn new stacks quickly.
+
+My CV is attached. For an end-to-end project, Wingman (github.com/Arishtanemi4/wingman) is a FastAPI and React app I built and designed around rate limits, streaming results and validating untrusted model output. I would be glad to talk it through.
+
+Kind regards,
+Kaustubh Sonawane
+Bristol, UK | ksstubh.sonawane@gmail.com | +44 7388229743 | Graduate Visa eligible (2 years full working rights)

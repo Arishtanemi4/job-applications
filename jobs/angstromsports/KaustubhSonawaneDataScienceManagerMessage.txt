@@ -1,0 +1,13 @@
+Dear Angstrom Sports hiring team,
+
+I would like to apply for the Data Science Manager role. I am based in Bristol and eligible for the Graduate Visa (two years of full working rights), and I am happy to work hybrid from your London or Leeds office.
+
+To be direct about the headline requirement first: I have not managed Data Science Leads or run hiring and performance reviews, and I have no sports modelling or betting experience. What I bring is three years of hands-on delivery in regulated financial services at HDFC Asset Management, an MSc in Data Science from Bristol, and early team leadership. I built the first GenAI systems there as the only engineer alongside my manager. As the team grew I acted as de facto team lead for two to four interns, staying hands-on across design, code and deployment, and worked directly with Client Service, Compliance and Investment from requirements to release. The work was recognised with Best Team Project in 2024 and 2025.
+
+On the technical side, I program in Python, R and SQL and deploy on AWS. I ran Apriori market basket analysis for the marketing team, built a pipeline that parses over 300 rating-agency emails a day and saves 60 analyst hours a month, and moved financial analysts from Excel to Power BI dashboards, saving them 10 hours a week. For my MSc dissertation with AstraZeneca I co-built a preprocessing pipeline and a ranking algorithm (my focus was the preprocessing, scoring and RAG assistant), and refined it with feedback from their scientists. I also made a resource-allocation call that is close to your tooling and infrastructure question: self-hosted Llama-3 on a GPU instance for the largest department and Azure OpenAI for the others, with the ability to switch models. Compliance reviewed every application I shipped, and I worked with the security team until they passed VAPT, so I am used to working inside governance processes.
+
+I understand this is a senior role, and if my profile is earlier than you need, I would welcome being considered for other roles in the department. My CV is attached and I would be glad to talk it through.
+
+Kind regards,
+Kaustubh Sonawane
+Bristol, UK | ksstubh.sonawane@gmail.com | +44 7388229743 | Graduate Visa eligible (2 years full working rights)

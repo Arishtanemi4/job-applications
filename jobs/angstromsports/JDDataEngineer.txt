@@ -1,0 +1,68 @@
+Data Engineer
+Angstrom Sports, 52 Thrale Street, London, England, United Kingdom
+Employees work in a hybrid mode
+weekly or monthly - London or Leeds office
+Full-time
+Advertising Department: Data & Analytics
+Referral Band: ♥
+Compensation: GBP 45,000 - GBP 65,000 - yearly
+Company Description
+This role is for Angstrom Sports, a proprietary sports pricing and product provider, building intricate, simulation driven pricing and risk systems to support the success of key sports brands across the Entain group.
+
+Founded in 2018 and having established itself as a pioneer in player-level, play-by-play simulations and forecasting, Angstrom was acquired by Entain in 2023. Today, we are responsible for delivering the group’s most advanced pricing and risk capabilities with a focus on the US market. We’re committed to building the next generation of sports betting products - sports-first, recreationally-focused, and designed to make betting more engaging, more intelligent, and more fun.
+
+We’re proud to be a high-performing, low-ego team where brilliant people are empowered and people work to become brilliant. While we’re ambitious and delivery-driven, we take real pride in how we operate and the health of our independent culture, underpinned by mutual trust and respect.
+
+Job Description
+The purpose of the Data Engineer is to implement and maintain data infrastructure that facilitates data-driven decision making, innovation and operational efficiency while ensuring that the data pipeline is secure, reliable, and scalable. The role holder will build and maintain high-performance data systems that are foundational to driving business growth and success.
+
+The key responsibilities will include:
+
+Designing and implementing scalable data architectures and systems 
+Developing and maintaining ETL (Extract, Transform, Load) pipelines. 
+Managing data storage, backup, and recovery mechanisms 
+Writing SQL queries to extract data for analysis. 
+ Developing and implementing data security and privacy 
+Interfacing with clients and end users to receive guidance on projects and deliverables.
+Qualifications
+Essential:   
+
+Proficient in writing clean, efficient, and maintainable SQL and Python code, particularly for data transformation and analytics use cases 
+Understanding of data modelling concepts and be able to design data models that are optimised for different user cases. 
+Familiarity with SQL and experience (2+ year) working with and designing relational databases. 
+Experience (1+ year) implementing data pipelines that run on Kafka or equivalent distributed event store and stream processing platforms. 
+Ability to debug and optimize failing or slow data pipelines and queries. 
+Systems integration experience (1+ years): networking, data migrations, API integration and design. 
+Enthusiasm for clean systems, including documentation, logging, and reproducibility. 
+Experience (2+ year) working with AWS S3, Athena, ECS, Cloud Formation, Lambdas & Cloudwatch. 
+Excellent presentation, documentation, time management, communication skills with the ability to work collaboratively and autonomously. 
+Strong problem-solving skills with a pragmatic and analytical outlook.
+Desirable:   
+
+Familiar with analytics tools such as Power BI, Apache Superset, or similar for building interactive and impactful visualizations 
+Familiarity with distributed systems (e.g., Spark, Kafka) and how they support scalable analytics solutions 
+Passion for TDD 
+A love of sports 
+Able to troubleshoot complex problems that arise during the Data Engineering process and be able to find effective solutions. 
+Communicate complex technical concepts to non-technical stakeholders and be able to work effectively with cross functional teams. 
+A side project that illustrates the individual has thought about solution architecture from start to finish
+ 
+
+Additional Information
+At Entain, we know that signing top players requires a great starting package, and plenty of support to inspire peak performance. Join us, and a competitive salary is just the beginning.
+
+Depending on your role and location, you can expect to receive benefits like:
+
+Generous group bonus scheme
+Hybrid working
+Private medical insurance
+Pension Scheme - matched to 6%
+Ability to buy and sell holiday
+Free subscription to wellbeing app Unmind
+Entain & Enhance days
+Sharesave Scheme
+ Join a winning team of talented people and be a part of an inclusive and supporting community where everyone is celebrated for being themselves.  
+
+Should you need any adjustments or accommodations to the recruitment process, at either application or interview, please contact us.
+
+By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party website's terms and privacy policy apply

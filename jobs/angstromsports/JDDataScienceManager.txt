@@ -1,0 +1,70 @@
+Data Science Manager
+Angstrom Sports, 52 Thrale Street, London, England, United Kingdom
+Employees work in a hybrid mode
+Hybrid - Leed or London office
+Full-time
+Advertising Department: Data & Analytics
+Referral Band: ♣
+Company Description
+This role is for Angstrom Sports, a proprietary sports pricing and product provider, building intricate, simulation driven pricing and risk systems to support the success of key sports brands across the Entain group.
+
+Founded in 2018 and having established itself as a pioneer in player-level, play-by-play simulations and forecasting, Angstrom was acquired by Entain in 2023. Today, we are responsible for delivering the group’s most advanced pricing and risk capabilities with a focus on the US market. We’re committed to building the next generation of sports betting products - sports-first, recreationally-focused, and designed to make betting more engaging, more intelligent, and more fun.
+
+We’re proud to be a high-performing, low-ego team where brilliant people are empowered and people work to become brilliant. While we’re ambitious and delivery-driven, we take real pride in how we operate and the health of our independent culture, underpinned by mutual trust and respect.
+
+Job Description
+As Data Science Manager, you are responsible for managing the Leads of multiple sport-specific modelling teams. You ensure consistency, alignment, and delivery across the portfolio of models while supporting the career development of Lead Data Scientists.
+
+You will work closely with the Head of Data Science on planning, staffing, and setting the direction for the function. You will be instrumental in scaling the data science capability and ensuring technical quality, delivery efficiency, and team cohesion across the department.
+
+Key responsibilities
+
+Resource planning of the Data Scientists to optimise departmental objectives and tasks in ongoing projects.
+Manage, coach, and develop Data Science Leads across multiple teams.
+Support Leads in planning, prioritisation, and delivery of high-quality forecasting models.
+Help set and maintain a high bar in technical standards, code practices, and documentation across teams.
+Identify and address capacity, capability, or performance challenges across the department.
+Collaborate with Delivery and Engineering counterparts to maintain efficient team operations.
+Work with the Head of Data Science to shape department-wide strategy, tooling, and hiring plans.
+Facilitate cross-team learning, innovation, and the sharing of best practices.
+Act as an escalation point for technical or resourcing issues across teams.
+Represent the Data Science function in cross-departmental discussions or leadership meetings.
+Help maintain a collaborative, supportive, and high-performance culture across the modelling organisation.
+Qualifications
+Essential
+
+Demonstrated success managing Data Science Leads and growing high-performing teams.
+Skilled in aligning delivery across multiple projects, sports, or technical domains.
+Strong technical background in model development and deployment, with the ability to support and challenge teams when needed.
+Advanced programming experience (R/Python/C#/Java)
+Excellent communication and leadership skills across technical and non-technical stakeholders.
+Proven ability to manage hiring, performance, and team development.
+Familiar with cross-functional planning, prioritisation, and capacity management.
+Champions a culture of collaboration, experimentation, and delivery.
+Domain expertise in sports modelling or betting products.
+2+ years managing teams and leading delivery across multiple modelling projects
+Desirable: 
+
+Experience building or scaling data science functions
+Familiarity with model governance, risk, or compliance processes.
+Knowledge of tooling and infrastructure challenges across data and ML teams.
+Strategic thinking in resource allocation and modelling roadmaps.
+Passion for modelling excellence and deep awareness of current trends in applied data science.
+Experience using cloud services (AWS preferred)
+A degree (PhD, MSc, BSc) in a STEM subject or similar provable numerate and quantitative skills
+Additional Information
+At Entain, we know that signing top players requires a great starting package, and plenty of support to inspire peak performance. Join us, and a competitive salary is just the beginning.
+
+Depending on your role and location, you can expect to receive benefits like:
+
+Generous bonus scheme
+Hybrid working
+Private medical insurance
+Pension Scheme - matched to 6%
+Ability to buy and sell holiday
+Free subscription to wellbeing app Unmind
+Entain & Enhance days
+Sharesave Scheme
+Join a winning team of talented people and be a part of an inclusive and supporting community where everyone is celebrated for being themselves.
+
+Should you need any adjustments or accommodations to the recruitment process, at either application or interview, please contact us.

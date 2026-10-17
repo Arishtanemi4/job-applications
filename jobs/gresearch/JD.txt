@@ -1,0 +1,53 @@
+Machine Learning Engineer
+Highly competitive compensation plus annual discretionary bonus
+Lunch provided (via Just Eat for Business) and dedicated barista bar
+35 days’ annual leave
+9% company pension contributions
+
+
+We tackle the most complex problems in quantitative finance, by bringing scientific clarity to financial complexity.
+
+From our London HQ, we unite world-class researchers and engineers in an environment that values deep exploration and methodical execution - because the best ideas take time to evolve.  Together we’re building a world-class platform to amplify our teams’ most powerful ideas.
+
+As part of our engineering team, you’ll shape the platforms and tools that drive high-impact research - designing systems that scale, accelerate discovery and support innovation across the firm.
+
+Take the next step in your career.
+
+The role
+We are looking for an exceptional Machine Learning Engineer to work in our ML and HPC Architecture team, identifying and working with tools at the cutting-edge of machine learning.
+
+You will work closely with a wide range of internal G-Research teams, including Quant Researchers, Quant ML engineers and other engineering groups - as well as with external partners and experts.
+
+You will collaborate across disciplines on a broad set of initiatives to help G-Research leverage the next generation of machine-learning technologies.
+
+Past projects have included:
+
+Evaluating alternative accelerators for ML workloads
+Multi-node distributed training to understand trade-offs in networking technology
+Optimising model inference to minimise latency or maximise throughput
+Understanding and optimising different storage technology to maximise bandwidth
+Evaluating the latest hardware and software in the machine learning ecosystem
+Liaising with vendors and providing constructive feedback on their products and roadmaps
+Who are we looking for?
+You will be comfortable working both independently and in small teams on a variety of engineering challenges, with a particular focus on machine learning and scientific computing.
+
+The ideal candidate will have the following skills and experience:
+
+A postgraduate degree in ML or a related field, or bringing commercial experience building ML models at scale, we will also consider exceptional candidates with demonstrable track record of success in online data-science competitions, such as Kaggle
+Strong object-oriented engineering skills, with experience in Python, PyTorch and NumPy desirable
+The ability to apply advanced optimisation methods, modern ML techniques, HPC, profiling or model-inference expertise; you do not need to have all of the above
+A passion for the latest ML and HPC trends, with genuine curiosity and enthusiasm
+Excellent communication skills with the ability to work independently, engage with vendors, explore new technologies and present results effectively to stakeholder
+Choose the right level of abstraction, using quick one-off scripts for proofs of concept or designing more complex systems when needed
+Finance experience is not necessary for this role and candidates from non-financial backgrounds are encouraged to apply.
+
+Why join us?
+Highly competitive compensation plus annual discretionary bonus
+Lunch provided (via Just Eat for Business) and dedicated barista bar
+30 days’ annual leave
+9% company pension contributions
+Informal dress code and excellent work/life balance
+Comprehensive healthcare and life assurance
+Cycle-to-work scheme
+Monthly company events
+Location: London
