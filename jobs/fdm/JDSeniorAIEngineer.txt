@@ -1,0 +1,73 @@
+Senior AI Engineer- London
+
+About The Role
+FDM is a global business and technology consultancy seeking a Senior AI Developer to work for our client within the Higher Education sector. This is initially a 3-month contract with very good prospects to extend and will be a hybrid role based in London.
+
+Our client is looking for a hands-on Senior AI Developer to help establish and grow practical AI capability across its ICT function. The role will focus on turning agreed use cases into working solutions that demonstrate clear value quickly, while creating a strong foundation for further investment and delivery.
+
+You will work closely with Enterprise Architecture, the AI Product Owner and teams across cyber security, data, integrations, infrastructure and networking. The initial focus will be on smaller, achievable use cases, including AI assistants that can review technical designs and documentation, identify missing information, assess completeness and check alignment with organisational security, networking and infrastructure standards.
+
+This is primarily a development role rather than a research, strategy or people-management position. You will be expected to take ownership of delivery, work independently, engage proactively with stakeholders and build solutions within existing cloud patterns, guardrails and governance standards.
+
+Responsibilities:
+
+Design, develop, test and deploy practical AI-powered applications, assistants and workflow automations.
+Build Retrieval Augmented Generation (RAG) solutions that use organisational documentation, standards and knowledge sources.
+Develop an initial assistant that can review cloud infrastructure designs, prompt users for missing configuration information, measure document completeness and check alignment with agreed standards.
+Translate prioritised use cases into working proofs of concept and production-ready solutions that demonstrate measurable value.
+Use prompt engineering and model configuration techniques to improve accuracy, relevance, consistency and user experience.
+Integrate Large Language Models (LLMs) and AI services with existing cloud platforms, enterprise systems, APIs and workflows.
+Work closely with Enterprise Architecture and the AI Product Owner to understand requirements, refine use cases and agree achievable outcomes.
+Collaborate across cyber security, data, integrations, infrastructure and networking to secure the services, access and technical resources required for delivery.
+Ensure solutions follow existing security, data, networking, infrastructure, governance and responsible AI standards.
+Evaluate appropriate models, tools and approaches for each use case, balancing quality, cost, maintainability and delivery speed.
+Apply modern software engineering practices, including version control, testing, code review, CI/CD, monitoring and documentation.
+Contribute reusable development patterns, guidance and good practice as the client's AI capability matures.
+Proactively identify delivery risks, ask the right questions and take ownership from concept through to implementation and handover.
+Support the identification and shaping of future AI opportunities once the first use cases have demonstrated value.
+About You
+You are a pragmatic, self-starting AI developer with a strong software engineering background. You can take an idea or business problem, engage the right stakeholders and turn it into a secure, usable working solution. You are comfortable operating in an evolving environment and do not need every detail to be defined before making progress.
+
+Strong commercial experience using Python to build and maintain software applications.
+Hands-on experience developing and deploying Generative AI and LLM-based applications in a commercial or enterprise environment.
+Experience working with OpenAI, Azure OpenAI or an equivalent LLM platform and integrating model APIs into applications.
+Practical experience designing and building Retrieval Augmented Generation (RAG) solutions.
+Good understanding of prompt engineering, model configuration, embeddings, chunking, retrieval and response evaluation.
+Experience using one or more AI orchestration frameworks such as LangChain, LangGraph or Semantic Kernel.
+Experience with vector databases or vector search and the retrieval of information from structured and unstructured sources.
+Experience designing and consuming REST APIs and integrating AI services with existing applications, platforms and workflows.
+Experience with at least one major cloud platform: Microsoft Azure, AWS or Google Cloud Platform.
+Good knowledge of Git and modern software development practices, including testing, code review and technical documentation.
+Experience with CI/CD pipelines, secure deployment, monitoring and logging.
+Experience building end-to-end AI solutions rather than working only on research, analytics or standalone data science models.
+Ability to work independently, manage ambiguity and take ownership of delivery from discovery through to implementation.
+Ability to communicate clearly with technical and non-technical stakeholders and explain delivery choices in practical terms.
+Desirable skills:
+
+Azure AI Foundry and Azure Machine Learning.
+MLOps practices and tools such as MLflow.
+Containerisation and orchestration using Docker and Kubernetes.
+Experience developing copilots, AI agents or multi-step AI workflows.
+Experience working with enterprise architecture, cloud design, infrastructure or technical standards.
+Knowledge of responsible AI, security controls, guardrails and model risk management.
+Experience working in Higher Education, the public sector or another large and complex organisation.
+Experience helping a new AI capability move from proof of concept into repeatable delivery.
+What success will look like:
+
+Initial AI use cases are translated into working solutions that can be demonstrated to senior stakeholders.
+Solutions deliver visible value quickly while meeting the client's existing security, infrastructure and governance expectations.
+The first delivery creates confidence in further investment and provides reusable patterns for future AI development.
+Stakeholders across Architecture, Product and technical teams are engaged effectively and have clear documentation for ongoing support and development.
+About Us
+FDM is an award-winning global leader in tech and business talent solutions, backed by more than 35 years of industry experience. We have centres across Europe, North America, and Asia-Pacific, and a global workforce of over 2500 employees. FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning employer, currently listed on the FTSE4Good Index and as a 2026 Financial Times UK ‘Best Employer’. 
+ 
+Diversity and Inclusion
+
+FDM Group is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, national origin, age, disability, veteran status or any other status protected by federal, provincial or local laws.
+ 
+Why join us
+ 
+Career coaching, mentoring and access to upskilling throughout your entire FDM career
+Assignments with global companies and opportunities to work abroad
+Opportunity to re-skill and up-skill into new areas, develop non-linear career paths and build a skillset within your field
+Annual leave and work-place pension

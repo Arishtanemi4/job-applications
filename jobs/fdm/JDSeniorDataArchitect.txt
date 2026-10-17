@@ -1,0 +1,87 @@
+Senior Data Architect- London, Bristol, Edinburgh
+
+About The Role
+FDM is a global business and technology consultancy seeking a Senior Data Architect to work for our client within the Financial Services sector. This is initially a 6-12- month contract with the potential to extend and will be a hybrid role that will be based in London, Bristol or Edinburgh.
+
+Our client is seeking an experienced Data Architect with a strong focus on AI-enabled solutions to lead the design, governance, and evolution of enterprise data architectures supporting advanced analytics, machine learning, and fraud prevention initiatives.
+The successful candidate will have proven experience architecting modern data platforms that underpin AI capabilities, with particular expertise in fraud detection, risk management, and intelligence-led environments. They will possess deep knowledge of Microsoft's data, security, and governance ecosystem and be responsible for ensuring data platforms are scalable, secure, compliant, and optimised for AI workloads.
+
+Responsibilities:
+ 
+Data Architecture & Strategy
+Design and implement enterprise-scale data architectures that support AI, machine learning, and advanced analytics capabilities.
+Develop data models, data flows, integration patterns, and architecture standards aligned with business objectives.
+Define and maintain target-state data architecture roadmaps supporting organisational transformation initiatives.
+Establish best practices for data storage, processing, governance, and consumption.
+AI & Advanced Analytics Enablement
+Architect data platforms that support AI and Generative AI solutions.
+Collaborate with Data Scientists, AI Engineers, and Platform Teams to deliver scalable AI-ready data environments.
+Ensure data architectures support model training, inference, monitoring, and responsible AI practices.
+Enable real-time and batch analytical workloads required for predictive fraud detection and risk management.
+Fraud & Risk Management
+Design data solutions supporting fraud detection, investigation, prevention, and intelligence gathering.
+Work with fraud operations, risk, and compliance teams to understand data requirements and operational challenges.
+Implement architectures capable of handling high-volume transactional data and complex analytical processing.
+Support the development of fraud analytics models through the provision of high-quality, governed datasets.
+Governance, Security & Compliance
+Establish enterprise data governance standards and frameworks.
+Ensure compliance with data protection regulations and internal security policies.
+Implement data classification, retention, lineage, and auditing capabilities.
+Embed security-by-design principles across all data solutions.
+Stakeholder Engagement
+Provide architectural leadership and technical guidance across business and technology teams.
+Produce architecture documentation, design artefacts, and governance assessments.
+Present architectural recommendations to senior stakeholders and governance boards.
+Support delivery teams through architecture reviews and technical assurance activities.
+About You
+Data Architecture
+ 
+Extensive experience designing and delivering enterprise data architectures.
+Strong understanding of modern data platform design principles including data lakes, lakehouses, data warehouses, and real-time streaming architectures.
+Experience with large-scale data integration and ETL/ELT frameworks.
+Strong understanding of data modelling methodologies and information architecture.
+AI & Machine Learning
+Experience architecting data platforms that support AI, machine learning, and advanced analytics solutions.
+Understanding of AI lifecycle requirements, feature engineering, model deployment, and monitoring.
+Knowledge of responsible AI, model governance, and AI security considerations.
+Fraud & Financial Crime
+Demonstrable experience working within fraud, financial crime, risk, cybersecurity, or intelligence-led environments.
+Knowledge of fraud detection techniques, behavioural analytics, anomaly detection, and transaction monitoring.
+Experience supporting fraud analytics, investigation platforms, or risk management solutions.
+Microsoft Data Ecosystem
+Strong experience across Microsoft's modern data platform, including:
+
+Microsoft Fabric
+Azure Data Lake Storage (ADLS)
+Azure Databricks
+Azure Synapse Analytics
+Azure Data Factory
+Azure SQL
+Microsoft Purview
+Power BI
+Azure Machine Learning
+Azure OpenAI Services
+Azure AI Services
+Security & Governance
+Strong understanding of:
+
+Microsoft Purview
+Microsoft Defender
+Microsoft Entra ID
+Azure Security Centre / Defender for Cloud
+Data governance frameworks
+Data privacy and regulatory compliance
+Data lineage, metadata management, and information protection
+About Us
+FDM is an award-winning global leader in tech and business talent solutions, backed by more than 35 years of industry experience. We have centres across Europe, North America, and Asia-Pacific, and a global workforce of over 2500 employees. FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning employer, currently listed on the FTSE4Good Index and as a 2026 Financial Times UK ‘Best Employer’. 
+ 
+Diversity and Inclusion
+
+FDM Group is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, national origin, age, disability, veteran status or any other status protected by federal, provincial or local laws.
+ 
+Why join us
+ 
+Career coaching, mentoring and access to upskilling throughout your entire FDM career
+Assignments with global companies and opportunities to work abroad
+Opportunity to re-skill and up-skill into new areas, develop non-linear career paths and build a skillset within your field
+Annual leave and work-place pension

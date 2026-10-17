@@ -1,0 +1,90 @@
+Senior Data Scientist- London
+
+
+About The Role
+We are looking for an experienced Senior Data Scientist to join a growing data and advanced analytics function within a major institutional investment organisation. This is initially a 6 month contract with potential to extend and will be a hybrid role based in London.
+ 
+The team is progressing from traditional reporting and data analytics towards more advanced analytics, machine learning and, over time, AI-enabled capabilities. This role will help bridge the gap between technical data science and the commercial needs of the business.
+
+The successful candidate will need more than strong technical skills. They must be able to understand investment-related business problems, work closely with non-technical stakeholders and translate complex questions into practical analytical solutions. 
+
+Responsibilities: 
+ 
+Develop data science and advanced analytics solutions that address genuine business problems.
+Work with business stakeholders to identify, define and prioritise valuable analytical use cases.
+Translate complex investment and institutional-client requirements into clear data science approaches.
+Build, test and improve statistical and machine-learning models.
+Explore complex datasets to identify patterns, relationships and commercially useful insights.
+Present technical findings clearly to stakeholders without a data science background.
+Support the organisation’s progression from foundational analytics towards more advanced and scalable capabilities.
+Contribute to the data and modelling foundations required for future machine-learning and AI-enabled solutions.
+Work alongside colleagues across data analytics, data science and machine-learning engineering.
+Apply structured reasoning to unfamiliar or ambiguous problems, explaining the rationale behind the chosen approach.
+Operate with appropriate independence while being transparent when further information, guidance or business context is required.
+The role sits within a function covering data analytics, advanced analytics, data science and machine-learning engineering, with a longer-term ambition to establish the foundations for AI engineering and agentic AI.  
+
+About You
+Significant professional experience in data science or advanced analytics.
+Strong hands-on experience developing statistical or machine-learning models.
+Strong analytical and problem-solving capability.
+The ability to explain how and why a technical approach has been selected, rather than simply producing an answer.
+Experience translating business questions into structured analytical problems.
+Strong communication and stakeholder-management skills.
+Confidence working directly with senior or non-technical business stakeholders.
+The ability to combine technical knowledge with commercial judgement.
+A genuine interest in financial markets, investment products or institutional investing.
+A transparent working style, including the confidence to acknowledge uncertainty and seek clarification where appropriate.
+Preferred Domain Experience:
+
+Candidates should ideally have worked in one or more of the following environments:
+
+Asset management
+Investment management
+Institutional investing
+Capital markets
+Wealth management
+Banking or broader financial services
+Financial markets or investment-product analytics
+Direct knowledge of institutional clients and investment products, including areas such as ETFs, would be particularly valuable. Candidates coming exclusively from unrelated sectors may require considerably more time to develop the necessary business context.
+
+Technical Skills:
+
+The meeting established the need for a technically strong senior data scientist, although it did not prescribe a definitive technology stack. The following should therefore be treated as recommended screening criteria rather than confirmed client requirements:
+
+Python for data analysis and modelling
+SQL and experience working with complex datasets
+Statistical modelling and hypothesis testing
+Supervised and unsupervised machine learning
+Model evaluation, validation and interpretation
+Data visualisation and communication of analytical findings
+Feature engineering and data preparation
+Experience taking analytical work beyond initial exploration or proof of concept
+Understanding of how data models and semantic layers can support future AI-enabled analytics
+Exposure to cloud data platforms or modern machine-learning environments
+Personal Qualities:
+ 
+The successful candidate is likely to be:
+
+Commercially aware and interested in how financial markets operate.
+Intellectually curious and motivated by difficult problems.
+Comfortable challenging assumptions and asking relevant questions.
+Able to communicate clearly and confidently.
+Logical and structured when working through unfamiliar scenarios.
+Honest when they do not know an answer, with the ability to explain how they would find one.
+Engaged with the wider purpose of the work, rather than focused only on building models.
+Capable of working independently without becoming disconnected from the business.
+The hiring manager is particularly interested in candidates who demonstrate authentic reasoning. Perfect answers are less important than showing a logical thought process, recognising uncertainty and responding transparently when additional information is needed.
+
+About Us
+FDM is an award-winning global leader in tech and business talent solutions, backed by more than 35 years of industry experience. We have centres across Europe, North America, and Asia-Pacific, and a global workforce of over 2500 employees. FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning employer, currently listed on the FTSE4Good Index and as a 2026 Financial Times UK ‘Best Employer’. 
+ 
+Diversity and Inclusion
+ 
+FDM Group is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, national origin, age, disability, veteran status or any other status protected by federal, provincial or local laws.
+ 
+Why join us
+ 
+Career coaching, mentoring and access to upskilling throughout your entire FDM career
+Assignments with global companies and opportunities to work abroad
+Opportunity to re-skill and up-skill into new areas, develop non-linear career paths and build a skillset within your field
+Annual leave and work-place pension

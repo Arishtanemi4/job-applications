@@ -1,0 +1,51 @@
+Graduate AI Engineer - London
+
+About The Role
+Software engineering has moved up the stack. AI now writes a growing share of the code; the harder, more valuable work is specifying what to build, judging whether it's right, and getting it trusted into production. This programme is built for that shift. 
+
+You will join our Agentic Engineering and Build Capability CoE as part of a client squad, working alongside senior engineers and Forward Deployed Consultants on real problems: agentic systems, AI-enabled products, and the evaluation and governance that make them safe to ship. We are not training you to write code AI can already write; we are training you to do what AI cannot: understand the problem, specify it precisely, evaluate the output, and defend your reasoning to engineers and the business alike. 
+
+We are looking for graduates who can already show us this in practice. If you have built something with AI (a side project, a hackathon entry, an automation that actually runs), bring it: we will spend more time on what you built and why than on your degree. 
+
+Key Responsibilities 
+Work inside a client squad, contributing to agentic and software engineering builds under the direction of a Forward Deployed Consultant or senior engineer. 
+Translate business problems into clear, testable specifications: the discipline that increasingly separates good engineers from AI that writes syntactically correct but wrong code. 
+Build and integrate AI-powered features using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) and agentic workflows. 
+Evaluate AI-generated and AI-assisted output against defined success criteria, using evaluation harnesses and golden datasets rather than judgement alone. 
+Apply security, governance and cost-awareness principles, including AI FinOps thinking, so what you build is reliable, scalable and safe to run. 
+Work directly with product owners and business stakeholders to understand what "done" actually means, not just what was asked for. 
+About You
+Skills & Knowledge 
+A demonstrable AI engineering portfolio: personal projects, hackathons, open-source contributions or coursework where you have actually built something with AI, not just studied it. 
+Confidence to make and defend a technical judgement call, curiosity to keep exploring how the tools are changing, and enough security in your own reasoning to say when you think an AI-generated answer is wrong. 
+Understanding of programming fundamentals and object-oriented concepts, strong enough to read and critique AI-generated code, not just write your own. 
+An informed view on how the software engineer's role is shifting: less time producing code, more time specifying, evaluating and taking accountability for it. 
+Strong communication skills: able to explain a technical decision to an engineer and a business outcome to a product owner, in the same week. 
+Comfortable working in a squad, taking direction from a Forward Deployed Consultant or technical lead, and contributing across build, evaluation and delivery. 
+Desirable 
+Experience with Python or another modern language, including using AI coding assistants (such as Copilot, Claude Code or Cursor) as part of your workflow. 
+Exposure to agentic frameworks, specification-driven development, or evaluation and testing tooling. 
+Understanding of software development lifecycles and Agile delivery. 
+Familiarity with version control (Git), cloud platforms or APIs. 
+Awareness of AI governance, safety or risk concepts. 
+Experience gained from academic projects, internships, bootcamps or personal builds, particularly anything you can show us running. 
+What Success Looks Like 
+We grade AI fluency separately from technical seniority, using FDM's AI fluency framework: AI Aware, AI Productive, AI Operational, AI Orchestrating. Within your first year, successful graduates will: 
+Progress from AI Aware to AI Productive, and be working towards AI Operational. 
+Deliver clean, tested, production-ready code as part of a live client squad.
+Specify, build and evaluate agentic and RAG-based solutions that others can trust without re-checking your work. 
+Apply governed, auditable engineering practice by default, not as an afterthought. 
+Present technical decisions clearly and confidently to both engineers and non-technical stakeholders, including product owners. 
+ Build the track record that opens the door to specialist tracks such as Agentic AI Engineer (AI Orchestration), FDM's most senior technical capability. 
+You are: 
+Confident enough to make a technical call and stand behind it, without needing to be told you're right. 
+Curious about how AI is changing the craft of engineering, and genuinely interested in finding out rather than assuming you already know. 
+Secure enough to say "I don't know" or "I think this AI output is wrong", and explain why. 
+Collaborative, and comfortable taking direction inside a squad while still bringing your own point of view. 
+Committed to building a portfolio of real, working things, not just credentials. 
+Interested in the business problem behind the code: what it's actually for, and who it serves. 
+About Us
+FDM is an award-winning global leader in tech and business talent solutions, backed by more than 35 years of industry experience. We have centres across Europe, North America, and Asia-Pacific, and a global workforce of over 2500 employees. FDM has shown exponential growth throughout the years, firmly establishing itself as an award-winning employer, currently listed on the FTSE4Good Index and as a 2026 Financial Times UK ‘Best Employer’. 
+
+Diversity and Inclusion
+FDM Group is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, national origin, age, disability, veteran status or any other status protected by federal, provincial or local laws.
