@@ -1,0 +1,55 @@
+Job Title
+AI Engineer *
+Vacancy No
+VN583
+Basis
+Permanent
+Full Time / Part Time
+Full Time
+Entity
+Aventum Group Management Services Ltd
+Location City
+London
+Job Details
+Role Summary
+
+As an AI Engineer, you will design, implement, and productionise behavioural learning systems that integrate directly into our digital products and workflows. You will focus on turning advanced behavioural, sequential, and causal AI models into reliable, scalable, maintainable production systems that power Digital Twins, agentic decision engines, and intelligent automation across our digital suite. This role bridges model development and real‑world implementation. You will work hands‑on with software engineers, ML engineers, and product teams to ensure behavioural intelligence is embedded end‑to‑end from data pipelines and inference services through to live product decisioning and monitoring.
+
+Role Accountabilities
+Design, implement, and deploy AI models that predict, optimise, or automate decision-making within production digital workflows.
+Translate behavioural and sequential modelling approaches (e.g. sequence prediction, intent modelling, imitation learning) into robust, production-ready systems.
+Build and maintain end-to-end AI pipelines, including data ingestion, feature engineering, model training, inference, and monitoring.
+Apply causal inference techniques to evaluate the real-world impact of AI-driven decisions and support data-informed product changes.
+Integrate AI services into existing platforms via APIs, microservices, and event-driven architectures in close collaboration with engineering teams.
+Partner with product and platform teams to ensure AI outputs are actionable, explainable, and aligned with business workflows.
+Support Digital Twin and agentic systems by implementing behavioural dynamics, state modelling, and decision process representations.
+Validate deployed models using offline replay, A/B testing, shadow deployments, and simulation frameworks.
+Ensure solutions meet production standards for scalability, reliability, security, and observability.
+Contribute to engineering best practices around testing, versioning, CI/CD, and model lifecycle management.
+ 
+Role Requirements
+Strong foundation in machine learning, applied statistics, or software engineering with a focus on building production systems.
+Demonstrated experience implementing sequence- or decision-based models (e.g. LSTM, Transformers, Markov models, RL-inspired methods) in real applications.
+Practical experience deploying AI models into production environments, not just experimentation or notebooks.
+Familiarity with behavioural modelling concepts such as imitation learning, behavioural cloning, or decision process modelling.
+Working experience with causal inference tooling or methodologies (e.g. DoWhy, EconML, CausalML) applied to real data.
+Strong Python skills and experience with ML frameworks such as PyTorch or TensorFlow.
+Experience building or integrating AI systems using APIs, services, pipelines, or orchestration frameworks.
+Comfortable collaborating in engineering-led product environments, balancing research insight with delivery constraints.
+Strong problem-solving skills, with the ability to iterate quickly from prototype to production.
+Skills and Abilities
+Strong expertise in machine learning, behavioural modelling, and AI-driven decision systems.
+Experience building and deploying production-ready AI solutions using Python, PyTorch, TensorFlow, or similar frameworks.
+Strong understanding of sequence modelling, intent prediction, causal inference, and agentic AI concepts.
+Ability to build scalable end-to-end AI pipelines, APIs, and microservices.
+Experience working with cloud-native architectures, CI/CD pipelines, monitoring, and observability practices.
+Strong analytical and problem-solving skills with the ability to translate research into business value.
+Excellent collaboration and communication skills, working effectively across engineering, product, and business teams.
+Self-motivated with a continuous improvement mindset and passion for emerging AI technologies.
+
+Management Duties
+No
+We are an equal opportunity employer, and we are proud to share that 93% of our employees say they can be themselves at work. We aim to hire our industry's finest people because the best people drive the best outcomes. And we forever challenge the status quo because we know there are always ways to improve things. Because together, we're limitless.
+
+We value applicants from all backgrounds and foster a culture of inclusivity. We understand the need for flexibility, so work in a hybrid model. Please let us know if you require any reasonable adjustments during the recruitment process.
+ 

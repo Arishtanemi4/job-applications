@@ -1,0 +1,61 @@
+ABOUT VERIAN
+
+Verian is a world-leading, purpose-led and independent research, evidence, evaluation and communications agency, providing services to governments and the public realm. We combine expertise in human understanding with advanced technologies and data science to help clients solve complex public policy challenges.
+
+We are seeking an AI Engineer / Forward Deployed Engineer to build and deploy AI solutions alongside researchers and clients in public policy analysis, consultancy and research. Depending on the project and your strengths, tasks may focus on AI engineering, experimental AI research, traditional machine learning/data science, client communication, or contributing to policy research.
+
+
+
+WHAT YOU WILL DO
+
+Given the diversity of our projects, you'll have the opportunity to focus on areas that align with your preferences and skills. Day-to-day responsibilities will include independently carrying out one or several of the following tasks, and where appropriate taking ownership of delivery within your area:
+
+AI engineering and autonomous systems development: building LLM applications and agentic workflows for research and analysis, including agent harnesses, context and memory systems, tool integrations and orchestration, with appropriate permissions and human oversight.
+Architecture scoping and experimentation: defining the problem and evaluating alternative approaches: for example, assessing whether to use agentic RAG, GraphRAG or no vector search; single-agent or multi-agent systems; and post-training methods or harness improvements. Using evidence to select an approach that balances research and business needs with task quality, reliability, complexity and cost.
+Technical implementation and testing: turning prototypes into reliable, deployable tools. Developing pipelines, APIs and interfaces; validating performance and failure handling on realistic research tasks; and ensuring data protection, reproducibility and monitoring. Maintaining and improving deployed solutions through user feedback.
+Research and analysis: working with policy researchers to apply AI and data science methods to research questions. Validating results against expert judgement and simpler methods, preserving source references and reproducible workflows, and contributing to analytical reports and evaluation methodologies.
+Client engagement and communication: Working closely with clients and project teams to understand their needs, define requirements and success criteria, and build solutions they can use. Demonstrating tools, gathering feedback, supporting adoption and contributing to technical proposals and clear policy-relevant findings.
+
+
+WHAT WE ARE LOOKING FOR
+
+We welcome applicants with solid practical experience who are ready to work independently across a range of AI engineering and research challenges. An ideal candidate will bring:
+
+Educational background: A degree in computer science, artificial intelligence, data science, statistics, computational social sciences, economics or a related field. Other disciplines and equivalent practical experience are welcome when supported by relevant skills and projects.
+Hands-on experience: You have 1-3 years of practical experience building and testing AI applications, ML models, or analytical workflows in professional or similarly substantial project settings. You can explain your contribution, how you evaluated it, the trade-offs you made and what you improved. Expertise in every area is not expected.
+Programming and AI engineering: Strong working knowledge of Python and experience working with JavaScript/TypeScript.
+Interest in public policy and research: Curiosity about research questions, data quality and the limits of an analysis.
+Curiosity and independent thinking: A proactive approach and drive to experiment. You follow AI research, model releases and developer tools, try relevant advances yourself, challenge assumptions constructively and use evidence to decide what to adopt, improve or stop. You are comfortable owning work end to end, making sound decisions within an agreed direction and seeking input when problems are unusually complex or ambiguous.
+Full English proficiency and excellent (technical) writing skills.
+
+
+NICE TO HAVE (NOT ESSENTIAL)
+
+Experience with agent harnesses, context, memory, tools, retrieval or orchestration.
+Familiarity with model APIs, MCP tool integrations, structured outputs, evaluations and execution traces, alongside version control, permissions and reliable deployment.
+Familiarity with policy evaluation, EU institutions and decision-making processes.
+
+
+GROW WITH US
+
+Our AI team offers significant autonomy and dedicated time for experimentation, supported by training and coaching. We support you in exploring methods and testing tools. Bring the initiative to propose experiments, pursue ideas independently and share lessons from successes and failures. We offer:
+
+Meaningful impact: Apply your skills to evidence and tools that help governments and third-sector organisations address societal challenges and improve people’s lives.
+Training and coaching: Develop your skills through practical experimentation, training and feedback across AI engineering, machine learning, policy research methods, data science, cloud services and project delivery.
+Salary: EUR 2,500-3,800 gross per month, depending on your qualifications and experience.
+Flexibility and wellbeing: We operate with no fixed office hours and offer remote-working options. For office-based employees, remote work is available for up to half of the time. Additional benefits include private employee health insurance*, extra days off and access to the Mindletic Emotional Intelligence Training App.
+*For office-based employees.
+
+
+
+DON'T SELF-SELECT OUT
+
+We don't expect candidates to meet every single requirement. We believe in building a diverse team with complementary skills. Moreover, whatever your starting point, we value your trajectory of growth and improvement most: how you learn, respond to feedback and turn new understanding into better work. If you're confident you can excel in some of these areas and are eager to learn others, we strongly encourage you to apply.
+
+
+
+HOW TO APPLY
+
+Please submit your CV through our application system. Where relevant, include links to GitHub, a portfolio or projects that help us understand what you have built. We review applications based on relevant skills, experience, projects and motivation. Only shortlisted candidates will be contacted.
+
+We value diversity and welcome applications from people with different backgrounds and experiences. If you require reasonable adjustments during the recruitment process, please let us know.

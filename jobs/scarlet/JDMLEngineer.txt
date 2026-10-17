@@ -1,0 +1,83 @@
+Machine Learning Engineer
+Location
+
+UK - London Office
+
+Employment type
+
+Full Time
+
+Department
+
+Applied Machine Learning
+
+Compensation
+
+£90K - £150K
+
+
+We pull medical technology from the future to solve human health.
+Scarlet is authorised to assess and certify medical devices. We combine clinical, technical and regulatory expertise with AI agents and software so rigorous certification can keep pace with product development at the world’s most ambitious technology companies, without lowering the safety bar.
+
+Our customers have cut a year or more from their certification timelines for new AI-enabled medical devices and shortened product-update cycles from months to weeks. You’ll join a team building the infrastructure that makes these outcomes repeatable at scale.
+
+
+
+About the role
+The Applied Machine Learning team owns production systems and pursues new ideas, from conception and prototyping through to deployment, evaluation and iterative improvement.
+
+Working with clinicians, assessors and engineers, we build reliable ML systems that help bring medical devices to market faster, without compromising safety. It’s a domain rich in text, data and expert judgment, with little precedent for much of what we’re building.
+
+You’ll own meaningful problems in how we assess medical devices: define success with domain experts, decide what to build and test, and take ML systems through deployment and measurable improvement in production.
+
+
+
+Responsibilities
+Things you might work on:
+
+Agentic document understanding – Build agents that search, parse and visually inspect messy technical files: scanned certificates, tables, architecture diagrams and thousands of pages of evidence. Find what matters and show exactly where it came from.
+
+Harnesses built for evidence – Develop custom agent harnesses for retrieving information across large document collections in varied formats. Preserve source attribution, minimise hallucination, and make deliberate trade-offs between accuracy, latency and cost. Deploy to production.
+
+Evals wired into real workflows – Define success with assessors and build datasets and benchmarks that capture a complex, nuanced domain. Measure retrieval quality, citation correctness and agreement with expert judgment alongside the impact on assessor effort, assessment quality and customer experience, including rework. Use the results to choose what to improve next.
+
+Applied AI alignment – Build useful agents that respect the impartiality and objectivity required of a certification body. Help people understand the evidence, recognise uncertainty and retain responsibility for consequential judgments.
+
+
+
+Who you are
+Creator of datasets – You roll up your sleeves and build the dataset you wish existed, rather than wait for someone else to give you one.
+
+Establisher of evals – You think from first principles about statistics and evaluating ML systems. You're suspicious of benchmarks that don't match reality.
+
+Builder of agent systems – You understand deep-learning, agent tools, context management and information retrieval, and how they interact.
+
+Shipper of software – 3+ years shipping software to production. You own deployment, monitoring and the investigation when something breaks.
+
+Security judgment – You’ve made and implemented pragmatic security decisions for production systems. You can reason about data access, permissions, untrusted inputs and actions with real consequences; design proportionate mitigations; and recognise when specialist review is needed.
+
+Systems design – You’ve designed, deployed and operated production systems. You can choose infrastructure that fits the workload, explain the trade-offs in complexity, reliability, security and cost, and work within shared engineering standards.
+
+Hacker – You take ambitious projects from concept to reality with whatever tools are at hand. You experiment, measure and change your mind.
+
+Builder – You're insatiably curious about real-world problems and care that what you build has clear economic and human value.
+
+Owner of ambiguous problems – You can point to an ambiguous problem you owned: working directly with domain experts to define success, choosing what to try, and following it through experiments and production to measurable improvement.
+
+
+
+Preferred qualifications
+Experience deploying agent systems with tool use, sensitive data or consequential actions, including evaluating their behaviour and designing safeguards.
+
+Experience building retrieval or document-understanding systems whose outputs must be checked against complex source evidence.
+
+
+
+Interview process
+Intro call with Alan – 45 mins
+
+Technical interview – 60 mins
+
+Working session in our London office with Alan and Jamie – 90 mins
+
+Culture and values interviews with James and Jamie – 2 × 30 mins

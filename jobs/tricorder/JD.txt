@@ -1,0 +1,78 @@
+Project Tricorder — Clinical Infrastructure for Field Operations
+We're looking for a hands-on engineer to build two foundations of the Tricorder product: the evaluation harness and training data pipeline behind our AI models, and a clinical knowledge base grounded in tactical combat care, SNOMED CT and ICD-10.
+
+About Project Tricorder - https://www.tricorder-systems.com/
+Most healthcare technology assumes a hospital: reliable power, connectivity and a clinician at a desk. Care increasingly happens somewhere else - in the field, in transit, in remote and contested environments, and in the critical minutes before a patient reaches a ward.
+
+Tricorder builds the deployable clinical infrastructure for that world: a rugged, self-contained hardware and software platform that lets clinical teams capture, monitor and act on patient data anywhere, even when the network or the grid can't be relied on. It is a dual-use venture serving defence medical and civilian pre-hospital care.
+
+Our prototype product is already in user testing. Edge AI sits at the core: multimodal language models that turn video, sensor data and clinical notes into patient records, drive predictions and inform data-driven learnings across deployments. To trust those models in the field, we need rigorous data and evaluation - that's where you come in.
+
+What you'll do
+You'll own two workstreams, working day to day with the founder and the FF build team.
+
+1. Data pipeline and evaluation harness
+Build the data foundations that tell us whether our models are good enough for clinical use.
+
+Data labelling: design labelling schemas and guidelines, set up tooling, and run labelling with clinical input, including quality checks and inter-annotator agreement.
+
+Data processing: build reproducible pipelines to ingest, clean, de-identify and transform multimodal data (video, sensor streams, text).
+
+Video data organisation: structure, version and catalogue video datasets so clips, annotations and metadata stay searchable and traceable.
+
+Training dataset preparation: assemble balanced, well-documented train, validation and test splits, with clear lineage from raw data to model input.
+
+Eval harness: build an automated harness that benchmarks vision-language and NLP models against clinically meaningful metrics, tracks regressions and supports build-vs-buy model decisions.
+
+2. Clinical knowledge base
+Build the structured clinical knowledge base that turns unstructured input into coded, interoperable records.
+
+Database design: design the schema and stand up the data store for clinical concepts and their relationships.
+
+Clinical terminologies: ingest and map TC3, SNOMED CT, ICD-10 and related NHS standards, including cross-mappings between them.
+
+Natural language processing: extract entities and relationships from clinical text and link them to coded concepts.
+
+Document handling: parse and structure clinical documents (PDFs, notes, forms) into the database.
+
+Clinical knowledge: work with clinicians to make sure the database reflects real-world clinical reasoning and pre-hospital workflows.
+
+By the end of the first 3 months, we'd expect a working eval harness in use for model decisions, a labelled and versioned core dataset, and a first version of the knowledge base linked to the product.
+
+What we're looking for
+We don't expect one person to be expert in everything below. Strong candidates will be deep in one workstream and credible in the other.
+
+Must-haves
+Strong Python and data engineering skills, with a track record of shipping production data or ML pipelines, not just research notebooks.
+
+Hands-on experience building ML evaluation frameworks, benchmarks or test harnesses, ideally for vision, video or language models.
+
+Experience running data labelling and training-data preparation, including annotation tooling and quality control.
+
+Working knowledge of databases and data modelling.
+
+Practical NLP experience: entity extraction, entity linking or document parsing.
+
+Comfort handling sensitive data under data protection and clinical safety constraints.
+
+Pragmatism and speed: you can work with ambiguity, make good build-vs-buy calls and ship in weeks, not quarters.
+
+Nice to have
+Experience with SNOMED CT, ICD-10, dm+d or other NHS clinical terminologies and coding.
+
+A background in health-tech, clinical informatics or another regulated domain such as defence.
+
+Experience with video data at scale (frame sampling, temporal annotation, multimodal datasets).
+
+Familiarity with FHIR or HL7 interoperability standards.
+
+Experience working with LLMs and VLMs, including edge or on-device deployment.
+
+Early-stage startup experience, especially as a founding or early engineer.
+
+Probably not the right fit if
+You need detailed specs and a large team around you to be effective.
+
+You prefer pure research over building tools people use every day.
+
+This is a high urgency opening, and we are flexible to consider applicants either on a more flexible consultancy agreement (rolling by mutual agreement, with a competitive day rate); or a long term permanent employment contract with shares as part of the package and scope to grow into a longer-term role as Tricorder builds its engineering team.
