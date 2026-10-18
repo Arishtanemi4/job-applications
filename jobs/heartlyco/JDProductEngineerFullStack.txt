@@ -1,0 +1,28 @@
+Product Engineer - Full Stack
+London, UK Wide
+Includes:
+Salary will be disclosed during the recruitment process
+Engineering
+About the role
+Overview
+A VC-backed insurtech is hiring a full-stack Product Engineer to build reliable systems that power end-to-end insurance claims processing. The role combines product engineering, operational workflow design, and customer-informed development.
+
+What you will do
+Build and own full-stack software powering insurance claim processing.
+Work with internal and external users to identify bottlenecks and improve claims workflows.
+Ship features across the stack using technologies such as Next.js, Node.js, cloud infrastructure, Postgres, and infrastructure-as-code.
+Collaborate directly with founders and a small engineering team.
+Help scale a 0-to-1 product in a large, operationally complex market.
+What we are looking for
+Strong full-stack engineering experience.
+Comfortable with modern web frameworks, backend services, databases, and cloud infrastructure.
+Excellent communication and product judgement.
+Able to operate in ambiguous, high-velocity environments.
+High ownership and willingness to work close to users.
+Package and benefits
+Competitive salary and transparent equity.
+28 days annual leave plus bank holidays.
+30 days remote work annually.
+Health insurance and company offsites.
+How to apply
+To express interest, please apply through HartleyCo. Please do not contact the hiring company directly.

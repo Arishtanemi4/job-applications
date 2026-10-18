@@ -1,0 +1,10 @@
+Hi,
+
+I'm applying for the Backend Engineer (Data & APIs) role. For the last 3 years I have built Python backends for data-heavy applications at HDFC Asset Management: FastAPI microservices on AWS, a normalised PostgreSQL schema with SQL functions and procedures, and ingestion scripts for the Morningstar API covering every fund in the Indian mutual fund market, refreshed fortnightly and monthly.
+
+On performance and reliability: I built ExpressJS APIs during development because the Python APIs were slower for our fund-comparison calculations, shipped through a one-click Jenkins and GitLab CI/CD pipeline, and hardened the apps (Nginx reverse proxy, RBAC over LDAP) until they passed the security team's VAPT after repeated failures.
+
+To be upfront, my backend work is Python and Node rather than Go, and my distributed-systems experience is microservices on separate AWS instances and scheduled cloud pipelines, not queues or streaming at scale. I'm completing an MSc in Data Science at Bristol (result awaited), based in Bristol and eligible for the Graduate Visa.
+
+My CV is attached. Thanks for your time,
+Kaustubh Sonawane

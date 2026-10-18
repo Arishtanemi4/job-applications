@@ -1,0 +1,10 @@
+Hi,
+
+I'm applying for the Product Engineer (Full Stack) role. For the last 3 years I have built internal products end to end at HDFC Asset Management, working directly with the people who used them: a ReactJS frontend, Python FastAPI microservices and a PostgreSQL schema on AWS, shipped through a one-click Jenkins and GitLab CI/CD pipeline. I started as the only engineer alongside my manager and later acted as de facto team lead for up to 4 interns.
+
+The closest match to a claims-style workflow is a pipeline I built with the analysts to remove a manual monitoring job: it parses 300+ daily emails from credit rating agencies into structured data, saving 60 analyst hours a month. When one agency began sending emails as images and broke the first version, I rebuilt the parsing on Azure OpenAI. I released each application to real users and changed it based on what they found, including recreating our Power BI dashboards in the React frontend because licensing was too costly to scale.
+
+To be upfront, my frontend work is React rather than Next.js, and I have provisioned infrastructure from CloudFormation templates prebuilt by our security team rather than writing infrastructure-as-code myself. I'm completing an MSc in Data Science at Bristol (result awaited), based in Bristol and eligible for the Graduate Visa.
+
+My CV is attached. Thanks for your time,
+Kaustubh Sonawane

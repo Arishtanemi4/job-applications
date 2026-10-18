@@ -1,0 +1,51 @@
+C++ Software Engineer - Remote
+ 
+
+Are you a C++ Software Engineer who enjoys variety? Like the idea of working from home with flexible hours, on tech that actually does some good?
+ 
+
+We're working with an ethical fintech that's gaining huge traction. They’re growing their small, close-knit engineering team and are looking for a Mid-Level Software Engineer with a solid C++ background but happy to work with other tools and languages too including React, TypeScript, AWS, Python and AI assisted development.
+ 
+
+Key Responsibilities
+ 
+
+Develop and maintain modern C++ code
+Build Python microservices and tooling
+Develop React / TypeScript frontends
+Work with AWS, Docker, CI/CD and Infrastructure as Code
+Support the deployment and scaling of AI / ML services
+Write high-quality, tested and secure code
+ 
+Requirements
+ 
+
+Strong commercial C++ 17/20/23 experience
+Experience with Python
+Experience with AWS/cloud platforms
+Knowledge of REST APIs, microservices and CMake
+Strong Git, testing and Linux/CLI skills
+Experience with Cursor and/or Claude Code
+ 
+Desirable: Open Banking, fintech/payments, React, OAuth2/OIDC or DynamoDB experience.
+ 
+
+What's on Offer?
+ 
+
+Up to £65k base salary
+Fully remote UK role
+Flexible working hours
+25 days holiday + public holidays
+Pension scheme
+Home office allowance
+Team meet-ups a few times a year
+Plenty of learning and interesting technical challenges
+Lots of growth and chance to take on responsibility
+ 
+Location: Based in UK
+
+UK work authorization required
+ 
+
+Sounds Interesting? Apply now for immediate consideration.

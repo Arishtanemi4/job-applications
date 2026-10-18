@@ -1,0 +1,19 @@
+Backend Engineer (Data & APIs)
+UK Wide
+Includes:
+Salary will be disclosed during the recruitment process
+Engineering
+About the role
+Overview
+A data-driven company is hiring backend engineers to build robust APIs and infrastructure.
+
+Role
+Focus on backend systems powering data-heavy applications.
+
+Responsibilities
+Build and maintain APIs
+Optimise performance
+Ensure system reliability
+Requirements
+Backend experience (Python, Node, Go etc.)
+Experience with databases and distributed systems

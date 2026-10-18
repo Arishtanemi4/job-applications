@@ -1,0 +1,10 @@
+AI Solutions Engineer / Forward Deployed Engineer, HDFC Asset Management Company Ltd. (July 2022 - July 2025)
+
+Worked directly with the Client Service, Compliance, Investment and Marketing teams of an asset manager, turning loosely defined business questions into data and analytics tools they used day to day.
+
+- Analysed customer data with Python (Pandas) and identified buying patterns using Market Basket Analysis (Apriori algorithm); handed the insights to the marketing team to act on.
+- Built Power BI dashboards for the investment team's fortnightly credit report, moving financial analysts from Excel and saving them 10 hours a week. Recreated the dashboards in ReactJS so the wider organisation could access the same data at lower cost than scaling Power BI licences.
+- Built a Python pipeline that parses over 300 daily emails from credit rating agencies into structured data and sends analysts a daily summary, saving 60 analyst hours a month.
+- Designed the PostgreSQL schema and wrote the SQL and Python ingestion for Morningstar fund data (every fund in the Indian mutual fund market, 2023-2025), integrated with the company's legacy data.
+- Designed and built GenAI (RAG) applications end to end with Azure OpenAI, LlamaIndex, FastAPI and ReactJS for Compliance, Client Service and Investment; released them to real users and improved them on feedback.
+- Acted as de facto team lead for up to 4 interns. Recognised internally with Best Team Project 2024 and 2025.

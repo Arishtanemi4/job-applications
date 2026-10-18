@@ -1,0 +1,29 @@
+Data Scientist - WPC - Analytics
+London, England, United Kingdom
+Machine Learning and AI
+
+
+Summary
+Posted:
+Oct 15, 2026
+Role Number:
+200685662-2114
+Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.  At Apple, extraordinary ideas have a way of becoming great products, services, and customer experiences very quickly. If you are an ambitious, hands on seasoned senior analytics, high-energy individual who is not afraid of challenges, we’re looking for you to join the Wallet, Payments & Commerce Analytics organization to craft the future for the Apple Pay business.
+Description
+In this role, you will serve as a strategic analytics partner to senior business leaders across multiple functions, driving high-impact, cross-functional initiatives from end to end. You’ll be responsible for translating complex business questions into structured analytical approaches, applying statistical and advanced analytical techniques to uncover insights, evaluate performance, and identify opportunities for growth and efficiency. Your work will involve delivering clear, data-backed recommendations that influence decision-making at the highest levels. You’ll collaborate closely with data engineering to ensure data quality and accessibility.   Our culture is about getting things done, iteratively and rapidly, with open feedback and debate along the way. We believe analytics is a team sport, but we strive for independent decision-making and taking smart risks.
+Minimum Qualifications
+Proven experience in an Analytics and Strategy role.
+Strong business acumen and the ability to think strategically and operationally.
+Be a self-starter, driven, accountable and a high-energy teammate.
+Excellent communication skills—able to distill complex analysis into simple, compelling narratives. Background in consulting or customer-facing, fast-paced analytical environment.
+Expertise with SQL, R or Python and data visualisation tools such as Tableau for full-stack data analysis, insight synthesis and presentation. Well versed with Applied Statistical/ML techniques.
+Preferred Qualifications
+Experience in the Financial Services or Fintech space.
+Skilled at operating in a cross-functional organisation.
+Ability to understand ambiguous and complex problems and design and execute analytical approaches and turn analysis into clear and concise takeaways that drive action.
+Curious business attitude with a proven ability to seek projects with a sense of ownership.
+At Apple, we're not all the same. And that's our greatest strength. We draw on the differences in who we are, what we've experienced and how we think. Because to create products that serve everyone, we believe in including everyone. Therefore, we are committed to treating all applicants fairly and equally. As a registered Disability Confident employer, we will work with applicants to make any reasonable accommodations. Apple will consider for employment all qualified applicants with criminal backgrounds in a manner consistent with applicable law. Learn more
+
+At Apple, we believe accessibility is a fundamental human right. You’ll find that idea reflected in everything here — in our culture, our benefits and our digital tools. By welcoming as many perspectives as possible, we help you build a career where you feel like you belong.
+
+Learn about accessibility in Apple’s workplace

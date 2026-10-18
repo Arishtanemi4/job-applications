@@ -1,0 +1,22 @@
+About the job
+Member of Technical Staff - AI Engineer Metcor Group | London | Hybrid, 3 days on site, occasional travel | Permanent, full time Reports to: Head of AI Engineering | Salary: £120k | No Visa sponsorship 
+You will re-shape how real engineering work gets done at the UK's leading facilities management company: how our jobs get scheduled, how we predict and prevent outages before they hit our clients. We are 600+ people serving thousands of client sites. Our competitors are watching AI happen. You will extend our lead. 
+You will be the second person in our AI team: what you build and how you build it becomes how Metcor does AI. No eighteen-month roadmap between you and production. Your deployments will move our revenue and land on our engineers in the field, and both will tell you quickly whether the thing you built works. Your budget for AI tools is unlimited, as long as you can show the business outcome. 
+How we work We define the KPIs before we build, not after. Every project states what it is supposed to move and by how much, we track it during development, and we hold ourselves accountable afterwards whether or not it flattered us. If a feature did not do what we said it would, we iterate. This is the part of our culture we are most deliberate about, and the part you will have the most influence over. 
+The problems 
+Computer vision on what engineers capture on site. 
+Offline LLMs. 
+Agentic-first UX design for your colleagues and especially our engineers out in the field.
+Model training, data analysis and trend spotting on decades of data. 
+Geo-routing and scheduling: right person, right site, right time.
+
+Who this suitsEssential 
+You have deployed agentic systems in production. If you have not done it commercially but can show a side project or demo that is genuinely agentic, that counts. We want to see it running, not described. 
+You have commercial instincts. You can tell the difference between tinkering for its own sake and a hard problem worth doubling down on because there is real value behind it. 
+You know the boundaries of AI: where it earns its place, where a rule or a query is the better answer, and how to tell before you have built the wrong thing. 
+You are self-led. You take a business problem, find the people who own it, and come back with something running. 
+Right to work in the UK. We are not able to sponsor visas for this role
+
+What would set you apart Lead or Staff level engineering. Deep production Python and SQL, your own services deployed and debugged on a cloud platform, and enough time in the job to have watched your own decisions age. An entrepreneurial or startup background. Comfortable with a blank page and no established process around you. You commit to a number up front and are comfortable reporting it honestly when it goes the wrong way. An MSc in Computer Science or a related discipline.
+One more thing. The job is desk based, but you will regularly spend a day out on site with our engineers, hi vis on. Those days are some of the best in the role: you see the work first hand, meet the people your tools are built for, and come back with the ideas worth building next.
+Apply CV plus a short note on one agentic thing you built, what it was meant to move, and whether it did: janosch.oppermann@metcor.co.uk. No agencies.

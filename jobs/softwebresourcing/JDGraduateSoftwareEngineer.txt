@@ -1,0 +1,41 @@
+Graduate C++ Software Engineer - Computer Vision
+
+
+We’re looking for a Graduate C++ Software Engineer to join a collaborative team building C++ systems for real-time media and video environments. You’ll be supported with industry leading training and mentoring so that your career will be off to a fantastic start.
+
+This is an excellent opportunity for someone at the start of their career who has a strong technical foundation and is keen to grow into a hands-on software engineering role. You may come from Computer Science or STEM discipline, with exposure to areas such as computer vision, geospatial, video, image processing or similar engineering domains.
+
+
+What we’re looking for:
+
+- Knowledge of C++ and Python through coursework, projects or a dissertation
+
+- Understanding of computer vision, video / image processing or related areas
+
+- Strong problem-solving skills and a thoughtful, structured approach
+
+- Good communication skills and a collaborative mindset
+
+- Knowledge of GPU / CUDA / OpenCL, video performance beneficial
+
+- Good degree Bachelors (2.1 or above), Master or PhD in a STEM subject
+
+
+What’s on offer:
+
+- The chance to work on real-world systems used in fast-paced media environments
+
+- A supportive, friendly and collaborative team culture
+
+- Ongoing learning and development opportunities with direct mentorship
+
+- Flexible / hybrid working
+
+- Competitive salary and bonus
+
+- A strong benefits package, including healthcare, pension, life assurance, wellbeing support, and generous holiday allowance.
+
+
+We’re particularly interested in candidates who show strong fundamentals, curiosity, and potential to design solutions to R&D problems. If you’re looking for a role where you can apply research and develop your technical background, build your C++ / Python skills, and grow over time in a supportive engineering environment, we’d love to hear from you.
+
+Sound like your kind of challenge? Apply now for immediate consideration or for a chat.

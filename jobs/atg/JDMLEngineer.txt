@@ -1,0 +1,81 @@
+Machine Learning Engineer 
+
+ATG has a wealth of data, with millions of guests visiting, eating, and drinking in our theatres every year, and there is a growing need to bring machine learning and data-driven decision-making into our core business processes. 
+
+The focus of this role is to improve revenue, customer satisfaction, retention, and acquisition by delivering production-ready machine learning solutions and actionable insights from our customer data. You will join a small, growing ML team at a pivotal time for ATG, taking ownership of defined parts of our ML estate, and working towards wider ownership as you grow. 
+
+We have built a Data Platform that collates our rich transactional and behavioural data in a cloud-based environment (Snowflake and AWS), enabling scalable analytics and machine learning across the business. 
+
+You will contribute to the development, deployment, and continuous improvement of machine learning systems, including a revenue management application used by teams across the UK, USA, and Europe. Working alongside other ML Engineers, you will take ownership of defined workstreams (for example, a regional pipeline, a monitoring layer, or a model component), progressively taking on more of the end-to-end lifecycle: data ingestion, model training and evaluation, deployment, pricing recommendations and production monitoring. 
+
+You will also have the opportunity to help design and implement AI/LLM-powered solutions, such as internal tools, decision-support systems, or workflow automation, ensuring they are well-evaluated, cost-effective, and integrated with our data platform. 
+
+You will work closely with Data Science, Technology, Product, and commercial teams, helping to bridge the gap between models, AI systems, and real business decisions.  
+
+Key responsibilities
+
+You will help us maximise the value we derive from our data, building and iterating machine learning models, propensity models, and audience segmentations. You will collaborate across technical and business teams to create assets that can be used and understood. 
+Take ownership of defined components of the revenue management application (i.e. regional pipelines, seat map and pricing data pulls, or model inference), including their reliability and ongoing improvement.
+Productionise and automate machine learning models end-to-end, including data ingestion, feature engineering, model training and evaluation, inference, and delivery of pricing recommendations.
+Build and maintain data pipelines and MLOps workflows (CI/CD, model versioning, reproducibility, runtime handling) in AWS and Snowflake.
+Support the diagnosis and resolution of production issues, including on-call style triage of failed pipeline runs and data quality problems, escalating to the Lead ML Engineer where needed.
+Design and implement monitoring for model outputs (data drift, prediction drift, anomaly detection) and build dashboards to track model behaviour and recommendation quality daily.
+Implement guardrails for pricing recommendations (thresholds, overrides, fallback logic) in line with agreed designs.
+Write well-tested, documented, maintainable Python and SQL, following team conventions and taking part in peer code review.
+Work with Data Science to take experimental models and prototypes into production, and with commercial teams to translate business needs into technical requirements.
+Document systems, runbooks, and model behaviour so that knowledge is shared across the team.
+Contribute to the design and build of LLM-powered solutions (e.g. internal tools, decision-support systems, automation workflows), including prompt management, versioning, and evaluation.
+Use our data platform to support and automate decision-making across the business, bringing data together to constantly improve our understanding of our products and customers.
+Be an active part of our data community as we build new capability across disciplines, sharing learning and contributing to team standards. 
+Your skills, qualities, and experience. 
+
+If you have most of the essential criteria, we encourage you to apply, and welcome transferable skills from other industries or backgrounds. We can give experience of any desirable criteria but may also use them to decide between candidates for this role.  
+
+Essential:  
+
+Proven experience as a machine learning engineer, data scientist, or similar role, with a track record of delivering ML work into production.
+Experience of building and optimising data science workloads in cloud environments (AWS preferred).
+Strong Python and SQL, including writing complex queries and well-structured, tested code.
+Experience deploying and maintaining ML models in production, with a working understanding of MLOps (CI/CD, versioning, reproducibility).
+Experience building monitoring, alerting, and observability for data or ML systems.
+Understanding of system reliability concepts (failures, retries, idempotency, fault tolerance) and an interest in designing safeguards for automated decision systems.
+Able to work effectively with data scientists and data engineers, and to communicate clearly with technical and non-technical colleagues and stakeholders.
+Able to manage your own workload on defined projects, ask for help early, and take on feedback and coaching.
+Desirable 
+
+Prior experience of a similar industry (limited capacity and variable demand).
+Experience with pricing, revenue optimisation, or demand forecasting.
+Experience building monitoring dashboards (e.g. Streamlit, BI tools).
+Experience working with LLMs or generative AI systems in a production or applied setting.
+Experience with Snowflake, Terraform or SageMaker pipelines.
+Interest in growing towards technical leadership, including mentoring, and owning a wider area of the platform. 
+About Us - Our values
+
+ATG Entertainment’s values set the tone for how we work, how we treat one another, and the culture we continue to build across the UK and the wider organisation.
+
+THRIVE doing what we love (with passion and dynamism)
+CONNECT through every act (with collaboration and kindness)
+DARE to do different (with curiosity and courage)
+PERFORM at our best (with customer focus and ownership)
+Our Corporate Social Responsibility pillars
+
+Everyone at ATG Entertainment is expected to play their part in achieving our goals and upholding our Corporate Social Responsibility priorities:
+
+Inclusion: Committing to creating and upholding a positive, inclusive culture that nurtures potential and supports well-being.
+Sustainability: Playing your part in reducing our environmental impact and finding more sustainable ways of working.
+Next Generations: Encouraging the next generation in live entertainment by contributing to our outreach and training programmes, including mentoring students and trainees, and supporting our Creative Learning and Community Partnerships work. 
+Our culture
+
+You’ll help us uphold a positive culture around meeting our obligations, by having a positive attitude to health and safety, legal and insurance requirements and take care to understand our policies and procedures. 
+
+We are all expected to participate actively in the life of the company, and opportunities will arise for you to collaborate with others across the business. Everyone at ATG Entertainment is expected to be flexible and adapt as the needs of the business change, taking on new or different responsibilities as the need arises. 
+
+Our Inclusion, Diversity, Equity and Access Mission Statement - A Stage for Everyone
+
+Our stages are a platform for compelling stories – stories that are for all, by all, and of all. We shine our spotlight on our differences and believe that understanding and celebrating these differences makes us better global citizens. We are passionate about the pursuit of true diversity and equality. We strive to make our venues beacons of these ideals in our communities. Onstage and off, we hold ourselves accountable for nurturing an inclusive culture, one in which everyone can bring their authentic selves. At ATG entertainment, we provide a stage for everyone.
+
+We recognise that we do not have all the answers; but we strive to listen, to learn and to change in order to ensure ATG Entertainment becomes a truly inclusive organisation. We therefore welcome and encourage applications from individuals from the widest possible range of backgrounds and particularly welcome applications from those currently underrepresented in our workforce.
+
+We are a Disability Confident Committed Employer, which means that we are taking action to ensure that people with disabilities and long-term health conditions feel supported, engaged and able to fulfil their potential in the workplace. We will offer an interview or recruitment event to disabled candidates who tell us they wish to participate in the scheme and who demonstrate in their application that they best meet the essential criteria for the role. Where we receive more applications than we are reasonably able to interview for any given role, we will retain applications for the next available interview opportunity wherever possible.
+
+If you’d like to discuss accessibility prior to applying, please email recruitment@atgentertainment.com for a confidential discussion. 

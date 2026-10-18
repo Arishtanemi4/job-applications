@@ -1,0 +1,112 @@
+NSL- ML Engineer
+Back to search
+Apply now
+Location
+London , United Kingdom 
+
+Engineering
+
+Experienced professionals
+
+ 
+
+Location(s): UK, Europe & Africa : UK : London 
+
+ 
+
+BAE Systems Digital Intelligence is home to 4,500 digital, cyber and intelligence experts. We work collaboratively across 10 countries to collect, connect and understand complex data, so that governments, nation states, armed forces and commercial businesses can unlock digital advantage in the most demanding environments.
+
+.
+
+Job Title
+
+Machine Learning Engineer
+
+Location
+
+London. Full-time.
+
+Job Description
+
+Are you passionate about cutting-edge AI and machine learning in digital services, and want to deliver positive real-world value to the UK? We are looking for a ML Engineer to join our team and help solve a variety of interesting problems in the national security space.
+
+At BAE Systems Digital Intelligence, we work with a wide range of government customers, across defence, space, and government. In our national security AI team, we undertake a variety of projects covering exploratory research into AI methods and approaches, bespoke solutions to complex customer problems, and infrastructure projects working across large customer datasets.
+
+As a Senior ML Engineer, you will design, develop, and iterate on machine learning models that support national security objectives. You will collaborate with Data Scientists, Software Engineers, Product Management and Government business stakeholders across the full lifecycle, from hypothesis through to production deployment. Leveraging our AWS-based infrastructure you will apply modern MLOps/LLMOps tooling to run rigorous experiments, track results, and deliver scalable solutions.
+
+A key aspect to the role is to balance rapid experimentation with production readiness, prototyping and validating ML approaches while ensuring successful experiments integrate seamlessly into operational systems. 
+
+This is an exciting time to join our team to help pioneer both our customer's and our own AI adoption journey. Not only will you be directly making a huge impact through the solutions you develop, you’ll be doing it for an organisation who makes a huge impact to the security of the UK.
+
+Core Duties
+
+Design and develop machine learning models for traditional ML use cases (forecasting, classification, anomaly detection) and GenAI/LLM applications
+Lead experimentation cycles: define hypotheses, design experiments, evaluate results, and iterate rapidly while adhering to governance requirements
+Transition validated experiments into production-ready solutions, working closely with other engineers on deployment and monitoring
+Build and optimise ML pipelines using AWS services and experiment tracking tools 
+Develop and integrate LLM-powered solutions for tracing, evaluation, and production monitoring
+Implement robust experiment tracking, model versioning, and reproducibility practices with full audit trails
+Design feature engineering approaches and contribute to feature store development
+Support production models through monitoring, performance analysis, and continuous improvement
+Apply responsible AI practices, including model explainability and fairness assessment
+Present experiment findings and production outcomes to stakeholders, articulating operational and strategic value
+Mentor junior colleagues and share learnings across the team
+About you
+
+You will have experience in many of the following:
+
+Hands-on experience developing and deploying ML models in Python using frameworks such as scikit-learn, XGBoost, PyTorch, or TensorFlow
+Strong experience with AWS ML services (SageMaker, Lambda, S3) in production environments
+Strong experiment design skills: hypothesis formulation, A/B testing methodology, and statistical evaluation
+Proven track record transitioning models from experimentation to production with appropriate governance and quality controls
+Experience with experiment tracking and MLOps tooling (MLflow, Weights & Biases, Data Version Control)
+Experience developing LLM/GenAI applications, including prompt engineering and RAG architectures
+Familiarity with LLMOps tooling such as LangSmith, LangChain, or LangGraph
+Understanding of model evaluation, validation techniques, and production monitoring
+Experience working in cross-functional teams from problem framing through to production delivery
+Ability to communicate complex findings to non-technical audiences clearly
+Strong problem-solving skills and knowing when AI is not the answer
+It would be great if you also had experience in some of these, but if not we’ll help you with them:
+
+Experience with advanced LLM techniques: agents, tool use, and agentic workflows
+Experience with vector databases (Pinecone, Weaviate, pgvector) for RAG applications
+Experience with feature stores (Feast, AWS Feature Store)
+Experience with containerisation (Docker) and orchestration (Kubernetes, ECS)
+Familiarity with Infrastructure as Code (Terraform, CloudFormation)
+Experience with data processing frameworks (Spark, Dask) for large-scale workloads
+Understanding of data governance and compliance frameworks
+Experience working in regulated industries (finance, healthcare, or similar)
+Security Clearance is required for this vacancy. If you are not currently Security Cleared, you will need to be eligible for this and willing to go through the process.
+
+How we will support you
+Work-life balance is important; you can work around core hours with flexible and part-time working
+As many of our customers work predominantly in the office, we expect all of our staff to work at least 3 days per week in the office
+You’ll get 25 days holiday a year and the option to buy/sell and carry over from the year before
+Our flexible benefits package includes private medical and dental insurance, a competitive pension scheme, cycle to work scheme, taste cards and more
+You’ll have a dedicated Career Manager to help you develop your career and guide you on your journey through BAE
+You’ll be part of our company bonus scheme
+You are welcome to join any/all of our Diversity and Support groups. These groups cover everything from gender diversity to mental health and wellbeing
+About our team
+Our people are what differentiates us; they are resourceful, innovative and dedicated. We have a mix of generalists and specialists and recognise that this diversity contributes to our success. We recognise the benefits of forming teams from a mix of disciplines, which allows us to come up with cutting-edge, high-quality solutions. Our breadth of work across the Public Sector provides diverse opportunities for our people to develop their careers in new areas of expertise and with new clients.
+
+You’ll be part of a big company, but we try to create a culture that feels like a small one. The work will stretch you and be challenging, but we encourage a healthy work-life balance. Most of all, we know teams who work well together also perform well. We’ll do everything we can to ensure you have fun at work, and in social activities outside of it whether that’s virtually or in person, as conditions allow.
+
+You will be joining our National Security business which is the largest area within our UK business. Our mission is to be the most trusted partner for our National Security clients in delivery of their core mission. At the end of 2020 we had over 700 employees working across our security and law enforcement customers. This year, we are looking to build on our success and grow even further by recruiting over 100 new members to our team.
+
+We have a rich history of working within National Security. In fact, we have over 40 years’ experience of delivering advice and solutions to our customers in this sector, supporting them in carrying out their vital missions.
+
+More about BAE Systems
+You will work for a division of BAE Systems who helps nations, governments and businesses around the world defend themselves against cyber crime, reduce their risk in the connected world, comply with regulation, and transform their operations. We’re a consultancy and products business and employ smart, motivated individuals who work together across a range of projects and products. You’ll get to work on a variety of different systems for different customers throughout your career with us. We’re passionate about Diversity and Inclusion in our workforce and the people you’ll work with will reflect this. We employ over 4,000 people across 18 countries in the Americas, APAC, UK and EMEA.
+
+For more information please visit our website:
+https://www.baesystems.com/en-uk/uk-businesses/digital-intelligence/markets/national-security-and-law-enforcement
+
+Help us secure a connected world. Apply now and be inspired.
+
+Life at BAE Systems Digital Intelligence 
+
+We are embracing Hybrid Working. This means you and your colleagues may be working in different locations, such as from home, another BAE Systems office or client site, some or all of the time, and work might be going on at different times of the day.
+
+By embracing technology, we can interact, collaborate and create together, even when we’re working remotely from one another. Hybrid Working allows for increased flexibility in when and where we work, helping us to balance our work and personal life more effectively, and enhance well-being.
+
+Diversity and inclusion are integral to the success of BAE Systems Digital Intelligence. We are proud to have an organisational culture where employees with varying perspectives, skills, life experiences and backgrounds – the best and brightest minds – can work together to achieve excellence and realise individual and organisational potential.

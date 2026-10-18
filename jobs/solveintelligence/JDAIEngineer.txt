@@ -1,0 +1,69 @@
+Want to build AI agents that thousands of patent professionals rely on every day? We're a fast-growing, Series B startup putting state-of-the-art AI in the hands of legal teams across 6 continents, looking for engineers who want real ownership and real impact.
+
+This is your chance to join a rocket ship! 🚀
+
+🏗️ The Role: AI Engineer
+
+We are looking for super-talented AI engineers to help us build state-of-the-art AI agents, extremely fast. You'll be joining the most lean, talent-dense, and fast-moving engineering team in London. You'll be responsible for:
+
+Developing production-ready AI agents. We've built proprietary agents and tools for drafting, analysing, and evaluating patents. You'll improve these agents and ship new ones that directly move product quality and customer adoption.
+
+Context management, tools and prompt engineering. You'll ensure our AI manages its context effectively at scale, reliably handling thousands of documents while producing the highest-quality output. You'll build the specialist tools and integrations that make this possible, and engineer prompts alongside our IP experts to maximise performance.
+
+Building a state-of-the-art evaluation pipeline. Robust evals keep AI output high-quality and objectively steer our R&D. You'll build this pipeline and benchmark performance across large datasets.
+
+👤 About you
+As an AI engineer, you will have extensive experience building AI agents and products to solve impressively difficult problems through past projects, designs, or GitHub contributions.
+
+✏️ Essential requirements
+
+Expert in Python.
+
+Industry experience of shipping agents and/or evaluation pipelines into production.
+
+Experience with context engineering and prompt engineering
+
+Familiarity with back-end development and Postgres databases.
+
+Experience with front-end development (Typescript/React).
+
+Extremely clear writer and communicator.
+
+Nice to have:
+
+Publications at top machine learning conferences (e.g. NeurIPS, ICLR, ICML) or in adjacent fields.
+
+💰 What we offer
+Competitive base salary depending on skill and experience.
+
+Significant equity — we want you to take ownership in Solve Intelligence and share in the success that lies ahead.
+
+Full visa sponsorship.
+
+Opportunity to work with a super smart and ambitious group of people building something people want.
+
+Private medical insurance.
+
+Free meals.
+
+🚀 About Solve Intelligence
+Solve Intelligence is the fastest-growing startup transforming the IP landscape. Solve's AI platform manages everything from invention harvesting and patent generation through to litigation and licensing.
+
+Growth: 20–30% MoM revenue growth; selling to 600+ global IP teams across 6 continents (DLA Piper, tech giants, boutiques, etc); 8 figures of ARR — all just ~2 years since we started.
+
+Backing: $55M backing from YC, 20VC, Microsoft, Thomson Reuters, and the founders of top companies like Stripe, Perplexity, Tinder, Deel, Hugging Face, and Canva.
+
+Impact: 50–90% efficiency and quality improvements.
+
+See our latest Series B announcement.
+
+We're on a high-growth trajectory, and we're looking for people who want to join us on the journey to building a generational AI company.
+
+👥 Meet the founders
+Sanj (Chief Research Officer and co-founder): Sanj did his MSci in Physics at the University of Cambridge and his PhD in AI at the Gatsby Unit, UCL. He won awards at top AI conferences, worked on the R&D team at Huawei, and received widespread attention for his contributions to open-source LLM projects on GitHub. He joined Magic Carpet AI as employee #4, where he developed AI strategies for trading, before the company was acquired.
+
+Chris (Chief Executive Officer and co-founder): Chris did his undergrad at Imperial College London, his masters at the University of Cambridge, and his PhD in machine learning at UCL, during which he published 10+ papers and won awards at top AI conferences and journals. Prior to founding Solve, Chris worked at The Alan Turing Institute, InstaDeep, and Dyson.
+
+Angus (Chief Technology Officer and co-founder): Angus did an MEng in Computer Science at the University of Bristol where he won a cyber security scholarship at GCHQ before working at Qualcomm. He then joined a London-based hedge fund, Coremont (Brevan Howard). There, he led a small team to build a greenfield trade processing platform which scaled to millions of trades per day.
+
+Ready to build the future of AI? Apply now. 🚀

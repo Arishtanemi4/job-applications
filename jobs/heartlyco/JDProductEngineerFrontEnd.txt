@@ -1,0 +1,28 @@
+Product Engineer - Front End Leaning
+London, UK Wide
+Includes:
+Salary will be disclosed during the recruitment process
+Engineering
+About the role
+Overview
+A VC-backed insurtech is hiring a front-end-leaning Product Engineer to build core systems behind fast, reliable AI-powered insurance claims. The company combines AI and claims expertise to help insurers manage claims from intake through coverage decisions and payments.
+
+What you will do
+Build polished, reliable front-end and product experiences for insurance workflows.
+Work closely with internal teams and external users to improve claims handling.
+Own product features end-to-end, from requirements through launch.
+Partner with founders, design, operations, and engineering on high-impact product decisions.
+Contribute to a platform that improves speed, accuracy, and compassion in claims handling.
+What we are looking for
+Strong front-end engineering experience with modern JavaScript/TypeScript frameworks.
+Product mindset and interest in building for real operational users.
+Comfortable working across the stack when needed.
+Excellent communication and ability to operate in ambiguity.
+High ownership and bias toward shipping.
+Package and benefits
+Competitive salary and transparent equity.
+28 days annual leave plus bank holidays.
+30 days remote work annually.
+Health insurance and company offsites.
+How to apply
+To express interest, please apply through HartleyCo. Please do not contact the hiring company directly.

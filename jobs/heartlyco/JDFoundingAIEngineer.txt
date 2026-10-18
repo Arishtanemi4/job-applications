@@ -1,0 +1,19 @@
+About the job
+Founding AI Engineer | London | AI-first product studio - £100,000 - £150,000 + EquityEmployee #3
+I'm working with a well-funded early-stage startup building the agent systems that turn a spec into a shipped, live product, not a prototype. They've recently closed a multi-million-dollar round backed by leading technology and gaming investors.
+This is a founding hire working directly with the founder, owning the agent process end to end.
+The role
+Own the agent process: model selection, prompting, and agent loop/orchestration design
+Own the context layer: managing context and using data to improve agent output
+Build on and extend the current agent pipeline, deciding where it needs more flexibility for deeper context and planning
+Real scope to shape how AI is used across the whole product, not bolted onto one feature
+
+They're looking for
+Someone who's built AI agents that write, test, or ship code, not just agents that answer questions or automate business tasks
+Genuine hands-on builder energy: heavy personal use of tools like Claude Code or Cursor, side projects, hackathons, or open-source work in this space count for a lot here
+Comfortable in an early-stage, in-person, high-ownership environment
+
+
+Requirements added by the job poster
+
+• Authorized to work in United Kingdom

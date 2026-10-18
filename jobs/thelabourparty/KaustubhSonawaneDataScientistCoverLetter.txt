@@ -1,0 +1,16 @@
+Dear Labour Party hiring team,
+
+I am applying for the Data Scientist post. I am completing an MSc in Data Science at the University of Bristol (awaiting result) after three years at HDFC Asset Management, where my job was to turn data into something non-technical colleagues could act on. Below is how my experience meets each part of the person specification, including where it does not yet.
+
+Statistical modelling: My MSc gives me degree-level statistics, and I use it in applied work. My dissertation with AstraZeneca produced a scoring and ranking algorithm that weights evidence across six data layers, calibrates scores so they stay comparable across groups and sorts results into confidence tiers; my focus was the data preprocessing, the scoring and the AI assistant, and I refined the tool with feedback from the scientists who used it. In a second MSc project my team compared several model architectures across five random seeds and three metrics. I placed 4th at Project Hack 27 predicting a competition winner from wellbeing and temperament survey data, and 3rd at the University of Bristol datathon on fraud detection. I work in Python and R.
+
+Polling methodology: I have not conducted polls or designed surveys professionally, and I have not yet built weighted or multilevel models of public opinion. The closest I have come is analysing survey responses in the Rolls-Royce hackathon and a household and neighbourhood-level analysis for the Swindon Borough Council fuel-poverty hackathon. I would be learning polling methodology on the job, and I would arrive with the statistical grounding to learn it properly.
+
+Analysis, reporting and visualisation: At HDFC I built Power BI dashboards for the investment team's fortnightly credit report, moving financial analysts off Excel and saving them 10 hours a week. Power BI licensing was too costly to scale across the organisation, so I recreated the dashboards in a ReactJS application that gave many more people access to the same data. I wrote the Python and SQL behind them and am used to explaining results, and their limits, to colleagues who are not statisticians.
+
+Using data to drive decisions: I analysed customer purchase data with the Apriori algorithm and handed the buying patterns to the marketing team, who decided how to act on them; I saw my job as giving a decision-maker evidence they could trust and question, not making the decision for them. I also built a pipeline that read over 300 rating-agency emails a day and sent analysts a daily summary, saving about 60 analyst hours a month. Working directly with Client Service, Compliance, Investment and Marketing taught me to start from the question the stakeholder has to answer, which is how I would approach polling and voter data.
+
+I am based in Bristol, hold a Student Visa and am eligible for the Graduate Visa, which gives two years of full working rights, so the one-year fixed term fits within it. I understand the standard arrangement is four days a week in the office and would be glad to discuss location and start date. Thank you for considering my application.
+
+Kind regards,
+Kaustubh Sonawane
