@@ -1,0 +1,159 @@
+AI Full Stack Engineer
+
+Better Society Capital
+
+Employment Type
+Full time
+Permanent
+Location
+Hybrid · London, City of, UK
+Hybrid – London, EC1Y and homeworking
+Salary
+£50,400 - £65,800 (GBP)
+Seniority
+Mid-level
+Closing: 11:59pm, 11th Oct 2026 BST
+Job Description
+Job Title: AI Full Stack Engineer
+
+Department: Investment
+
+Reports to: Head of AI
+
+Grade and Salary: £50,400 - £65,800 per annum
+
+Contract: Fulltime, Permanent
+
+Location: Hybrid / London, EC1Y and homeworking
+
+The Opportunity
+
+This is an exciting time to join BSC. We are investing heavily to make us a digitally native organisation for the future of impact investing. A critical part of this is adopting and embedding AI across our work (there is equivalent work happening across data and IT). There are broadly three areas where we’ll apply an AI lens:
+
+1.      Our internal operations (everything from investment, to comms, to finance, workflows)
+
+2.      Our investment thesis (what should we be investing in in an AI native world)
+
+3.      The social impact ecosystem (how can we help others get up the AI curve faster and what can we build with the ecosystem.
+
+We are currently focussed on internal operations as the starting point. There are three buckets of work here:
+
+1.      AI Infrastructure – the foundation that everything sits on i.e. establishing and maintaining AI governance and onboarding/expanding ‘foundational’ AI tools across the organisation (e.g. Claude)
+
+2.      AI Academy – giving our team the mindset, knowledge, and behaviours to thrive in an AI native world (e.g. our AI speaker series, training programme, hackathons, etc.)
+
+3.      AI Innovation Lab - the prompts/Claude skills, automated AI workflows, agents, and products that we build for our team to raise the ceiling of what’s possible
+
+The AI team is a team of two (Head of AI and this role) and formally sits within the investment team (to be closer to the value we want to create), although in practice we sit between investment and a Transformation team with c.10 FTEs.
+
+Your work will be mainly around the AI Innovation Lab but is customisable based on your career goals. Every organisation will have to go through an AI transformation at some point and so this is a role that will be high value for the future. This position gives you the opportunity to play a significant role in that transformation. The learning curve will be steep but rewarding.
+
+You can download the candidate pack here
+
+What you will do:
+
+Bring deep AI technical expertise. Our Head of AI combines a strong understanding of BSC and investment (internal hire from the investment team) and intermediate knowledge of technical foundations, statistics, & GenAI and agentic technologies. Your advanced technical capability will complement this experience, creating a powerful combination.
+
+This is a ‘Swiss army knife’ role. You will have a broad remit of projects to work on that will require different skill sets across the entire lifecycle of a project. Recent/current projects include:
+
+o   Automating screening workflows in our venture pipeline with AI
+
+o   Evaluating/building a range of connectors via MCP for Claude
+
+o   Creating agentic flows to help our engagement team discover new possible investors and tailor outreach for them
+
+o   Creating our prompt and skill library with a particular focus on impact assessment (you can read about one of our experiments in this paper published by Stanford)
+
+o   Working on data pipelines with AI (e.g. ingestion, verification) with our data team
+
+Sit on our AI Taskforce and Technical Design Authority making key decisions about our AI strategy and execution, desired architecture, core agentic capabilities (e.g. what memory system to set up for our agents) AI tooling, etc. 
+
+Design and deliver initiatives to support our team to develop the mindset, knowledge, and behaviours to thrive in an AI native world (e.g. run hackathons)
+
+Participate in at least one ‘BSC Citizenship’ activity, helping to make BSC a great place to work. This could be helping to organise our summer or winter social, joining the Staff Council or helping with health and safety 
+
+What you will bring - Qualifications & Experience
+
+Essential
+
+Strong technical & leadership experience across roles including data, IT or AI, with evidence of making & contributing to significant technical decisions and taking ownership of complex work.
+
+A demonstrable track record of shipping technical products that users depend on some of which are AI / agentic products
+
+Acted as a technical advisor / thinking partner with organisational stakeholders in key decisions e.g. build vs. buy, vendor choices, architecture design etc.
+
+An appetite for learning, and a track record of staying technically current in a fast-moving field; much of what this role uses in two years does not exist yet, so your ability to keep pace and pick up new tools and techniques matters more to us than mastery of any single one today
+
+A passion and demonstrable commitment to improving lives in the UK
+
+Desirable
+
+Degree /MSc in computer science / data / AI or equivalent (including professional training or other signals of technical capability like open-source contributions)
+
+Work experience in impact/sustainable investing or our asset classes (property, debt, venture, outcome contracts) – you will be working closely with our investment team so familiarity with investment workflows will be useful
+
+ 
+
+Skills, Abilities & Attributes
+
+ Technical foundations are essential for this role: strong Python, fluent with AI-assisted coding tools, comfortable working with a range of languages across the stack
+
+AI and LLM expertise are essential for the role: you understand the technical elements well enough to make confident decisions (how transformers work; familiarity with fine-tuning, RAG, embeddings; interpreting benchmarks; understanding of current model landscape, etc.) and are comfortable with building and deploying related products (prompt engineering, running evals, setting up guardrails, MCPs etc.)
+
+Prompt engineering, prompts/skills are seen as ‘products’ that are built with users in mind, iterated, evaluated, versioned, etc. and you can be a credible owner of our prompt/skill library
+
+Context engineering, you can think through what information a model / agent needs to execute a given task and how best to deliver it efficiently and effectively (including the necessary data pipeline work to get it there)
+
+End-to-end ownership, you’re comfortable working with a project from problem discovery and scoping through to deployment and iteration. This is particularly important on key design choices that affect architecture and security, and you are able to deploy the right level of engineering rigour for a given problem. You are comfortable working solo or as part of a small project team
+
+Stakeholder engagement, you’re a clear communicator and can work with people from different functions (investment, comms, engagement, etc.) especially when they’re non-technical
+
+Ability to work closely with our data team on getting data in / out of our data infrastructure (Fabric) as well as using AI to help with data pipelines and workflows (e.g. data ingestion)
+
+Ability to work closely with our IT team on IT/AI architecture, maintaining our IT security, and configuring the interface between IT and AI work (permissions, SSO, authentication, secrets/API key management etc.)
+
+Familiarity with Microsoft ecosystem (Graph API, Azure, SharePoint, Power Automate, etc.). Our IT team manages this, and we will be working closely with them for our AI/agentic builds
+
+Familiarity with Anthropic products: Claude, Claude Code, Claude Cowork, Managed Agents, etc. 
+
+Cost modelling: given rapidly changing landscape of provider business models and price structures, this is an important skill to make sure we’re remaining within expected budgets 
+
+Don’t meet every requirement? Studies have shown that women and people from racialised communities are less likely to apply to jobs unless they meet every single qualification. If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+How to Apply & Interviews:
+
+Closing Date:  Sunday 11 October - 23:59pm
+
+Please apply via Applied which is designed to minimise unconscious bias in recruitment. Your application will be anonymised before being reviewed by the hiring panel.
+
+NB You’re welcome to use AI tools to support small edits, such as improving grammar, structure or clarity, but your CV and supporting answers should reflect your own experience, knowledge, skills and motivations. Applications that feel authentic and genuinely personal are most likely to receive a high score.
+
+We may use AI tools to support parts of our recruitment process, always with human oversight and in line with our principles on fairness, transparency and data protection. Read more about how we use AI in hiring here
+
+Interviews 
+
+Initial screening: w/c 12th October
+
+Round 1 interviews (virtual): w/c 2nd November
+
+Round 2 interviews (virtual): w/c 16th November
+
+Round 3 interviews (in-person): w/c 23rd November
+
+We are a Disability Confident Committed employer. Disabled applicants who meet the essential criteria will be considered for an initial screening interview. When application numbers are high and we are unable to interview everyone who meets the minimum criteria, we will prioritise those who best meet the essential requirements of the role. 
+
+We are defining a disability in accordance with the Equality Act 2010, as a person who has a physical or mental impairment, and the impairment has a substantial and long-term adverse effect on their ability to carry out normal day-to-day activities. You will be asked in your Applied application whether this applies to you.
+
+If you have a disability or other access needs and require any support to assist you through the recruitment process, please get in touch with Krystle De Guzman (Talent Acquisition & Development Officer) at kdeguzman@bettersocietycapital.com
+
+You can find out more about our recruitment approach here
+
+Other Terms
+
+Location: We are a UK-based business with an office in the Old Street area of London, accessible to a number of public transport links. We envision that for this role, the successful candidate will be required to spend 40% - 60% of their working hours in the office, and the remainder from home. However the exact requirements for this role can be discussed at interview.
+
+Right to work: Candidates need to have the existing right to work in the UK and for the duration of employment as we are unable to provide work sponsorship.
+
+Equity, Diversity and Inclusion: Better Society Capital is committed to being a diverse organisation that is truly representative of the communities we serve. We therefore welcome applications from candidates of all backgrounds, particularly those under-represented in the social impact investment sector (e.g. people from LGBTQIA+, racialised, disabled, or under-served communities) 
+
+ We are an equal opportunities employer with an inclusive environment where all employees can contribute to their fullest potential. We want every colleague to be able to deliver their work with dignity, equality, comfort and independence. Our office is fully accessible with step-free access and an open-plan set up. We are open to accommodation requests regarding assistive technologies, accessibility tools, flexible working or any other reasonable adjustments that will make working or visiting here more accessible for you.  
