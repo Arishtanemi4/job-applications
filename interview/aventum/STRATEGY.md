@@ -7,13 +7,23 @@
 | Role | AI Engineer, Technology department, reports to the Head of AI. No management duties. |
 | Entity | Aventum Group Management Services Ltd (group brands: Rokstone underwriting/MGA, Consilium broking). Specialty (re)insurance, Lloyd's/London market. |
 | Pay / place | Up to £80,000. Monument Building, 11 Monument Street, EC3R 8AF. Hybrid, 3 days a week in the office, 8:30am to 5pm. |
-| Contact | Lucy Orpwood, Talent Attraction Partner (lucy.orpwood@aventumgroup.com, +44 7514 315 402). |
+| Contact | Lucy Orpwood, Talent Attraction Partner (lucy.orpwood@aventumgroup.com, +44 7514 315 402). She arranges the interview; she is not the interviewer. |
+| Interviewer | **Head of AI**, your future line manager. `[YOU: name, from the invite. Look them up on LinkedIn: background (ML research vs engineering vs insurance), talks/posts on Digital Twins or behavioural AI.]` |
 | When | **Friday 23 Oct 2026, afternoon. Exact time NOT confirmed yet.** Your last mail said "any time in the afternoon works". |
-| Format | Unknown. Their recruitment journey says an **Outlook invite with "everything you need to prepare"** follows once the time is agreed. Usually **2 interview stages**, sometimes a **3rd case study or technical exercise**; the whole process runs at most 3 weeks. If you don't progress after round 1 you get a written update. |
+| Format | Their recruitment journey says an **Outlook invite with "everything you need to prepare"** follows once the time is agreed. Usually **2 interview stages**, sometimes a **3rd case study or technical exercise**; the whole process runs at most 3 weeks. If you don't progress after round 1 you get a written update. |
+
+### What a Head of AI is assessing (and how that shapes the prep)
+The person who wrote this JD is interviewing you, so expect **technical depth from minute one**, not a CV walk-through. They know exactly which requirements you don't meet (your cover letter told them) and still invited you. They are deciding:
+1. **Is the production story real and deep?** Expect follow-ups such as "why that architecture?", "what broke?", "what would you change?". Know every HDFC system to the component level (section 4).
+2. **Can you reason about their modelling agenda?** Sequence/behavioural models, causal inference, validation. They will probe the gaps to see how you think, not to catch you out (sections 5, 6, 8).
+3. **Would I want to manage this person?** Honest about limits, learns fast, works with engineers and product, pragmatic about delivery.
+4. **Do you have views?** A Head of AI hires people who contribute ideas. Have an opinion on how you'd validate a behavioural model, or where you'd start with a Digital Twin, and say it with your reasoning.
+
+Practical consequences: lead with substance, keep the intro to 60 to 90 seconds, expect a whiteboard-style "how would you build..." (section 6.1), and use your questions (section 10) to show you've thought about their roadmap. Salary and notice will most likely go through Lucy, but have the answers ready in case the Head of AI asks.
 
 ### Open actions (do today/tomorrow)
 - [ ] Chase the time if no invite by Wednesday midday: one line to Lucy ("Happy with any afternoon slot on Friday, could you confirm the time and whether it's on Teams or at the office?").
-- [ ] When the Outlook invite arrives, read it for **who** is interviewing (Talent, the Head of AI, an engineer?) and **format** (video or in person). Adjust section 9 accordingly. If in person, plan Bristol to London travel (aim to arrive 30 min early).
+- [ ] When the Outlook invite arrives, note the Head of AI's **name**, whether anyone else joins (e.g. an ML engineer), and the **format** (video or in person). If in person, plan Bristol to London travel (aim to arrive 30 min early).
 - [ ] Have these answers ready, because the recruitment journey says they will ask for **remuneration and notice period**:
   - **Salary expectation:** `[YOU: figure]`. The band tops out at £80k. A range in the upper-middle of the band is defensible on 3 years of production AI delivery, but your cover letter openly listed several gaps against this JD, so don't open at the ceiling. Give a range, say it's flexible for the right role, and mention the CSOP and bonus count in the total.
   - **Notice period / availability:** you are not employed (left HDFC Jul 2025, MSc ended Sep 2026), so it is effectively immediate. `[YOU: confirm, subject to Graduate Visa status]`.
@@ -162,13 +172,15 @@ Structure: **acknowledge plainly → nearest real evidence → what I've done si
 
 ## 9. Likely questions (prepare answer skeletons)
 
-**If it's a talent/screening-style conversation (possible for round 1):**
-- Walk me through your CV / why the MSc / why leave HDFC? (Planned move to study; left Jul 2025.)
-- Why Aventum? Why insurance? → production AI with real decisions attached; a group that has grown fast (about 10,000% in a decade per their CSOP booklet) and is investing in Digital Twins and agentic systems; "Dare to Discover" fits a role that's partly new ground for you.
-- Salary, notice, right to work, location (section 1). Hybrid 3 days and 8:30 to 5.
-- What do you know about us? → specialty (re)insurance group, Rokstone underwriting and Consilium broking, London market, mission "the most inspiring specialty (re)insurance group in the world", 93% say they can be themselves at work, CSOP for all eligible staff.
+The Head of AI will weight these toward the technical end. Expect only a few minutes on motivation.
 
-**Technical / hiring manager:**
+**Opening / motivation (keep brief):**
+- Walk me through your background / why the MSc / why leave HDFC? (Planned move to study; left Jul 2025.)
+- Why this role? Why insurance? → production AI with real decisions attached; a group that has grown fast (about 10,000% in a decade per their CSOP booklet) and is investing in Digital Twins and agentic systems; "Dare to Discover" fits a role that's partly new ground for you.
+- What do you know about us? → specialty (re)insurance group, Rokstone underwriting and Consilium broking, London market, mission "the most inspiring specialty (re)insurance group in the world", 93% say they can be themselves at work, CSOP for all eligible staff.
+- Possibly salary, notice, right to work, location (section 1). Hybrid 3 days and 8:30 to 5.
+
+**Technical (the bulk of the interview):**
 - Biggest production system you built, and what you'd do differently. (RAG apps: today you'd add an eval set, tracing and permission-aware retrieval as standard.)
 - Tell me about a time something broke in production. (Image emails → Textract parser broke.)
 - How do you take a model from notebook to production? (Section 6.1, steps 5 to 7.)
@@ -179,6 +191,14 @@ Structure: **acknowledge plainly → nearest real evidence → what I've done si
 - Trade-off between innovation and delivery. (Llama-3 vs Azure.)
 - Working with non-technical stakeholders; disagreement with a stakeholder. `[YOU: pick a real example from Compliance or Investment.]`
 - Leading the interns: how you delegated, reviewed and unblocked.
+
+**Deep-dive follow-ups a Head of AI is likely to push on (have a crisp answer for each):**
+- "Why a separate vector DB per department instead of metadata filtering?" → access control was department-based, and GPT-3.5/Llama-3 struggled to separate similar content across departments; today you'd consider one store with permission-aware filtering plus retrieval evals.
+- "How did you know the RAG answers were good?" → user feedback, Compliance review, versioned prompts; no golden set. Then say what you'd add (eval set, tracing).
+- "How was the self-hosted Llama-3 served, and what did it cost vs Azure?" → it was a GPU EC2 instance and a cost-driven choice. Serving stack details and cost figures aren't recorded, so don't invent them; say it was a reasoned decision, not a formal cost model.
+- "How did the fuzzy matching avoid false matches?" `[YOU: recall the threshold / review process if you can; otherwise say what you'd do: thresholds tuned on labelled pairs, a manual-review band.]`
+- "If you joined, what would you build first?" → shadow-mode infrastructure and an offline replay harness, so every behavioural model can be validated safely before it touches decisions. This links your production strength to their validation accountability.
+- "What would you need from me to ramp on causal and behavioural modelling?" → access to logged decision data, a pairing partner, and a first scoped project you can ship.
 
 **Behavioural (Aventum values: challenge the status quo, continuous improvement, collaboration):**
 - A time you challenged the way something was done. (Power BI licensing → React recreation; Textract → Azure OpenAI.)
@@ -193,6 +213,8 @@ Structure: **acknowledge plainly → nearest real evidence → what I've done si
 5. How do you currently validate models: is there shadow or experimentation infrastructure, or would this role help build it?
 6. What would a successful first 6 months look like?
 7. What does stage 2 look like (case study or technical exercise)?
+8. *(Manager-specific)* What's your AI roadmap for the next 12 months, and where does this role sit in it?
+9. *(Manager-specific)* How do you like to work with your engineers: autonomy, review cadence, how you support people growing into new areas like causal modelling?
 - *Hold until offer stage unless they raise it:* visa sponsorship after the Graduate Visa. (Rokstone Group Ltd is on the Home Office sponsor register; the hiring entity, Aventum Group Management Services Ltd, did not appear in the copy in `LiscensedSponsors.csv`.)
 
 ## 11. Day-of checklist
@@ -201,7 +223,7 @@ Structure: **acknowledge plainly → nearest real evidence → what I've done si
 - [ ] Water, pen and paper for diagrams (draw the 6.1 pipeline if asked to whiteboard).
 - [ ] Keep answers to 2 minutes, then offer to go deeper ("Happy to go into the architecture if useful").
 - [ ] Close with a one-line summary of why you fit plus one sincere question.
-- [ ] Afterwards: a short thank-you to Lucy the same day. Note the questions asked in `interview/aventum/notes.md` (useful for stage 2 and for BSC on Monday).
+- [ ] Afterwards: a short thank-you to Lucy the same day (ask her to pass thanks to the Head of AI, or email them directly if you have their address), referencing one point from the technical discussion. Note the questions asked in `interview/aventum/notes.md` (useful for stage 2 and for BSC on Monday).
 
 ## Honesty guardrails (from `cv/EXPERIENCE.md`)
 - No formal evals, LLM-as-judge or golden datasets at HDFC. No fine-tuning. No MCP. No SSO/OAuth (it was **LDAP**).

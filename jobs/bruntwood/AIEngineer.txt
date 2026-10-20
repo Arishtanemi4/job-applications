@@ -1,0 +1,75 @@
+Ref
+31706
+Department
+Digital Solutions & Technology
+Location
+Manchester City Centre
+Employment type
+Full-time
+Salary
+£50,000 - £60,000
+Closing date
+23/10/2026
+Description
+We are commercial property specialists operating across the UK. At Bruntwood, we're committed to offering more than just outstanding office, coworking, retail and lab spaces. Everything we do is tied into our vision of building vibrant communities, whilst providing businesses with the support and expertise they need to grow.
+
+Some examples of our varied portfolio include: Bloc, Alderley Park, Circle Square and Pall Mall
+
+Have a look at these videos to give an insight into who we are:
+
+Bruntwood
+
+Bruntwood SciTech
+
+Sustainability at Bruntwood
+
+Our head office is based in the heart of Manchester City Centre - Union on Albert Square.
+
+Context:
+
+We employ over 1000 colleagues across Manchester, Liverpool, Leeds, Birmingham and Cambridge, with industry leading experts across multiple disciplines. Our digital team is over 20 strong, with a great foundation in AI (Google Gemini). You’ll work closely with our Software Engineering Lead as well as an AI specific placement student.
+
+This is an amazing opportunity to have a significant impact in a short space of time, with plenty of opportunity to develop your career. 
+
+What we need:
+
+You’ll have a background in Software Engineering, ideally working within one organisation rather than within an agency, using TypeScript or Python.
+You’ll be capable of building AI enabled software into products and processes: agents, retrieval systems and integrations. Ideally you’ll have done this in a workplace setting, however, if you have a passion for this and can demonstrate capability through your own personal examples then this will be applicable - having built and deployed RAG systems and MCP.
+Automated testing, code review and continuous integration and deployment (CI/CD) as part of a team.
+Calling large language models (LLMs) from production code, including structured output, error handling, rate limits and retries.
+Cloud experience, we use GoogleCloud but any cloud based experience will be applicable
+You’ll enjoy collaborating with direct colleagues in the digital team as well as stakeholders to understand business needs and implement improvements
+A real drive to take ownership and be proactive. Looking to influence change and improvement
+What you’ll be doing: 
+
+Design, build and deploy AI solutions: tool-using agents, retrieval-augmented generation (RAG) and workflows connected to business systems and data.
+Own use cases from system design through to production and post-launch review.
+Build evaluation datasets, measure accuracy and define where human review is needed.
+Build the surrounding software: APIs, integrations, Model Context Protocol (MCP) servers and data pipelines.
+Deploy and operate what you build, including containers, monitoring and running costs.
+Work within our security, data protection and AI governance requirements.
+Use AI coding tools such as Claude Code as part of everyday development.
+Help define how the team takes in, prioritises and measures its work.
+Our stack: Google Cloud and TypeScript, with the Claude Agent SDK and Gemini Enterprise, integrating with Salesforce, our data warehouse and other business systems. The stack is still evolving, and we care more about how you engineer than which tools you've used.
+
+*You can find the full job description as an attachment at the bottom of our website advert.
+
+We really believe that if you’re brilliant to work with, you deserve brilliant things in return:
+
+28 days holiday plus you get your Birthday off work - and if that’s not enough you can also buy & sell holidays too
+Company bonus - paid annually
+24 hours a year volunteer time - there are endless opportunities for you to get involved in supporting the causes that matter most to you
+Sabbatical of up to 12 months so you can take a career break after five years with us
+Healthcare cash plan for all colleagues, so you can claim back medical expenses like optical, dentist & physiotherapy.
+Life assurance cover for all colleagues
+Up to 8% matched pension scheme
+Discounts & cashback at leading retailers
+Enhanced maternity / shared parental leave - 26 weeks fully paid leave
+Interest free loans to pursue your passions and apply for up to £2000 towards learning a new skill
+On our careers page you’ll find our benefits calculator, where you can select what benefits you’d use to calculate the savings you’d make.
+
+We’ll do our best to get back to you within a week of your application, however if it has been longer than this please feel free to email talent@bruntwood.co.uk for an update.
+
+ 
+
+#LI-DNI

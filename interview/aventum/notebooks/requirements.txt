@@ -1,0 +1,22 @@
+# Aventum prep notebooks: pip requirements (pinned to the versions the notebooks were run with)
+# torch is the CPU build from PyTorch's index
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+numpy==2.4.6
+pandas==3.0.6
+scikit-learn==1.9.1
+scipy==1.15.3
+statsmodels==0.15.0
+matplotlib==3.11.2
+seaborn==0.13.2
+joblib==1.6.0
+
+torch==2.14.1+cpu
+
+dowhy==0.14
+econml==0.17.0
+causaldata==0.1.5
+
+ipykernel==7.4.0
+nbformat==5.11.1
+nbconvert==7.17.2

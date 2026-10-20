@@ -1,0 +1,14 @@
+# Conda environment for the Aventum prep notebooks.
+# Create:  conda env create -f environment.yaml
+# Update:  conda env update -n aventum -f environment.yaml --prune
+# Packages are listed once, in requirements.txt (same folder), so the two files can't drift apart.
+name: aventum
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - -r requirements.txt
+variables:
+  PYTHONNOUSERSITE: "1"   # ignore packages in %APPDATA%\Python\Python312 so the env stays isolated
