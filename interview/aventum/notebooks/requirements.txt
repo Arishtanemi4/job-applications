@@ -20,3 +20,4 @@ causaldata==0.1.5
 ipykernel==7.4.0
 nbformat==5.11.1
 nbconvert==7.17.2
+jupyter
