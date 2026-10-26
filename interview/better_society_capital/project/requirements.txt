@@ -1,0 +1,6 @@
+mcp>=1.30,<2
+httpx
+pandas
+openpyxl
+openai
+python-dotenv

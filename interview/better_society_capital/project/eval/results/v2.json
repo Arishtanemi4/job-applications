@@ -1,0 +1,552 @@
+{
+  "summary": {
+    "tag": "v2",
+    "skill": "skills/impact_screen/SKILL.md",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b",
+    "judge_model": "minimaxai/minimax-m3.1-flash",
+    "n": 15,
+    "valid_json_pct": 93,
+    "cases_needing_retry": 1,
+    "theme_pct": 71,
+    "beneficiary_pct": 79,
+    "funding_type_pct": 79,
+    "outcome_stated_pct": 93,
+    "score_exact_pct": 71,
+    "score_within1_pct": 93,
+    "score_mae": 0.43,
+    "quotes_verbatim_pct": 100,
+    "judge_grounded_clean": "9/10",
+    "judge_errors": 0,
+    "judge_caught_planted": "4/4",
+    "by_label_author": {
+      "user": {
+        "n": 3,
+        "fields_exact_pct": 75
+      },
+      "claude": {
+        "n": 11,
+        "fields_exact_pct": 82
+      }
+    }
+  },
+  "rows": [
+    {
+      "id": 1,
+      "label_by": "user",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 4,
+      "true_score": 3,
+      "score_exact": false,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "poverty_finance",
+        "beneficiary": "ethnic_minority_communities",
+        "funding_type": "project",
+        "outcome_stated": true
+      },
+      "true": {
+        "theme": "poverty_finance",
+        "beneficiary": "ethnic_minority_communities",
+        "funding_type": "project",
+        "outcome_stated": true
+      }
+    },
+    {
+      "id": 2,
+      "label_by": "user",
+      "valid_json": false
+    },
+    {
+      "id": 3,
+      "label_by": "user",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": false,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 2,
+      "true_score": 2,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "project",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "other",
+        "beneficiary": "organisations_sector",
+        "funding_type": "project",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 4,
+      "label_by": "user",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": false,
+      "funding_type": true,
+      "outcome_stated": false,
+      "pred_score": 1,
+      "true_score": 4,
+      "score_exact": false,
+      "score_within1": false,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "other",
+        "beneficiary": "organisations_sector",
+        "funding_type": "core_costs",
+        "outcome_stated": true
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 5,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": false,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 1,
+      "true_score": 1,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "poverty_finance",
+        "beneficiary": "unclear",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 6,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 3,
+      "true_score": 2,
+      "score_exact": false,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "arts_culture",
+        "beneficiary": "ethnic_minority_communities",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "arts_culture",
+        "beneficiary": "ethnic_minority_communities",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 7,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 4,
+      "true_score": 3,
+      "score_exact": false,
+      "score_within1": true,
+      "quotes_total": 2,
+      "quotes_verbatim": 2,
+      "pred": {
+        "theme": "community_places",
+        "beneficiary": "general_community",
+        "funding_type": "project",
+        "outcome_stated": true
+      },
+      "true": {
+        "theme": "community_places",
+        "beneficiary": "general_community",
+        "funding_type": "project",
+        "outcome_stated": true
+      },
+      "judge_grounded": false,
+      "judge_unsupported": [
+        "The 'what' field claims the grant supports 'PQASSO quality standard accreditation'; the record states only that the grant will fund the PQASSO quality standard, not that accreditation will be achieved."
+      ]
+    },
+    {
+      "id": 8,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": false,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 4,
+      "true_score": 4,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 3,
+      "quotes_verbatim": 3,
+      "pred": {
+        "theme": "poverty_finance",
+        "beneficiary": "people_in_poverty",
+        "funding_type": "project",
+        "outcome_stated": true
+      },
+      "true": {
+        "theme": "health_wellbeing",
+        "beneficiary": "people_in_poverty",
+        "funding_type": "project",
+        "outcome_stated": true
+      }
+    },
+    {
+      "id": 9,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 1,
+      "true_score": 1,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 10,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 1,
+      "true_score": 1,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "energy_environment",
+        "beneficiary": "unclear",
+        "funding_type": "project",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "energy_environment",
+        "beneficiary": "unclear",
+        "funding_type": "project",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 11,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": false,
+      "funding_type": false,
+      "outcome_stated": true,
+      "pred_score": 1,
+      "true_score": 1,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "other",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "other",
+        "beneficiary": "organisations_sector",
+        "funding_type": "project",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 12,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": false,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 2,
+      "true_score": 2,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "youth_education",
+        "beneficiary": "children_young_people",
+        "funding_type": "project",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "other",
+        "beneficiary": "children_young_people",
+        "funding_type": "project",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 13,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": true,
+      "funding_type": false,
+      "outcome_stated": true,
+      "pred_score": 1,
+      "true_score": 1,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "community_places",
+        "beneficiary": "unclear",
+        "funding_type": "core_costs",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "community_places",
+        "beneficiary": "unclear",
+        "funding_type": "other",
+        "outcome_stated": false
+      },
+      "judge_grounded": true,
+      "judge_unsupported": []
+    },
+    {
+      "id": 14,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": false,
+      "beneficiary": true,
+      "funding_type": true,
+      "outcome_stated": true,
+      "pred_score": 1,
+      "true_score": 1,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "other",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "community_places",
+        "beneficiary": "unclear",
+        "funding_type": "other",
+        "outcome_stated": false
+      }
+    },
+    {
+      "id": 15,
+      "label_by": "claude",
+      "valid_json": true,
+      "theme": true,
+      "beneficiary": true,
+      "funding_type": false,
+      "outcome_stated": true,
+      "pred_score": 1,
+      "true_score": 1,
+      "score_exact": true,
+      "score_within1": true,
+      "quotes_total": 1,
+      "quotes_verbatim": 1,
+      "pred": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "other",
+        "outcome_stated": false
+      },
+      "true": {
+        "theme": "other",
+        "beneficiary": "unclear",
+        "funding_type": "project",
+        "outcome_stated": false
+      }
+    }
+  ],
+  "judge": [
+    {
+      "id": 1,
+      "planted": true,
+      "grounded": false,
+      "unsupported": [
+        "The programme serves 5,000 refugees across Yorkshire each year"
+      ]
+    },
+    {
+      "id": 3,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 4,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 5,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 6,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 7,
+      "planted": false,
+      "grounded": false,
+      "unsupported": [
+        "The 'what' field claims the grant supports 'PQASSO quality standard accreditation'; the record states only that the grant will fund the PQASSO quality standard, not that accreditation will be achieved."
+      ]
+    },
+    {
+      "id": 8,
+      "planted": true,
+      "grounded": false,
+      "unsupported": [
+        "The programme has reduced reoffending by 40% according to an independent evaluation"
+      ]
+    },
+    {
+      "id": 9,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 10,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 11,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 12,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 13,
+      "planted": false,
+      "grounded": true,
+      "unsupported": []
+    },
+    {
+      "id": 14,
+      "planted": true,
+      "grounded": false,
+      "unsupported": [
+        "The programme is a partnership with the NHS covering 12 hospitals"
+      ]
+    },
+    {
+      "id": 15,
+      "planted": true,
+      "grounded": false,
+      "unsupported": [
+        "The programme was matched by a GBP 2m government grant"
+      ]
+    }
+  ],
+  "raw": {
+    "1": "{\n  \"theme\": \"poverty_finance\",\n  \"beneficiary\": \"ethnic_minority_communities\",\n  \"funding_type\": \"project\",\n  \"outcome_stated\": true,\n  \"impact\": {\n    \"what\": \"improved financial understanding and management through a culturally appropriate co-created resource\",\n    \"who\": \"people from Pakistani and Bangladeshi Muslim communities in Birmingham\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 4,\n  \"evidence_quotes\": [\"To co-create a culturally appropriate resource to help people from Pakistani and Bangladeshi Muslim communities to understand and manage their finances\"],\n  \"check_next\": \"Verify the project's intended reach (number of people), duration, and any planned evaluation measures for the resource.\",\n  \"human_decision_required\": true\n}",
+    "2": "{\n  \"theme\": \"criminal_justice\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"project\",\n  \"outcome_stated\": true,\n  \"impact\": {\n    \"what\": \"Create a national movement of people, partners and parliamentarians across the political spectrum supporting Refugee Action's call for a fair and effective asylum system\",\n    \"who\": \"The record names 'people, partners and parliamentarians' as movement participants; the ultimate beneficiaries (asylum seekers/refugees) are implied but not stated\",\n    \"how_much\": \"National scale implied by 'national movement'; no numbers, depth or duration given\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 3,\n  \"evidence_quotes\": [\n",
+    "3": "{\n  \"theme\": \"other\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"project\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 2,\n  \"evidence_quotes\": [\"To support the Community and Practitioner Research Programme (CPRP).\"],\n  \"check_next\": \"Clarify the intended outcomes of the CPRP, the specific communities or practitioners it serves, and any scale or duration targets.\",\n  \"human_decision_required\": true\n}",
+    "4": "{\n  \"theme\": \"other\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"core_costs\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"Towards Core costs Towards the salary of the director and the administration manager.\"],\n  \"check_next\": \"Identify what ORCA does and who it serves to determine theme, beneficiary, and intended outcomes.\",\n  \"human_decision_required\": true\n}",
+    "5": "{\n  \"theme\": \"poverty_finance\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"core_costs\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated — the record only describes funding unrestricted core costs as a Cost of Living Uplift for the organisation\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated — £20,000 awarded but no scale, depth or duration of beneficiary impact described\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"Towards unrestricted core costs as a Cost of Living Uplift\"],\n  \"check_next\": \"Confirm what Access Social Care does and who it serves, and whether the cost-of-living uplift is intended to protect specific services or outcomes for beneficiaries.\",\n  \"human_decision_required\": true\n}",
+    "6": "{\n  \"theme\": \"arts_culture\",\n  \"beneficiary\": \"ethnic_minority_communities\",\n  \"funding_type\": \"core_costs\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"no explicit outcome stated; the grant aims to support the organisation through a transitionary period, support South Asian theatre practitioners, and develop work within the local community\",\n    \"who\": \"South Asian theatre practitioners and Tara's local community\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 3,\n  \"evidence_quotes\": [\n    \"Towards unrestricted core costs to support the company through a transitionary period while supporting the work of South Asian theatre practitioners and developing work within Tara's local community\"\n  ],\n  \"check_next\": \"Confirm whether the funder or recipient has additional documentation specifying intended outcomes for South Asian theatre practitioners or the local community.\",\n  \"human_decision_required\": true\n}",
+    "7": "{\n  \"theme\": \"community_places\",\n  \"beneficiary\": \"general_community\",\n  \"funding_type\": \"project\",\n  \"outcome_stated\": true,\n  \"impact\": {\n    \"what\": \"Longer-term organisational sustainability through PQASSO quality standard accreditation and a business plan, intended to sustain the community centre, social enterprise, youth projects and job-skills provision.\",\n    \"who\": \"The local community served by Northmoor Community Association (general community); the association itself as an organisation.\",\n    \"how_much\": \"Not stated – no numbers for beneficiaries, depth of change, or duration of the intended sustainability.\",\n    \"contribution\": \"Not stated – the record does not describe what would happen without this grant.\",\n    \"risk\": \"Not stated – no risks to delivery or impact are mentioned.\"\n  },\n  \"impact_case_score\": 4,\n  \"evidence_quotes\": [\n    \"helping the community through a community centre, social enterprise, youth projects and job skills\",\n    \"produce a business plan for longer term sustainability\"\n  ],\n  \"check_next\": \"Confirm the intended community-level outcomes (e.g., reduced isolation, improved skills) and the scale of beneficiaries the centre reaches.\",\n  \"human_decision_required\": true\n}",
+    "8": "{\n  \"theme\": \"poverty_finance\",\n  \"beneficiary\": \"people_in_poverty\",\n  \"funding_type\": \"project\",\n  \"outcome_stated\": true,\n  \"impact\": {\n    \"what\": \"Reduce isolation by helping lonely single parents meet others, develop their skills, and access training\",\n    \"who\": \"Isolated and disadvantaged single parents across Cornwall\",\n    \"how_much\": \"Many single parents supported with course costs and travel expenses across Cornwall; no specific numbers, depth or duration stated\",\n    \"contribution\": \"Not stated\",\n    \"risk\": \"Not stated\"\n  },\n  \"impact_case_score\": 4,\n  \"evidence_quotes\": [\n    \"The project works with many isolated and disadvantaged single parents across Cornwall\",\n    \"It seeks support for course costs and travel expenses\",\n    \"The work helps many lonely people to meet others, develop their skills and help to train them\"\n  ],\n  \"check_next\": \"Verify the number of beneficiaries reached, duration of support, and whether skill development and reduced isolation outcomes were measured.\",\n  \"human_decision_required\": true\n}",
+    "9": "{\n  \"theme\": \"other\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"core_costs\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated — record only says the grant is for core costs\",\n    \"who\": \"not stated\",\n    \"how_much\": \"GBP 75,000 over 3 years (funding scale only; no beneficiary scale, depth or duration of outcomes)\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"Unrestricted grant over 3 years towards the core costs of Community Interest Luton\"],\n  \"check_next\": \"Ask the funder or recipient what Community Interest Luton does, who it serves, and what outcomes the core funding is intended to enable.\",\n  \"human_decision_required\": true\n}",
+    "10": "{\n  \"theme\": \"energy_environment\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"project\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"Afri-Plastics Challenge programme grant to RECYPLAST Grant Ref AC01427\"],\n  \"check_next\": \"Obtain the Afri-Plastics Challenge programme guidelines and RECYPLAST's project proposal to understand intended outcomes, beneficiaries, and scale.\",\n  \"human_decision_required\": true\n}",
+    "11": "{\n  \"theme\": \"other\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"other\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"Centre for Collective Intelligence Design programme grant to Hong Kong Baptist University Grant Ref AX00008\"],\n  \"check_next\": \"Human assessor should investigate what the Centre for Collective Intelligence Design does, who its beneficiaries are, and what outcomes the programme grant intends to achieve.\",\n  \"human_decision_required\": true\n}",
+    "12": "{\n  \"theme\": \"youth_education\",\n  \"beneficiary\": \"children_young_people\",\n  \"funding_type\": \"project\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"children in social care (implied by 'Children's Social Care')\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 2,\n  \"evidence_quotes\": [\"What Works Centre for Children's Social Care Incubator programme grant to University of Oxford Grant Ref AR00276\"],\n  \"check_next\": \"Confirm the incubator programme's intended outcomes, target beneficiary groups, and any scale or duration metrics from the grant agreement or programme documentation.\",\n  \"human_decision_required\": true\n}",
+    "13": "{\n  \"theme\": \"community_places\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"core_costs\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"Grant to C-19 TISS - The Lamarsh Lion Community Pub Limited\"],\n  \"check_next\": \"Obtain the full grant agreement or application to identify intended outcomes, target beneficiaries, and any scale or duration metrics.\",\n  \"human_decision_required\": true\n}",
+    "14": "{\n  \"theme\": \"other\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"other\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"Grant to The Northumberland Arms Community Society Limited (MTAP1)\"],\n  \"check_next\": \"Obtain the full grant agreement or application to determine the purpose, intended beneficiaries, and outcomes of this MTAP1 grant.\",\n  \"human_decision_required\": true\n}",
+    "15": "{\n  \"theme\": \"other\",\n  \"beneficiary\": \"unclear\",\n  \"funding_type\": \"other\",\n  \"outcome_stated\": false,\n  \"impact\": {\n    \"what\": \"not stated\",\n    \"who\": \"not stated\",\n    \"how_much\": \"not stated\",\n    \"contribution\": \"not stated\",\n    \"risk\": \"not stated\"\n  },\n  \"impact_case_score\": 1,\n  \"evidence_quotes\": [\"360G-ptc-gr-18748COM-TECH  - Women Rise Up CIC\"],\n  \"check_next\": \"Obtain the full grant description or award letter to understand the intended activities, beneficiaries, and outcomes.\",\n  \"human_decision_required\": true\n}"
+  }
+}

@@ -1,9 +1,11 @@
 {
   "meta": {
     "version": 1,
-    "nodeCount": 0,
-    "edgeCount": 0,
-    "languages": [],
+    "nodeCount": 25,
+    "edgeCount": 73,
+    "languages": [
+      "python"
+    ],
     "scopes": [
       {
         "prefix": "",
@@ -12,6 +14,803 @@
       }
     ]
   },
-  "nodes": [],
-  "edges": []
+  "nodes": [
+    {
+      "id": "interview/better_society_capital/project/eval/build_labels.py",
+      "name": "build_labels.py",
+      "kind": "file",
+      "path": "interview/better_society_capital/project/eval/build_labels.py",
+      "span": "L1-L61",
+      "signature": null,
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "b0fa1a318597baa1eb2191b9797b4d5f0338cecefd8475057a44d9efd97e045c",
+      "chars": 2789,
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/build_labels.py#parse",
+      "name": "parse",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/build_labels.py",
+      "span": "L31-L33",
+      "signature": "def parse(line: str) -> dict",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "5f0ac50a4f233ac1e838fb4fd9fb7344579fef3c906039418307d8d1d9f72c64",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/make_label_sheet.py",
+      "name": "make_label_sheet.py",
+      "kind": "file",
+      "path": "interview/better_society_capital/project/eval/make_label_sheet.py",
+      "span": "L1-L24",
+      "signature": null,
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "74e1be211720110e9ed224007b75f6c1bfc381622ce2f5f0bce10907a6e23a4e",
+      "chars": 1496,
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py",
+      "name": "run_eval.py",
+      "kind": "file",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L1-L205",
+      "signature": null,
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "b39b63c79a989db41a8d6e6982c2ad6875e2f646428427361fb060a5e7c7d25a",
+      "chars": 9577,
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py#chat",
+      "name": "chat",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L38-L50",
+      "signature": "def chat(model: str, system: str, user: str, max_tokens: int = 1500) -> str",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "8695dfddeee9b5acc2ba12eff957ad7bae15a442723520ce6892e2dcd566e33c",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py#judge",
+      "name": "judge",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L83-L86",
+      "signature": "def judge(model: str, c: dict, out: dict) -> dict",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "5209f1e23d4984e9b18490f2723d5ff0e82fbaccc99bec9f92bc3af62b380b1a",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py#main",
+      "name": "main",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L99-L200",
+      "signature": "def main() -> None",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "02e42525a89cbd7dfabcaaca2d6afa7987b8003bfc8764ebab7cda426b05070e",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py#norm",
+      "name": "norm",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L71-L72",
+      "signature": "def norm(s: str) -> str",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "0b63a84c697e4d70b43955fd9eaea14b63030c55d1623c3a1fc1aaa1389f53bb",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py#parse_json",
+      "name": "parse_json",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L53-L61",
+      "signature": "def parse_json(text: str) -> dict | None",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "8a1ebc3b52c8c779c6a9579daecb62507dfc8f253adf12f8ad19f1aced18b6a7",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py#record_text",
+      "name": "record_text",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L64-L68",
+      "signature": "def record_text(c: dict) -> str",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "bb18bf23a9ff8f9937473df4663e3c4b31dd5740b2607805c0224ba323cbfebe",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/run_eval.py#run_case",
+      "name": "run_case",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/eval/run_eval.py",
+      "span": "L89-L96",
+      "signature": "def run_case(c: dict, skill: str, model: str) -> dict: # Validate and retry: the model occasionally truncates or loops. Retries are reported, not hidden.",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "2a670af2506029fd8656e1839a2cbb3ef982b9ac0a6ce72bac8cd85f41d78a4b",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/eval/sample_cases.py",
+      "name": "sample_cases.py",
+      "kind": "file",
+      "path": "interview/better_society_capital/project/eval/sample_cases.py",
+      "span": "L1-L20",
+      "signature": null,
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "eeff585bc1c0b1c3f9918793b88cd14cf7d875ad5f650cd4ca9fee6f26c8dd84",
+      "chars": 1127,
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/fetch_data.py",
+      "name": "fetch_data.py",
+      "kind": "file",
+      "path": "interview/better_society_capital/project/fetch_data.py",
+      "span": "L1-L130",
+      "signature": null,
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "13ae724de998d9954707c36c798202509ef9373c45ee32d7a0a6f240685a1bc6",
+      "chars": 4939,
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/fetch_data.py#from_json",
+      "name": "from_json",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/fetch_data.py",
+      "span": "L60-L80",
+      "signature": "def from_json(payload: dict, funder: str) -> pd.DataFrame",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "ea76052a5d3573ebee985b138d52f446aa9039aa3ecfe8f05d16c726e99af333",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/fetch_data.py#from_sheet",
+      "name": "from_sheet",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/fetch_data.py",
+      "span": "L83-L98",
+      "signature": "def from_sheet(content: bytes, url: str, funder: str) -> pd.DataFrame",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "ea27c037afe9bf4cf0d307695c0aee7058afa9a9cb98ab51e76dfd6f1f74e86b",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/fetch_data.py#main",
+      "name": "main",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/fetch_data.py",
+      "span": "L101-L125",
+      "signature": "def main() -> None",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "726ae1f78725d0ca389325154e0e5f63f19c4c2f96e18262f3bc2e0152d9f0a3",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/fetch_data.py#pick_datasets",
+      "name": "pick_datasets",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/fetch_data.py",
+      "span": "L48-L57",
+      "signature": "def pick_datasets(registry: list[dict]) -> list[dict]",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "209a672372daa85a4aae614d3e6cc8a583eb79a7933d213ed4d67ebdf55ea717",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/server.py",
+      "name": "server.py",
+      "kind": "file",
+      "path": "interview/better_society_capital/project/server.py",
+      "span": "L1-L203",
+      "signature": null,
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "b83dcd4fe52758d3226be13d9633c24dd4a316645896409142efd0a9dc13393c",
+      "chars": 7964,
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/server.py#_grant",
+      "name": "_grant",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/server.py",
+      "span": "L33-L45",
+      "signature": "def _grant(r: sqlite3.Row) -> dict",
+      "exported": false,
+      "origin": "ast",
+      "body_hash": "f94544ca51d81953d05d64ba8873acfa80fbe6da143cdaf15eadcf39291ba60d",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/server.py#_query",
+      "name": "_query",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/server.py",
+      "span": "L22-L30",
+      "signature": "def _query(sql: str, params: tuple = ()) -> list[sqlite3.Row]",
+      "exported": false,
+      "origin": "ast",
+      "body_hash": "c85321ca9aef60532d750f93880e4d364f2a590bfc3e6748c50ec2cacc79d40b",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/server.py#get_funder_summary",
+      "name": "get_funder_summary",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/server.py",
+      "span": "L108-L153",
+      "signature": "def get_funder_summary(funder: str) -> dict",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "073f5f78bf0610aa8ad90861e0866ae103c7db1238096148246be3ff0ef3ecf7",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/server.py#get_recipient",
+      "name": "get_recipient",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/server.py",
+      "span": "L157-L198",
+      "signature": "def get_recipient(name_or_id: str, limit: int = 10) -> dict",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "4f805c6f778988321a3764c527f2cbbb33e550fab8e8909d12801ed7079975d1",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/server.py#search_grants",
+      "name": "search_grants",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/server.py",
+      "span": "L49-L104",
+      "signature": "def search_grants( theme: str, region: str | None = None, min_amount: float | None = None, year_from: int | None = None, year_to: int | None = None, limit: int = 10, ) -> dict",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "788851b375fee884c68ad147c6eaa84fb238a28997c1373f498e62c51a3a59cc",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/smoke_test.py",
+      "name": "smoke_test.py",
+      "kind": "file",
+      "path": "interview/better_society_capital/project/smoke_test.py",
+      "span": "L1-L34",
+      "signature": null,
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "732a5d740edd3a79608e234db13c2371b8591d06727e6d3ae806df711764c28a",
+      "chars": 1293,
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    },
+    {
+      "id": "interview/better_society_capital/project/smoke_test.py#main",
+      "name": "main",
+      "kind": "function",
+      "path": "interview/better_society_capital/project/smoke_test.py",
+      "span": "L13-L30",
+      "signature": "async def main() -> None",
+      "exported": true,
+      "origin": "ast",
+      "body_hash": "1b0e72f0ff9e16da44f3d9a776993ef9ca061eab30f0a415a17c3e115a9959e5",
+      "summary_state": "pending",
+      "summary": null,
+      "crux": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "interview/better_society_capital/project/eval/build_labels.py",
+      "target": "interview/better_society_capital/project/eval/build_labels.py#parse",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/build_labels.py",
+      "target": "interview/better_society_capital/project/eval/build_labels.py#parse",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/build_labels.py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/build_labels.py",
+      "target": "pathlib",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/build_labels.py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/make_label_sheet.py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/make_label_sheet.py",
+      "target": "pathlib",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#main",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#chat",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#judge",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#main",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#norm",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#parse_json",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#record_text",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#run_case",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "argparse",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "concurrent.futures",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "dotenv",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "openai",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "os",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "pathlib",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "random",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py",
+      "target": "time",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#judge",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#chat",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#judge",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#parse_json",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#judge",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#record_text",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#main",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#judge",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#main",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#norm",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#main",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#record_text",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#main",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#run_case",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#run_case",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#chat",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#run_case",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#parse_json",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/run_eval.py#run_case",
+      "target": "interview/better_society_capital/project/eval/run_eval.py#record_text",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/sample_cases.py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/sample_cases.py",
+      "target": "pathlib",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/eval/sample_cases.py",
+      "target": "sqlite3",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "interview/better_society_capital/project/fetch_data.py#main",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "interview/better_society_capital/project/fetch_data.py#from_json",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "interview/better_society_capital/project/fetch_data.py#from_sheet",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "interview/better_society_capital/project/fetch_data.py#main",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "interview/better_society_capital/project/fetch_data.py#pick_datasets",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "httpx",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "io",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "pathlib",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "re",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py",
+      "target": "sqlite3",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py#main",
+      "target": "interview/better_society_capital/project/fetch_data.py#from_json",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py#main",
+      "target": "interview/better_society_capital/project/fetch_data.py#from_sheet",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/fetch_data.py#main",
+      "target": "interview/better_society_capital/project/fetch_data.py#pick_datasets",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "interview/better_society_capital/project/server.py#_grant",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "interview/better_society_capital/project/server.py#_query",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "interview/better_society_capital/project/server.py#get_funder_summary",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "interview/better_society_capital/project/server.py#get_recipient",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "interview/better_society_capital/project/server.py#search_grants",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "mcp.server.fastmcp",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "pathlib",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py",
+      "target": "sqlite3",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py#get_funder_summary",
+      "target": "interview/better_society_capital/project/server.py#_query",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py#get_recipient",
+      "target": "interview/better_society_capital/project/server.py#_grant",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py#get_recipient",
+      "target": "interview/better_society_capital/project/server.py#_query",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py#search_grants",
+      "target": "interview/better_society_capital/project/server.py#_grant",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/server.py#search_grants",
+      "target": "interview/better_society_capital/project/server.py#_query",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "interview/better_society_capital/project/smoke_test.py#main",
+      "relation": "calls",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "interview/better_society_capital/project/smoke_test.py#main",
+      "relation": "contains",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "asyncio",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "json",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "mcp",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "mcp.client.stdio",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "pathlib",
+      "relation": "imports",
+      "confidence": "extracted"
+    },
+    {
+      "source": "interview/better_society_capital/project/smoke_test.py",
+      "target": "sys",
+      "relation": "imports",
+      "confidence": "extracted"
+    }
+  ]
 }

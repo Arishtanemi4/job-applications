@@ -12,8 +12,8 @@
 | Next rounds | R2 virtual (w/c 16 Nov), R3 **in person** (w/c 23 Nov), per the JD. |
 
 ### Open actions
-- [ ] **Confirm the slot is booked** through his booking link for Monday, and that the calendar invite has a video link. Note the exact time here: `[YOU: time]`.
-- [ ] Find and read the **Stanford paper** linked in the JD ("Creating our prompt and skill library with a particular focus on impact assessment (you can read about one of our experiments in this paper published by Stanford)"). Open the JD link on the Applied posting or search "Better Society Capital Stanford impact assessment LLM". Referring to it specifically is the single best signal that you did your homework.
+- [x] **Slot confirmed:** Mon 26 Oct, 10:00 UTC (15:30 IST). Still check the invite has a video link.
+- [ ] **The "Stanford paper" is Nick's own SSIR article:** https://ssir.org/articles/entry/ai-assessments-impact-investing (authors Andreou, Essl, Rogers). **Read it in full tonight**; `CHEATSHEET.md` §1 has a summary that is NOT a substitute. Original note: find and read the paper linked in the JD ("Creating our prompt and skill library with a particular focus on impact assessment (you can read about one of our experiments in this paper published by Stanford)"). Open the JD link on the Applied posting or search "Better Society Capital Stanford impact assessment LLM". Referring to it specifically is the single best signal that you did your homework.
 - [ ] Skim bettersocietycapital.com: mission, asset classes (property, debt, venture, outcome contracts), recent news, anything on their AI work. Look up Nick on LinkedIn.
 - [ ] **Right to work:** the JD needs existing right to work and says BSC cannot sponsor. Your answer: Student Visa now, eligible for the Graduate Visa (2 years full working rights). `[YOU: status of the Graduate Visa application.]` Don't raise sponsorship in R1. (FYI: Better Society Capital Ltd *is* on the Home Office sponsor register in `LiscensedSponsors.csv`, which may matter for a conversation much later, not now.)
 
@@ -22,7 +22,7 @@
 | Day | Focus | Output |
 |---|---|---|
 | **Wed 21 / Thu 22** | The 6 core HDFC STAR stories you're preparing for Aventum (see `interview/aventum/STRATEGY.md` §4) serve both interviews. Only the framing differs (section 4 below). | Nothing BSC-specific yet. |
-| **Fri 23 (evening)** | Decompress from Aventum, then 1 hour: Stanford paper, BSC website, re-read the BSC JD, CV and cover letter (`KaustubhSonawaneAIFullStackEngineer.docx`, `...CoverLetter.docx`). | Notes on 3 things you'll reference. |
+| **Fri 23 (evening)** | Decompress from Aventum, then 1 hour: Nick's SSIR article, BSC website, re-read the BSC JD, CV and cover letter (`KaustubhSonawaneAIFullStackEngineer.docx`, `...CoverLetter.docx`). | Notes on 3 things you'll reference. |
 | **Sat 24** | **Weekend build** (section 6), about 5 to 6 hours. | A small public repo you can honestly talk about. |
 | **Sun 25** | Morning: re-frame the stories for BSC and time them (section 4). Afternoon: **problem-solving dry runs** (section 5); do all 5 JD projects out loud, 5 to 7 minutes each, ideally with someone playing Nick. Evening: landscape refresh (section 7). | Can run the framework on any prompt without notes. |
 | **Mon 26** | Light warm-up only: intro out loud twice, framework card, questions for Nick. | |
@@ -104,7 +104,7 @@ Prompts and skills as products: say how you treated prompts at HDFC: system-prom
 **D. Prompt and skill library for impact assessment**
 - Treat each skill as a product: owner, purpose, inputs/outputs, version (Git), changelog, test set, eval scores, status (draft / approved / deprecated).
 - Impact assessment specifics: align rubrics with frameworks BSC uses (e.g. the five dimensions of impact: what, who, how much, contribution, risk; confirm what BSC actually uses); calibrate against expert assessors; measure LLM–human agreement as you would inter-rater agreement; watch for confident but unsupported claims; require evidence citations.
-- Connect to the Stanford paper's findings (read it first).
+- Connect to Nick's SSIR article (prompt grew from ~10 to 200+ lines; AI matched final scores 81% vs deal leads 64%; est. 10-20% hallucination). See `interview/QUESTIONS.md` §K.
 - Distribution: organisation-wide Claude skills; feedback loop from users; AI Academy sessions on using them.
 
 **E. AI in data pipelines with the data team (Fabric)**
@@ -129,6 +129,8 @@ Your cover letter said you haven't built MCP connectors or formal evals. Closing
 4. Push to GitHub with a short README (what it does, what you learned, what you'd do next).
 
 How to mention it: "After applying I wanted hands-on MCP experience, so this weekend I built a small MCP server over 360Giving data and a skill with a basic eval. What I learned was..." **Frame it as a weekend learning build**, never as production experience. Don't add it to the CV or `EXPERIENCE.md` unless you decide to later (it would partially close GAPS S3 and S1).
+
+**Status (built Sun 25 Oct):** done, in `project/` (see `project/README.md` for numbers and caveats). Say-aloud version: "I built a small MCP server over 360Giving grants data, wrote an impact-screen skill, and evaluated it on 15 cases with a separate judge model. v2 improved a bit on v1 but n is tiny, so I treat it as learning. 4 labels were mine and 11 were Claude's, so the next step is a second human rater." Never say all labels were hand-made by you. The LLMs were NVIDIA NIM models, not Claude.
 
 If Saturday runs short, cut the eval to 10 examples. Don't cut the MCP server; it's the one Nick's team uses.
 
@@ -164,9 +166,33 @@ This is an **essential criterion**, and BSC's application guidance says authenti
 3. Of the Innovation Lab projects, which is most urgent, and what's blocked it?
 4. How mature is the Fabric setup, and how do the AI and data teams split the pipeline work?
 5. What does success look like for this hire at 6 months?
-6. What did the Stanford experiment teach you about using LLMs for impact assessment? (Only if you've read it, and refer to something specific.)
+6. In your SSIR experiment the final scores were set after seeing the AI's output. How would you design the next round so the benchmark is independent? (You've read it: refer to something specific. Nick wrote it, so be curious, not critical.)
+
+## 10b. BSC facts you can safely cite (from the JD and Nick's SSIR article only)
+- BSC is a UK impact investor (fund-of-funds style): asset classes named in the JD are property, debt, venture and outcome contracts.
+- The AI work has three buckets: **Infrastructure** (governance, rolling out Claude), **Academy** (speaker series, training, hackathons), **Innovation Lab** (prompts/skills, workflows, agents). This role is mainly the Innovation Lab.
+- The AI team is two people inside the Investment team, working between Investment and a Transformation team of about 10.
+- Nick's SSIR article (with Philipp Essl and Jeremy Rogers): 45 ventures, 3 Impact Frontiers dimensions scored 1 to 4, AI matched the final scores 81% vs deal leads 64%, est. 10-20% hallucination, prompt of 200+ lines. **Read the original, not just `CHEATSHEET.md`.**
+- **Unread:** the JD says a "candidate pack" can be downloaded from the Applied posting. If you still have access, skim it for values, process and the impact framework. `[YOU: read? y/n]`
+- Not verified: recent BSC news, fund sizes, the exact impact framework in use today. Don't quote numbers you haven't checked.
+
+## 10c. Logistics questions (have a one-line answer ready; fill the blanks yourself)
+- **Salary expectation** (band £50,400 to £65,800): `[YOU: the range you would accept and the number you'd say first]`
+- **Notice period / earliest start:** `[YOU: ...]` (student visa vs Graduate Visa start date matters here)
+- **Right to work:** Student Visa now, eligible for Graduate Visa (2 years' full working rights). `[YOU: application status/date]`. Don't raise sponsorship in R1; the JD says BSC cannot sponsor.
+- **Hybrid 40 to 60% in Old Street, R3 in person (w/c 23 Nov):** `[YOU: confirm you can do this]`
+- **Other processes / timeline:** be truthful and brief; if asked about other applications, say you're in process elsewhere without naming companies or stages.
+
+## 10d. Still blank (only you can write these)
+- [ ] Why BSC / improving lives in the UK (section 9): 3 or 4 sentences in your words
+- [ ] Citizenship activity you'd actually do
+- [ ] Salary, notice, start date, visa status (10c)
+- [ ] One real failure, one real disagreement, one honest weakness (drafts in `interview/QUESTIONS.md` §J)
+- [ ] Read the SSIR article in full (done) and the candidate pack (unread)
 
 ## 11. Day-of checklist
+- [ ] If the video link fails, have Nick's email ready (`NAndreou@bettersocietycapital.com`) and the phone number from the invite; message within 2 minutes, don't wait.
+- [ ] Question bank to skim, not memorise: `interview/QUESTIONS.md` (A hallucinations, B RAG evals, C RAG improvement, E evals/prompts, K article).
 - [ ] Video link tested, camera/mic, quiet room. CV, cover letter, this file's sections 4 and 5 (framework card) open on a second screen.
 - [ ] Pen and paper. In the problem section, sketch the flow as you speak, and offer to share your screen with a quick diagram if useful.
 - [ ] **Timebox:** intro 90 seconds; answers ≤2 minutes; leave about 3 minutes for your questions. If he's running long, say "Conscious of time, the short version is..."
@@ -181,3 +207,5 @@ This is an **essential criterion**, and BSC's application guidance says authenti
 - Numbers allowed: 300+ emails/day, 60 analyst hours/month, 10 hours/week, 3 years. No user, document or cost-saving figures.
 - Wingman's login is demo-grade and its photo scores are LLM-judged, so use it only for the Pydantic validation / rate-limit design points.
 - Both MSc projects are team projects; CellLineSelector is "co-built", never "led".
+- **Weekend build (`project/`):** a learning build, n = 15. Labels: 4 yours, 11 Claude's (3 of yours had `funding_type` corrected). Models were NVIDIA NIM (Nemotron for the skill, MiniMax as judge), not Claude. v1 vs v2 differences are within noise, and one v2 case never produced valid JSON. Never say "hand-labelled by me" or "production".
+- Prices and Cowork/Managed Agents details in `CHEATSHEET.md` come from web summaries: verify before quoting.
