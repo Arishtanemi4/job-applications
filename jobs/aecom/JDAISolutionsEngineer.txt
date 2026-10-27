@@ -1,0 +1,109 @@
+AI Solution Engineer
+London, GBR
+Reqid:J10151460
+Career Area:Digital & Engineering Technology
+Business Line:Corporate
+Business Group:Corporate
+Job Description
+
+In AECOM’s AI Engineering team your code will directly shape the physical world around us. We build AI-driven technology that revolutionises how infrastructure and buildings are designed and engineered; reducing waste, cutting CO₂, and making the built environment more efficient and sustainable. This is where software has measurable, real-world impact.
+
+With our AI Engineering team we’ve created a unique setup: a lean, highly technical team with the speed and ownership of a start up, backed by the scale, resources, and domain expertise of one of the world’s leading engineering firms. 
+
+What You’ll Do
+
+As part of our AI Engineering team, you will operate at the intersection of technology, product, and business - shaping how AI is applied across all of AECOM. You will turn ideas into validated solution concepts, helping the organization understand what is possible, valuable, and feasible.
+
+Identify and shape AI opportunities across the business
+
+Assess feasibility by balancing technical capability, business value, and complexity
+
+Design and build prototypes, demos, and MVPs
+
+Translate problems into structured approaches and PRDs
+
+Collaborate with engineers, product managers, and domain experts
+
+Explore emerging AI models and tools
+
+Support the lifecycle from concept to production handover
+
+Operate flexibly across demos, prototyping, and exploration
+
+As a AI Solution Engineer you might run a demo, support operational challenges, explore the latest LLM capabilities, join workshops, make discovery calls, and sometimes just spend a full day building PoCs and MVPs. No two days are the same
+
+Qualifications
+
+Must-Have Qualifications
+
+Degree in computer science, software engineering, innovation/entrepreneurship/technology or a related technical field or equivalent demonstrable experience
+
+Background in AI, engineering, data, product or consulting (mindset matters more than title)
+
+Understanding of AI/LLM capabilities and limitations, and familiarity with AI tooling (LLMs, APIs, MCPs, RAG systems)
+
+Ability to build prototypes using Python, web frameworks and similar tools, with good understanding of the idea-prototype-production lifecycle
+
+Experience translating ideas into structured approaches or prototypes, assess feasibility and communicate trade-offs
+
+Preferred Skills
+
+Experience working with senior stakeholders to shape solutions
+
+Experience translating ideas into structured approaches or prototypes
+
+High-level understanding of cloud platforms, containers, and backend system
+
+Exposure to finance, operations, or commercial work
+
+Additional Information
+
+Our Hiring Process
+
+25-minute screening call
+
+Take-home challenge: A hands-on task to assess your problem-solving and technical skills
+
+Combined technical and cultural interview (in-person)
+
+Whiteboard Interview: 1-hour with 2 of our engineers to discuss your solution to the take-home challenge
+
+Culture fit: 30-minute meeting with our leadership team
+
+Why Join Us?
+
+Work on real-world problems where AI creates measurable impact.
+
+Be part of a team where your work matters, and your ideas become real.
+
+Collaborate with sharp, driven colleagues in a culture of trust, ownership, and high standards.
+
+Contribute to making the built environment smarter and more sustainable.
+
+At AECOM, we are committed to maintaining a secure and trustworthy recruitment process and take any fraudulent hiring activity seriously. To support this commitment, all newly hired employees are required to attend an in-person Day 1 onboarding at an AECOM office location as a condition of employment.
+
+About AECOM
+
+AECOM is proud to offer comprehensive benefits to meet the diverse needs of our employees. Depending on your employment status, AECOM benefits may include medical, dental, vision, life, AD&D, disability benefits, paid time off, leaves of absences, voluntary benefits, perks, flexible work options, well-being resources, employee assistance program, business travel insurance, service recognition awards, retirement savings plan, and employee stock purchase plan.
+
+AECOM is the global infrastructure leader, committed to delivering a better world. As a trusted professional services firm powered by deep technical abilities, we solve our clients’ complex challenges in water, environment, energy, transportation and buildings. Our teams partner with public- and private-sector clients to create innovative, sustainable and resilient solutions throughout the project lifecycle — from advisory, planning, design and engineering to program and construction management. AECOM is a Fortune 500 firm that had revenue of $16.1 billion in fiscal year 2025. Learn more at aecom.com.
+
+What makes AECOM a great place to work
+
+You will be part of a global team that champions your growth and career ambitions. Work on groundbreaking projects—both in your local community and on a global scale—that are transforming our industry and shaping the future. With cutting-edge technology and a network of experts, you’ll have the resources to make a real impact. Our award-winning training and development programs are designed to expand your technical expertise and leadership skills, helping you build the career you’ve always envisioned. Here, you’ll find a welcoming workplace built on respect, collaboration and community—where you have the freedom to grow in a world of opportunity.
+
+We are a Disability Confident Employer and will offer an interview to applicants who have a disability or long-term condition, who meet the minimum/essential criteria for the role. Please let us know using this email address ReasonableAccommodationsUKI@aecom.com if you would like to apply through the Disability Confident Interview Scheme.
+
+All your information will be kept confidential according to EEO guidelines.
+
+ReqID: J10151460
+
+Business Line: Corporate
+
+Business Group: Corporate
+
+Strategic Business Unit: AI Engineering
+
+Career Area: Digital & Engineering Technology
+
+Work Location Model: On-Site

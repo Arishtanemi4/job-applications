@@ -1,0 +1,11 @@
+Hello AECOM AI Engineering team,
+
+I'm applying for the AI Solution Engineer role because it matches the work I did for three years at HDFC Asset Management: taking an idea from a conversation with a business team to a working prototype, and then to a released tool that people actually use.
+
+There I built RAG applications, tool-calling agents and an email-processing automation (60 analyst hours a month saved) for the Compliance, Client Service and Investment teams, and chose between self-hosted Llama-3 and Azure OpenAI on cost and quality. I covered the whole path: ReactJS and FastAPI prototypes, Docker on AWS, CI/CD, and the security team's review. My MSc dissertation with AstraZeneca followed the same pattern, refining a ranking tool with feedback from their scientists.
+
+To be upfront: my agent work has used direct tool calling rather than MCP, and I haven't written formal PRDs. Both are things I would expect to pick up quickly. I'm based in Bristol and happy to work on site in London. I'm on a Student Visa and eligible for the 2-year Graduate Visa.
+
+Thank you for considering my application.
+
+Kaustubh Sonawane

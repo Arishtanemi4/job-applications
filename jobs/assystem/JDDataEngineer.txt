@@ -1,0 +1,113 @@
+Data Engineer – Databricks
+
+Nuclear
+Permanent / Digital
+Bristol
+United Kingdom
+13/10/26
+On site
+
+⚡️💡 About Assystem
+
+
+Today, Assystem is among the top three independent nuclear engineering firms worldwide. With over 60 years of experience in highly regulated sectors, the group supports public and industrial stakeholders in the execution of complex and strategic infrastructure projects, subject to high safety and security requirements.
+
+
+Assystem mobilizes 8,000 experts in 13 countries and intervenes across the entire project lifecycle, in engineering, project management and digital solutions.
+
+
+ 
+
+
+Job Description
+Overview
+
+Working on a major nuclear power plant project with experience in Databricks, the Data Engineer will be responsible for designing, developing, testing, and supporting data products that underpin reporting, analytics, and operational decision-making across the project programme.
+
+Working within a multidisciplinary Data & Analytics team, the successful candidate will use Databricks, SQL, Python, and Microsoft technologies to deliver robust, scalable, and maintainable data solutions. They will collaborate closely with Data Architects and Performance Analysts to transform business requirements into high-quality data products that support project performance reporting across safety, quality, schedule, cost, and operational functions.
+
+This role requires a Data Engineer who can work independently, take ownership of technical delivery, and contribute to the continuous improvement of the organisation’s data platform.
+
+Key Responsibilities
+
+Data Engineering & Development
+
+Design, develop, and maintain data products using Databricks and associated Azure technologies.
+Build scalable ETL/ELT pipelines to ingest, transform, and load data from multiple enterprise systems.
+Develop data transformations using PySpark, Spark SQL, SQL, and Python.
+Create and maintain curated datasets that support business intelligence, reporting, and analytics.
+Implement data quality, reconciliation, validation, and monitoring processes.
+Optimise data pipelines and workloads to improve performance, reliability, and cost efficiency.
+Support the development of reusable engineering frameworks, templates, and standards.
+Delivery & Support
+
+Translate business requirements and functional designs into technical solutions.
+Develop, test, document, and deploy data products in line with established engineering standards.
+Support production data products and resolve issues impacting data quality or availability.
+Participate in release, deployment, and change management activities.
+Contribute to continuous improvement initiatives across the data platform.
+Collaboration & Governance
+
+Work closely with Data Architects to ensure solutions align with enterprise architecture and data standards.
+Collaborate with Performance Analysts and business stakeholders to understand reporting and analytical requirements.
+Communicate technical solutions and implementation approaches clearly to technical and non-technical audiences.
+Ensure compliance with Information Design Authority (IDA) governance processes.
+Maintain appropriate technical documentation, data lineage, and support materials.
+My profile
+Essential Skills & Experience
+
+Databricks & Data Engineering
+
+Minimum 2 years’ experience delivering data engineering or business intelligence solutions.
+Strong proven commercial experience with Databricks.
+Strong experience developing ETL/ELT pipelines and data integration solutions.
+Experience using Apache Spark, PySpark, and Spark SQL.
+Strong SQL development and optimisation skills.
+Experience working with large and complex datasets from multiple source systems.
+Knowledge of data modelling principles and analytical data structures.
+Experience implementing data quality and reconciliation processes.
+Experience working with Power BI and data visualisation solutions.
+Understanding of semantic models, reporting datasets, and business intelligence concepts.
+Ability to support analysts in delivering meaningful reporting and insights.
+Desirable Skills
+
+Databricks certification.
+Experience within construction, infrastructure, engineering, utilities, energy, or regulated industries.
+Familiarity with Integrated Management System (IMS) or similar governance frameworks.
+Knowledge of Power BI advanced features and dashboard development.
+Experience with automation using VBA or Python.
+Exposure to Agile delivery methodologies.
+Qualifications
+
+Degree or equivalent qualification in Computer Science, Data Engineering, Information Systems, Mathematics, Engineering, or a related discipline.
+Relevant Databricks, Azure, or Power BI certifications are desirable.
+Software Experience
+
+Databricks
+SQL Server
+Microsoft Azure
+Azure DevOps
+Power BI
+Python
+🌟 What we offer
+
+🏠 Hybrid Working – Flexibility to work from home and the office
+🏖️ 25 Days Annual Leave + Bank Holidays
+🔄 Buy & Sell Holiday – Make your time off work for you
+💰 8% Company Pension Contributions
+🛡️ Income Protection & 3x Salary Death-in-Service Cover
+🤒 Competitive Sick Pay – Support when you need it
+🏥 Healthcare Cash Plan – Claim back on dental, optical & more
+💪 Free Digital Gym Access – Expert-led fitness classes
+🎁 Exclusive Discounts – Restaurants, days out & top brands
+📞 24/7 Employee Support Line – Mental health, financial & legal help
+🚴 Cycle to Work Scheme – Save money & go green
+💉 Free Flu Jabs & Eye Test Vouchers
+🧾 Paid Professional Membership Fees
+❤️ Volunteer Days – Make a difference on company time
+
+Join Assystem and become a key player in delivering critical nuclear projects that shape the future of energy. Embrace this opportunity to excel in a dynamic environment where your expertise and leadership will drive global innovation.
+
+NOTICE TO CANDIDATES ON RECRUITMENT FRAUD – We are committed to safeguarding candidates from fraudulent activity associated with our recruitment process. Please note that we will never offer specialist CV writing services, request payment or ask for sensitive personal information during the recruitment process.
+
+We are committed to equal treatment of candidates and promote, as well as foster all forms of diversity within our company. We believe that bringing together people with different backgrounds and perspectives is essential for creating innovative and impactful solutions. Skills, talent, and our people’s ability to dare are the only things that matter !. Bring your unique contributions and help us shape the future.

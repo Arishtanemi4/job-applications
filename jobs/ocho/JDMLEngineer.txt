@@ -1,0 +1,113 @@
+Machine Learning Engineer (Remote)
+Job description.
+Machine Learning Engineer | LLM & Agent Evaluation | Python | Remote UK
+
+ 
+
+At-a-Glance
+
+•        Own evaluation for production LLM and agent systems at a funded AI start-up
+
+•        Mid to senior individual contributor role across Python, NLP, LLMs and GCP (Vertex AI, BigQuery)
+
+•        Fully remote from Northern Ireland 
+
+•        £90,000 to £140,000 base plus equity
+
+•        A new role: you will build the evaluation function from the ground up
+
+ 
+
+About the Company
+
+Our client is a fast-growing AI company building an agentic quality assurance platform that autonomously creates, runs and maintains software tests, so engineering teams can ship with confidence as AI writes more of their code. Its platform runs on custom machine learning models built specifically for testing, and it is trusted by globally recognised enterprise brands across technology, healthcare and professional services. The business is raising its next funding round and is on track for significant growth, with a small, high-calibre Belfast team now expanding into Data Science and Machine Learning.
+
+ 
+
+The Role
+
+This is a new role and the first dedicated evaluation hire, so you will define how the business measures the quality of its AI. The product is an AI agent, and every change to a model, prompt or piece of agent logic can quietly make it better or worse. Your job is to know which, before customers do.
+
+You will work closely with the engineers building agent capabilities and with the team's senior data scientist, and report into the Head of Data Science. The team is small, so breadth matters as much as depth, and you will regularly pick up work outside your core specialism.
+
+The people who thrive here are hands-on and curious about the business itself, not just the technology. You will be comfortable in the data, confident learning on the job, calm when priorities shift, and you will know when an evaluation is good enough to ship and when it needs more work. Cost is a real constraint in a start-up, so you will think about what each LLM call and pipeline costs as naturally as how accurate it is.
+
+ 
+
+Key Responsibilities
+
+•        Design evaluation frameworks and metrics covering accuracy, safety, latency and cost across agent and LLM systems
+
+•        Build benchmark eval sets that reflect real customer scenarios and edge cases
+
+•        Develop automated scoring pipelines using rubric-based grading and LLM-as-judge techniques
+
+•        Calibrate automated judges against human review so the team can trust the numbers
+
+•        Stand up regression suites that catch quality drops from model, prompt or agent-logic changes before release
+
+•        Create dashboards that track model and agent quality over time and across releases
+
+•        Investigate failure modes in multi-step agent behaviour and prioritise fixes with the engineering team
+
+•        Partner with the senior data scientist on deeper statistical analysis of results
+
+•        Balance evaluation coverage against compute and API cost
+
+ 
+
+What You'll Need
+
+Essential:
+
+•        5+ years in ML engineering, NLP or applied data science, with hands-on experience of LLM or agent-based systems
+
+•        Practical experience building or operating evaluation frameworks, automated scoring or benchmark systems for ML or LLM outputs
+
+•        Strong Python and experience building data pipelines for evaluation datasets
+
+•        Solid understanding of NLP and modern LLM capabilities, including prompting techniques, agentic workflows and retrieval
+
+•        A strong statistics foundation, including sampling, variance and judging whether a change in results is meaningful
+
+•        Ability to design metrics that represent real-world quality, not just benchmark scores
+
+•        Working experience with GCP (Vertex AI, BigQuery) or equivalent hands-on experience with another major cloud ML platform
+
+•        A degree in Computer Science, Machine Learning, Statistics or a related field, or equivalent practical experience
+
+•        Right to work in the UK
+
+Desirable / Nice to Have:
+
+•        Experience with LLM-as-judge techniques, rubric design or human-in-the-loop evaluation programmes
+
+•        Familiarity with agent architectures and the failure modes specific to multi-step agentic systems
+
+•        Experience operating evaluation systems at scale in production
+
+ 
+
+Why Apply?
+
+•        £90,000 to £140,000 base salary plus equity in a business heading into its next funding round
+
+•        Fully remote, based in Northern Ireland 
+
+•        Async-first culture that trusts you to manage your own time and deliver
+
+•        Build a function from scratch, with direct influence over how the product's AI is measured and released
+
+•        Real breadth: a small team where you will work across engineering, data and ML rather than in a narrow lane
+
+•        A clear, transparent five-stage interview process, with AI tools actively encouraged in the take-home exercise
+
+•        A long-term career home in a company that is investing seriously in its data and ML function
+
+ 
+
+Next Steps
+
+This role is exclusive to Ocho People and won't be found advertised anywhere else.
+
+To find out more, connect with Chanel Gillen on LinkedIn or send your CV to chanel@ochopeople.com for a confidential conversation.

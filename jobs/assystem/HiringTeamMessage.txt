@@ -1,0 +1,11 @@
+Hello Assystem Data & Analytics team,
+
+I'm applying for the Data Engineer (Databricks) role in Bristol. I'm based in Bristol, and the work you describe, turning business requirements into reliable data products for reporting in a regulated setting, is what I did for three years at HDFC Asset Management.
+
+There I designed the PostgreSQL schema for an internal analytics platform, wrote the Python ingestion that loads fund data from the Morningstar API and integrates it with legacy Excel data, and built a scheduled AWS pipeline that parses over 300 rating-agency emails a day (60 analyst hours a month saved). I also built the Power BI dashboards that moved the investment analysts off Excel (10 hours a week saved), and worked directly with the Compliance, Client Service and Investment teams. The platform went through the security team's VAPT review before release. I'm completing my MSc in Data Science at the University of Bristol, where my dissertation with AstraZeneca included a preprocessing pipeline with integrity checks and an audit manifest.
+
+To be upfront: I haven't used Databricks or Spark commercially, and my cloud work has been on AWS rather than Azure. The pipeline, SQL, modelling and reporting work carries over, and I would expect to pick up PySpark, Databricks and Azure DevOps quickly. I'm on a Student Visa and eligible for the 2-year Graduate Visa.
+
+Thank you for considering my application.
+
+Kaustubh Sonawane
