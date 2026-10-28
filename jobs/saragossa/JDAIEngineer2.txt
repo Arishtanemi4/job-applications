@@ -1,0 +1,13 @@
+About the job
+AI Engineer - Hedge Fund - Up to £130k base
+You are building something from scratch, inside a fund that moves fast and answers to no one but itself.
+This is a greenfield AI project. There is no legacy system to maintain, no inherited mess to unpick. You are coming in at the start and shaping how AI gets built and evaluated across the fund. That is a rare thing.
+The fund is multi-asset, technology first. When something needs to happen, it happens.
+Day to day you are building and applying evaluation frameworks for RAG and agentic systems. You are working with tool calling, output quality, ground-truth capture and monitoring. You are running model comparisons, internal benchmarks, and making cost-value calls on AI tooling. You are hands-on with LLM-as-judge approaches, human-labelled datasets, retrieval metrics and agent trace analysis. And when the work calls for it, you contribute beyond evaluation too.
+The stack is modern, the pace is real, and you are getting genuine exposure to how a data-driven hedge fund operates from the inside.
+On the practical side, you have solid hands-on experience evaluating LLM systems and you know your way around agentic architectures. You understand what good looks like when it comes to building reliable, measurable AI pipelines.
+The salary goes up to £130k base, with a bonus payout in the region of 20 to 30 percent.
+This would be a great next step if you are already in AI engineering and want to move somewhere the work genuinely matters and the decisions get made.
+Ready to build something properly?
+Get in touch.
+No up-to-date CV required.

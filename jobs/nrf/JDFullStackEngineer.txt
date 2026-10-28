@@ -1,0 +1,131 @@
+Full Stack Product Engineer
+
+London, United Kingdom
+posted on
+Posted 30+ Days Ago
+job requisition id
+R-4377
+Practice Group / Department:
+
+Legal Innovation, Design & Technology - London
+Job Description
+
+Norton Rose Fulbright is a global law firm with more than 3,000 lawyers advising clients across locations in the United States, Europe, Canada, Latin America, Asia, Australia, Africa and the Middle East. We provide a full scope of legal services to the world’s preeminent corporations and financial institutions.
+
+ 
+
+Our vision is to be a world class business, profitable, ambitious, cooperative and considerate, supporting our clients and people through our global business principles of Quality, Unity and Integrity.
+
+ 
+
+With over 7,000 employees worldwide, our culture is the thread that connects us. Our strategy and culture are closed connected – defined by shared ambition, global collaboration and a one-team mindset. We believe pioneering work happens when people are empowered to think beyond boundaries, explore new opportunities and grow through diverse experiences. Alongside the right skills and experience, we are looking for people who are innovative, commercially minded, and motivated by the impact of the work they do – ready to share in our ambition and help shape what comes next.
+
+
+Because while individuals can do well, together we achieve something extraordinary.
+
+
+Role Purpose 
+
+We are building a new R&D capability focused on developing data-driven and AI-enabled products for legal services and the wider business of law. 
+
+The Full-Stack Product Engineer will own the user-facing applications through which lawyers and business teams use R&D products. This is a frontend-led full-stack role: you will turn complex, document- and data-heavy workflows into clear, useful and well-crafted experiences, while building the integrations and application services needed to take products from concept to controlled use. 
+
+You will take practical responsibility for the application’s deployment, operation, monitoring and continuous improvement, working within agreed enterprise technology, security and release patterns. 
+
+The role works closely with a broader team of AI engineers, data engineers and data scientists to turn R&D capabilities into coherent product journeys. 
+
+You will join a small, hands-on multidisciplinary team working collaboratively across discovery, prototyping, engineering, productionisation and continuous improvement. 
+
+Key Responsibilities 
+
+Own the frontend architecture and user experience for R&D products, from early prototype through controlled production release. 
+
+Build accessible, responsive web applications and internal tools using modern TypeScript, React and Next.js patterns. 
+
+Turn workflow discovery, user feedback and product requirements into simple user journeys, interfaces and technical delivery plans. 
+
+Create intuitive experiences for AI-assisted work, including search, document review, structured outputs, evidence and citation views, workflow tasks and human-review steps. 
+
+Apply strong visual and interaction-design judgement to hierarchy, information density, loading, empty and error states, and progressive disclosure. 
+
+Build and maintain reusable frontend components in line with the R&D design system, partnering with product design to improve consistency and delivery speed. 
+
+Develop application-specific APIs and integrations where needed, while using shared AI, data and platform services for common capabilities. 
+
+Integrate approved data sources, search and retrieval services, Microsoft 365 sources, document repositories and business systems into usable workflows. 
+
+Deploy and operate responsive React and Next.js applications in Azure, using approved hosting, environment configuration, release, monitoring, health-check and support patterns. 
+
+Implement secure application authentication, authorisation and data-access controls using Microsoft Entra ID and approved Azure services. 
+
+Configure and use Azure services needed for application delivery, including application hosting, secrets and configuration, monitoring and telemetry. 
+
+Write maintainable code with unit, integration and end-to-end test coverage; use Docker, Git, code review and CI/CD throughout delivery. 
+
+Build and maintain application-level release processes, supporting reliable deployment, rollback, troubleshooting and continuous improvement. 
+
+Initial Focus 
+
+A reusable frontend component library and design system that improves consistency and speed across the R&D portfolio. 
+
+User-facing R&D products for client intelligence, document and matter workflows, search and AI-assisted decision support. 
+
+High-quality interfaces for AI outputs that make provenance, uncertainty, controls and next actions clear to users. 
+
+A repeatable Azure-based application deployment and operational model for R&D products. 
+
+What Success Looks Like 
+
+AI-enabled experiences are intuitive, clear and dependable, helping users understand outputs, relevant context, evidence, controls and next actions. 
+
+Products have a repeatable path to deployment, monitoring, support and improvement in Azure. 
+
+Successful prototypes can be deployed, maintained and extended without being rebuilt from scratch. 
+
+A well-built component library, supported by reusable experience patterns, is established and adopted across R&D products, improving consistency, usability and delivery speed. 
+
+Essential Skills and Experience 
+
+At least three years’ professional experience in full-stack software engineering, gained in a product or SaaS environment. Experience in legal technology or a law firm is not required, but would be advantageous. 
+
+Demonstrable experience shipping, operating and improving web applications used by real users, not solely demonstrations or proofs of concept. 
+
+Strong TypeScript and React experience, preferably including Next.js or a comparable production web framework. 
+
+Good backend capability with Node.js, Python or comparable server-side technologies, including APIs and enterprise integrations. 
+
+Demonstrable experience deploying and operating responsive React or Next.js applications in Azure, using services such as Azure App Service or Azure Container Apps, Azure Monitor/Application Insights and Azure Key Vault. 
+
+Experience implementing enterprise authentication and authorisation using Microsoft Entra ID, including SSO, OAuth/OIDC, role-based access controls and secure access to APIs and data. 
+
+Experience integrating AI-enabled features, including LLM, retrieval, search, document-processing or workflow-automation capabilities, into user-facing applications. 
+
+A strong eye for product design and usability, including visual hierarchy, interaction patterns, accessibility, responsive design and states beyond the happy path. 
+
+Experience building or working with reusable component libraries and design systems, and translating product or design requirements into accessible, reusable interfaces. 
+
+Experience with secure coding, sensitive data, Docker, Git, automated testing and CI/CD. 
+
+Strong debugging and performance-tuning skills, and clear communication with technical and non-technical stakeholders. 
+
+Desirable Skills and Experience 
+
+Experience with Azure OpenAI, Azure AI Search, Microsoft Graph or Microsoft 365 integrations. 
+
+Experience with Azure Functions, Azure Storage, Service Bus, API Management or managed identities. 
+
+Experience with Azure DevOps, GitHub Actions, Bicep, Terraform or comparable application-infrastructure tooling. 
+
+Experience with FastAPI, Express, serverless functions or containerised deployment. 
+
+Experience with Figma, usability testing, product analytics or collaborating closely with product designers. 
+
+Experience with document-heavy applications, search interfaces, knowledge tools or professional-services workflows. 
+
+Familiarity with confidentiality, information barriers, responsible-AI controls or another regulated environment. 
+
+Diversity, Equity and Inclusion
+To attract the best people, we strive to create a diverse and inclusive environment where everyone can bring their whole selves to work, have a sense of belonging, and realize their full career potential. 
+Our new enabled work model allows our people to have more flexibility in the way they choose to work from both the office and a remote location, while continuing to deliver the highest standards of service. We offer a range of family friendly and inclusive employment policies and provide access to programmes and services aimed at nurturing our people’s health and overall wellbeing. Find more about Diversity, Equity and Inclusion here.
+
+We are proud to be an equal opportunities employer and encourage applications from individuals who can complement our existing teams. We strive to create an inclusive and accessible recruitment process for all candidates. If you require any tailored adjustments or accommodations, please let us know here.

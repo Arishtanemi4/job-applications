@@ -1,0 +1,42 @@
+AI Engineer
+Hybrid Full time
+
+London, England, United Kingdom
+Overview
+Application
+Description
+Permutable builds market intelligence that helps investors and trading teams understand what is changing across macroeconomics, commodities, currencies and geopolitics, and assess what markets may price next.
+
+We process information from global sources and turn it into structured, traceable signals used in institutional research and market workflows. We’re looking for a Senior AI Engineer who can take language-model systems from experiment to reliable production use.
+
+You’ll work closely with our founder, engineers and researchers in a small London team. Your decisions will shape how our AI systems interpret incoming information, assess its relevance and deliver results that users can inspect and trust.
+
+What you’ll do
+
+Build and improve LLM and NLP pipelines that extract entities, identify developing narratives and produce structured market intelligence.
+Design evaluations for accuracy, consistency, latency and failure modes, then use the results to improve models and workflows.
+Develop Python services and data pipelines that process information at scale and deliver it to production systems.
+Deploy, monitor and maintain AI workloads using AWS, containers, CI/CD and workflow orchestration.
+Work with engineers and market specialists to turn research questions into tested product capabilities.
+Requirements
+Strong Python and software engineering skills, with experience shipping AI or machine-learning systems into production.
+Hands-on experience with LLMs or NLP, including evaluation and the practical limits of model outputs.
+The ability to own a technical problem: make design choices, write maintainable code, test it and support it after release.
+Experience with cloud infrastructure, containers and production monitoring.
+Clear communication and an interest in how global events affect financial markets.
+Experience with multi-agent workflows, model fine-tuning, Airflow, AWS, GitHub Actions, Pulumi or GPU workloads would be useful. We care more about what you have built and operated than whether you have used every tool in our stack.
+Benefits
+Real Ownership: Take significant ownership of our production architecture and infrastructure.
+
+Build the Next Generation: Help move our platform towards real-time, event-driven and agent-driven architecture.
+
+AI at Scale : Work with LLMs, AI agents, quantitative models and large volumes of continuously arriving data.
+
+Technical Influence: Have a meaningful say in architecture and technology decisions.
+
+Real Production Impact: Your work will quickly reach production and support institutional financial clients.
+
+An Ambitious, Collaborative Culture: Join a close-knit team with the pace, openness and shared sense of purpose of a high-growth start-up. We work together from our Vauxhall hub and make time for regular team socials and company offsites.
+
+Hybrid Flexibility: Spend three or more days each week in our Vauxhall hub, with flexibility to work remotely for the remainder.
+

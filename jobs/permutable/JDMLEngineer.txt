@@ -1,0 +1,56 @@
+Machine Learning Engineer - Python & LLM Systems
+HybridFull time
+
+London, England, United Kingdom
+
+Description
+London, Vauxhall | Hybrid: at least three days in the office each week
+
+Help build systems that turn unfolding world events into market intelligence.
+
+At Permutable, we build AI systems that analyse global news, market and proprietary data to produce market intelligence and systematic signals for financial institutions.
+
+Our work connects developments across energy, commodities, economic policy and geopolitics to the assets and markets they influence. Behind it are demanding engineering problems: interpreting unstructured information, evaluating model behaviour and running reliable pipelines as new data arrives.
+
+We’re looking for a Machine Learning Engineer with strong Python skills who wants to take models from experimentation into production.
+
+You’ll work closely with our founder and engineering team, contribute to technical decisions and see your work become part of the product. As our systems evolve towards real-time processing and more complex AI workflows, you’ll help decide how we build, evaluate and operate them.
+
+What you’ll do
+
+Build production LLM pipelines. Develop systems spanning data preparation, model training and fine-tuning, evaluation, deployment and ongoing monitoring.
+Improve model performance. Use Python and our in-house GPU infrastructure to experiment with model architectures and fine-tuning approaches, assessing quality alongside latency and compute requirements.
+Make evaluation part of development. Build repeatable evaluations, investigate failure cases and use the results to guide model and pipeline improvements.
+Orchestrate data and model workflows. Build and maintain Apache Airflow pipelines, with monitoring, retries and clear approaches to failure recovery.
+Deploy and operate AI services. Work with AWS services including Lambda, ECS/EKS, S3 and Redshift, supported by Docker, GitHub Actions and Pulumi.
+Take responsibility for what you build. Follow your work through deployment, monitor its behaviour in production and resolve problems with the team.
+Contribute to engineering decisions. Bring ideas, test assumptions and help choose practical approaches to the next technical challenge.
+Why join Permutable?
+
+Work on a substantial technical challenge. Help turn large volumes of changing, unstructured information into intelligence financial institutions can use.
+Have a voice in what gets built. Work directly with our founder and engineers, contributing to model choices, evaluation methods and system design.
+Develop across the full ML lifecycle. Build experience in experimentation, GPU-based training, cloud deployment and production operations.
+See the outcome of your work. Your models and pipelines will become part of a live product, with responsibility extending beyond the initial deployment.
+We work together in our Vauxhall office at least three days each week, making time to exchange ideas, solve problems and learn from one another.
+
+Requirements
+At least two to three years of professional AI/ML engineering experience, or equivalent experience delivering substantial, relevant systems.
+Strong Python skills and software engineering fundamentals, including maintainable code, testing, debugging and version control.
+Hands-on experience building, training or fine-tuning machine learning models, with a clear understanding of how to evaluate their performance.
+Experience taking models or AI pipelines into production and understanding what is needed to keep them working reliably.
+Familiarity with MLOps practices, including CI/CD, containerisation, automated testing and monitoring.
+A grounding in computer science, engineering, machine learning, mathematics or a related discipline, developed through study or practical experience.
+Curiosity, initiative and the ability to work through unfamiliar problems. You’re comfortable discussing trade-offs, asking questions and taking responsibility for delivery.
+Useful additional experience
+
+LLMs or NLP, GPU workloads, Apache Airflow, AWS, infrastructure-as-code tools such as Pulumi, or financial-market data.
+
+You don’t need experience with every tool in our stack. We’re interested in what you’ve built, how you approach problems and your ability to learn.
+
+Benefits
+Work on a substantial technical challenge. Help turn large volumes of changing, unstructured information into intelligence financial institutions can use.
+Have a voice in what gets built. Work directly with our founder and engineers, contributing to model choices, evaluation methods and system design.
+Develop across the full ML lifecycle. Build experience in experimentation, GPU-based training, cloud deployment and production operations.
+See the outcome of your work. Your models and pipelines will become part of a live product, with responsibility extending beyond the initial deployment.
+Join a close-knit team with a strong startup culture. We share ideas, help each other solve problems and enjoy spending time together, with regular staff socials, offsites, sports events and office treats.
+Share in what you help build. Equity options give you a stake in Permutable’s long-term growth and success.

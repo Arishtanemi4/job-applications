@@ -1,0 +1,5 @@
+AI and data engineer with three years of industry experience and an MSc in Data Science from the University of Bristol (awaiting result). At HDFC Asset Management I designed and built production GenAI applications end to end for the Compliance, Client Service and Investment teams: a ReactJS frontend, a FastAPI backend, and RAG on Azure OpenAI, LlamaIndex and pgvector, deployed on AWS with Jenkins and GitLab CI/CD. I also built the data layer behind them, including the PostgreSQL schema, Morningstar API ingestion and Power BI dashboards, and an email-parsing pipeline that saved analysts 60 hours a month.
+
+I work best close to the people using the system. I built to stakeholders' requirements, and acted as a de facto team lead for up to four interns. My MSc dissertation was a team project with AstraZeneca, and I have placed in three UK hackathons and datathons.
+
+I am looking for AI engineering, forward deployed engineering, machine learning, data science, data engineering or full stack roles in the UK. I am on a Student visa and eligible for the Graduate visa, which gives two years of full working rights.

@@ -1,0 +1,55 @@
+Software Engineer – AI Automation | London
+Global Prime Brokerage & Financing Platform
+
+London
+
+New Listing
+
+Exciting opportunity at one of the fastest growing financial services firms around the world. They offer prime brokerage, clearing and financing across traditional and digital assets, and are now looking to hire world-class engineers to help build on their success.
+
+In this role within the AI Automation team, you will design and deliver AI-driven automation solutions that streamline and enhance complex business processes across customer, operations, compliance, legal, finance, and other workflows. You’ll build scalable automation services to reduce manual effort, improve accuracy, and unlock new operational capabilities. This will involve partnering with engineering teams, and collaborating closely with product managers, technical program managers, and business architects.
+
+This role offers meaningful ownership and business-wide impact. The successful AI Automation Engineer will have outstanding communication skills, with a cross-functional, collaborative mindset.
+
+Skills & Experience Required
+
+5+ years’ experience in software engineering, workflow automation, process automation, or applied AI
+Strong proficiency in Python
+Demonstrated experience delivering production-grade automation (not just prototypes or POCs), plus integration of AI/ML capabilities into real business workflows
+Experience working with databases or data warehouses to support automation use cases
+Experience integrating automation with collaboration and productivity platforms (e.g. messaging, knowledge management, ticketing/workflow tools)
+Ability to design and implement context and data integrations through APIs, events, or protocols (including MCP where applicable)
+Experience in fintech, capital markets, or digital asset platforms is a plus
+ 
+
+Whilst we carefully review all applications, to all jobs, due to the high volume of applications we receive it is not possible to respond to those who have not been successful.
+
+
+Job Type
+Permanent
+Specialties
+AI
+,
+AI Tools
+,
+APIs
+,
+Automation
+,
+Digital Assets
+,
+ML
+,
+Python
+,
+Software Engineer
+Contact
+If you feel you are suitable for this role, don’t hesitate to get in touch:
+
+Jack Peck
+[e] jack.peck@oxfordknight.co.uk
+[t] +44 20 3745 6537
+linkedin.com/in/jack-peck-448a70131/
+
+Apply by Email
+Copy URL

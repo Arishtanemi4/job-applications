@@ -1,0 +1,17 @@
+To: jack.peck@oxfordknight.co.uk
+Subject: AI Automation Engineer (Digital Assets) - Kaustubh Sonawane
+
+Hi Jack,
+
+I'm applying for the AI Automation Engineer role in the AI Automation team at your digital-asset prime brokerage client. My CV is attached.
+
+The brief is automation that removes manual effort from business processes, and that is the work I did for three years at HDFC Asset Management. I built a Python pipeline that parses more than 300 rating-agency emails a day, matches them to the companies the analysts track and sends a daily consolidated summary, which saves 60 analyst hours a month. It runs on AWS SageMaker, scheduled by an EventBridge rule and a Lambda function, and I later replaced the Textract parser with Azure OpenAI when one agency started sending its emails as images. I also built a WhatsApp fund-comparison agent, via the Netcore API, that the Sales team uses daily (roughly 50 to 100 people): Azure OpenAI tool calling picks the comparison and calls Python functions over PostgreSQL data. It broke first on parameter extraction once real users hit it, and I fixed that. Everything went to real users in Compliance, Client Service, Investment and Sales, and I worked with them directly.
+
+To be upfront on the gaps. I have about three years of experience against the 5+ you list. My domain was asset management and credit-rating data, not capital markets or digital assets. My integrations were WhatsApp, a shared email inbox, the Morningstar API and company LDAP, so I have not integrated ticketing, knowledge-management or collaboration platforms such as Jira or Confluence. My data work was PostgreSQL rather than a data warehouse, and I have not built or used MCP in production, though I have used Claude Code on personal and hackathon projects. I would rather say this now than have you find out at interview.
+
+I'm currently based in Bristol, on a Student Visa and eligible for the 2-year Graduate Visa, and I'm happy to discuss location and working arrangements. If the client is open to a strong production-automation background at this level, I'd be glad to talk this week.
+
+Thank you,
+Kaustubh Sonawane
++44 7388229743
+ksstubh.sonawane@gmail.com | www.linkedin.com/in/kaustubhson4 | https://github.com/Arishtanemi4

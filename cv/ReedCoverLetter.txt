@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am applying for AI engineering, machine learning, data science, data engineering and full stack roles. My strongest evidence is three years at HDFC Asset Management, where I built GenAI and data systems that real internal users relied on every day, followed by an MSc in Data Science at the University of Bristol (awaiting result).
+
+At HDFC I designed and built RAG applications end to end for the Compliance, Client Service and Investment departments. That covered the ReactJS frontend, the FastAPI microservices, Azure OpenAI and LlamaIndex retrieval, and a separate pgvector database for each department because access was department-based. I allocated models by cost, self-hosting Llama-3 on a GPU instance for the largest team, and I deployed everything on AWS with Jenkins and GitLab. It was a regulated business, so RBAC, LDAP authentication, the security team's VAPT and Compliance review of the applications were all part of the job. The same work earned two internal Best Team Project recognitions, in 2024 and 2025.
+
+Alongside the GenAI work I handled the data side: a normalised PostgreSQL schema, Python ingestion of Morningstar data for every fund in the Indian mutual fund market, and Power BI dashboards that moved financial analysts off Excel and saved them 10 hours a week. I also built an email-parsing pipeline that processes more than 300 rating-agency emails a day and saved 60 analyst hours a month. I worked directly with the people who used these systems, and in my third year there I acted as a de facto team lead for up to four interns.
+
+At Bristol my dissertation was a team project with AstraZeneca. We built CellLineSelector, which ranks cancer cell lines for a researcher's inclusion and exclusion genes, with feedback from AstraZeneca scientists. My focus was the data preprocessing, the scoring algorithm and the RAG layer. Outside the course I placed 4th at Project Hack 27 (Rolls-Royce), 2nd at the Encode Vibe Coding Hackathon and 3rd at the Bristol Datathon sponsored by Lloyds Bank.
+
+I am based in Bristol, on a Student visa and eligible for the Graduate visa, which gives two years of full working rights. I would welcome the chance to talk about how I can contribute to your team.
+
+Kind regards,
+Kaustubh Sonawane

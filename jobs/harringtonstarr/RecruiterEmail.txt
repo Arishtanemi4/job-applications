@@ -1,0 +1,17 @@
+To: Barry.Ansell@HarringtonStarr.com
+Subject: Investment Data Engineer (Private Markets Data Platform, ref 22478) - Kaustubh Sonawane
+
+Hi Barry,
+
+I'm applying for the Investment Data Engineer contract in the Private Markets Data & Analytics team at your Global Private Bank client. My CV is attached.
+
+For three years at HDFC Asset Management I owned the data platform behind the investment team's analytics. I designed the full normalized schema in PostgreSQL, wrote the Python ingestion for the Morningstar API covering every fund in the Indian mutual fund market, and integrated it with the legacy data the analysts kept in Excel. I wrote the SQL functions and procedures for insertion and tuned the preprocessing queries. The same data then fed Power BI dashboards, a React recreation of them for the wider organization, and GenAI applications, so I know what happens to a dataset between ingestion and consumption. I worked directly with the Investment, Compliance and Client Service teams throughout.
+
+To be upfront on the gaps. My database work is in PostgreSQL, not SQL Server, so I have no production SQL Server experience. My investment data was public mutual funds and credit ratings, not private markets. I also have about three years of experience, which may sit below the VP level you describe. The schema design, integration and data-quality work carries over, and I would rather say this now than have you find out at interview.
+
+I'm based in Bristol, on a Student Visa and eligible for the 2-year Graduate Visa. If the client is open to a strong PostgreSQL and data-integration background for this role, I'd be glad to talk this week.
+
+Thank you,
+Kaustubh Sonawane
++44 7388229743
+ksstubh.sonawane@gmail.com

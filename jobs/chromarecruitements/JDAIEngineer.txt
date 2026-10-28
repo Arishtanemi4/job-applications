@@ -1,0 +1,43 @@
+Manchester, Greater Manchester, England
+Permanent
+Tech
+AI Engineer
+AI Engineer
+Manchester | Hybrid
+Overview
+We are looking for an AI Engineer to design, develop and deploy AI-powered solutions that drive business value and improve operational efficiency. This role will focus on building and optimising machine learning models, generative AI applications, and intelligent automation solutions while working closely with technical and business stakeholders.
+
+The successful candidate will combine strong software engineering skills with practical experience in AI technologies, helping to shape and deliver the organisation's AI strategy.
+
+Key Responsibilities
+Design, build, and deploy AI and machine learning solutions in production environments.
+Develop and optimise Large Language Model (LLM) applications.
+Create AI-powered copilots, chatbots, knowledge management solutions, and workflow automation tools.
+Build and maintain scalable data pipelines to support AI initiatives.
+Implement Retrieval-Augmented Generation (RAG) frameworks and vector databases.
+Integrate AI technologies into existing business systems, applications, and processes.
+Evaluate emerging AI technologies and recommend solutions that deliver measurable business benefits.
+Monitor and improve model performance, accuracy, reliability, and security.
+Collaborate with data engineers, software developers, and business stakeholders to gather requirements and deliver solutions.
+Establish AI governance, best practices, and responsible AI standards.
+Provide technical guidance and support to internal teams on AI adoption and implementation.
+Skills & Experience
+Essential 
+Commercial experience developing AI, machine learning, or generative AI solutions.
+Strong programming skills in Python.
+Experience working with LLMs and generative AI technologies.
+Knowledge of machine learning frameworks such as PyTorch, TensorFlow, or Scikit-learn.
+Experience with Azure AI Services.
+Understanding of prompt engineering, RAG architectures, and vector databases.
+Experience building and deploying APIs and cloud-based applications.
+Strong problem-solving and analytical skills.
+Excellent communication and stakeholder management abilities.
+Experience working in Agile development environments.
+Desirables
+Experience with Microsoft Copilot technologies.
+Knowledge of MLOps tools and deployment practices.
+Experience using Azure Machine Learning.
+Exposure to fine-tuning and customising foundation models.
+Experience with LangChain, LlamaIndex, Semantic Kernel, or similar frameworks.
+Understanding of data governance, security, and compliance requirements.
+Experience developing AI solutions within large or regulated organisations.

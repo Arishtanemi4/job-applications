@@ -1,0 +1,113 @@
+Data Scientist & Engineer
+
+locations
+London, United Kingdom
+posted on
+Posted 30+ Days Ago
+job requisition id
+R-4379
+Practice Group / Department:
+
+Legal Innovation, Design & Technology - London
+Job Description
+
+Norton Rose Fulbright is a global law firm with more than 3,000 lawyers advising clients across locations in the United States, Europe, Canada, Latin America, Asia, Australia, Africa and the Middle East. We provide a full scope of legal services to the world’s preeminent corporations and financial institutions.
+
+ 
+
+Our vision is to be a world class business, profitable, ambitious, cooperative and considerate, supporting our clients and people through our global business principles of Quality, Unity and Integrity.
+
+ 
+
+With over 7,000 employees worldwide, our culture is the thread that connects us. Our strategy and culture are closed connected – defined by shared ambition, global collaboration and a one-team mindset. We believe pioneering work happens when people are empowered to think beyond boundaries, explore new opportunities and grow through diverse experiences. Alongside the right skills and experience, we are looking for people who are innovative, commercially minded, and motivated by the impact of the work they do – ready to share in our ambition and help shape what comes next.
+
+
+Because while individuals can do well, together we achieve something extraordinary.
+
+
+Role Purpose 
+
+We are building a new R&D capability focused on developing data-driven and AI-enabled products for legal services and the wider business of law. 
+
+The Data Scientist & Engineer will work within R&D alongside the Data Programme to build the foundational data capabilities required for those products: trusted, reusable data assets, reliable pipelines, data quality, lakehouse models and analytical products. These capabilities will support R&D products, AI applications, client intelligence and firm-wide decision support. 
+
+This is a hands-on hybrid data-engineering and applied-data-science role, with particular responsibility for building data products in Microsoft Fabric and Databricks. You will work with Data Programme colleagues to turn priority sources into governed, use-case-ready data assets using agreed patterns, without duplicating enterprise platform responsibilities. 
+
+You will join a small, hands-on multidisciplinary team working collaboratively across discovery, prototyping, engineering, productionisation and continuous improvement. 
+
+Key Responsibilities 
+
+Partner with the Data Programme, data owners and system teams to assess, access and combine priority internal and external data sources, understanding quality, permissions and fitness for use. 
+
+Design, build and operate reliable pipelines in Microsoft Fabric and Databricks to ingest, clean, standardise, enrich, version and publish structured, semi-structured and unstructured data as reusable data assets. 
+
+Create scalable lakehouse data models, schemas, data contracts and reusable features for entities such as clients, organisations, people, matters, sectors, jurisdictions, opportunities and legal topics. 
+
+Implement data-quality checks, lineage, provenance, observability, monitoring and change management within Fabric and Databricks workflows so data assets remain trusted over time. 
+
+Conduct exploratory data analysis to surface patterns, gaps, anomalies and data-quality issues, and identify opportunities for analysis, modelling or product use. 
+
+Develop, compare and validate appropriate statistical and machine-learning models for classification, ranking, recommendation, forecasting, anomaly detection, similarity or extraction problems. 
+
+Use NLP, embeddings and LLM-assisted techniques responsibly for classification, entity resolution, information extraction, clustering and relationship discovery across document-heavy data. 
+
+Publish curated datasets, features and analytical outputs through approved Fabric and Databricks data products, tables, APIs, search indexes, batch pipelines or product features. 
+
+Maintain reproducible code, tests, model and data documentation, evaluation evidence and clear statements of limitations and appropriate use. 
+
+Use AI agents and coding assistants responsibly to accelerate exploratory work, pipeline development, testing and documentation, while retaining ownership of analytical judgement and verification. 
+
+Initial Focus 
+
+Establish foundational, governed and permission-aware data assets in Microsoft Fabric and Databricks, including curated datasets, metadata, lakehouse data models and quality measures. 
+
+Develop reusable pipelines in Microsoft Fabric and Databricks for entity resolution, enrichment, metadata, relationship mapping and data-quality monitoring. 
+
+Run EDA and model development that increases the value of priority data assets for client intelligence, opportunity identification, pricing, matter analysis and other high-value use cases. 
+
+What Success Looks Like 
+
+The Data Programme and R&D teams can use documented, quality-controlled data assets in Fabric and Databricks without repeatedly cleaning and reconciling source data. 
+
+Analytical work identifies useful signals and viable opportunities, with transparent baselines, validation and limitations. 
+
+Successful models and features move beyond notebooks into maintainable Fabric and Databricks pipelines, APIs or products. 
+
+Essential Skills and Experience 
+
+At least three years' professional experience in a hybrid data-engineering and applied-data-science role, including delivery of reliable pipelines, reusable data assets and useful analytical models in Microsoft Fabric and Databricks. 
+
+Advanced Python, SQL and PySpark, including experience with data transformation, analysis and common machine-learning libraries. 
+
+Hands-on experience designing and operating scalable data pipelines, lakehouse data models, Delta and SQL transformations, and data-quality controls in Microsoft Fabric and Databricks. 
+
+Strong grounding in exploratory data analysis, statistics, feature engineering, model selection, validation and error analysis. 
+
+Practical experience with NLP, information extraction, entity resolution, embeddings or other techniques relevant to document-heavy and relationship-rich data. 
+
+Good understanding of data lineage, provenance, metadata, access controls, permissions and the responsible use of sensitive data within an enterprise data estate. 
+
+Experience with Git, automated testing, API integration, CI/CD and version-controlled deployment of data workloads in Microsoft Fabric and Databricks. 
+
+Ability to translate a business question into a well-formed analytical problem and communicate findings, uncertainty and trade-offs clearly. 
+
+Proficiency with AI agents and agentic development workflows, coupled with rigorous validation of code, data transformations and analytical conclusions. 
+
+Desirable Skills and Experience 
+
+Experience with Azure Data Lake, Azure Data Factory, dbt, Airflow, MLflow, Power BI, Microsoft Purview or comparable tools. 
+
+Experience with search indexes, vector databases, graph databases, knowledge graphs, ontologies or master-data-management techniques. 
+
+Experience with MLOps, model monitoring, experimental design, causal inference, forecasting, recommendation systems or optimisation. 
+
+Experience with legal, financial, client, market or professional-services data, especially licensed external data and restricted information. 
+
+Diversity, Equity and Inclusion
+To attract the best people, we strive to create a diverse and inclusive environment where everyone can bring their whole selves to work, have a sense of belonging, and realize their full career potential. 
+Our new enabled work model allows our people to have more flexibility in the way they choose to work from both the office and a remote location, while continuing to deliver the highest standards of service. We offer a range of family friendly and inclusive employment policies and provide access to programmes and services aimed at nurturing our people’s health and overall wellbeing. Find more about Diversity, Equity and Inclusion here.
+
+We are proud to be an equal opportunities employer and encourage applications from individuals who can complement our existing teams. We strive to create an inclusive and accessible recruitment process for all candidates. If you require any tailored adjustments or accommodations, please let us know here.
+
+NRF Logo
+Norton Rose Fulbright provides a full scope of legal services to the world’s preeminent corporations and financial institutions. The global law firm has more than 3,000 lawyers advising clients across locations in the United States, Europe, Canada, Latin America, Asia, Australia, Africa and the Middle East. With its global business principles of quality, unity and integrity, Norton Rose Fulbright is recognized for its client service in key industries, including financial institutions; energy, infrastructure and resources; technology; transport; life sciences and healthcare; and consumer markets.

@@ -1,0 +1,56 @@
+Machine Learning and Quant Engineer - London
+London, England, United Kingdom
+Data & Engineering
+£110,000 - £200,000
+a year
+You think in time series, signals, and regimes.
+You care about insight quality, not academic purity.
+You want your models tested by markets, not papers.
+If you dislike messy data and real-world constraints, this is not your role.
+
+The Role, In Plain English
+You will build quantitative and ML-driven insight systems using structured time series data.
+This role exists to turn raw financial data into actionable investor signals.
+You will work closely with engineers to productionize quant logic.
+
+What You’ll Be Responsible For
+Develop models using structured financial time series
+Build insight generation and scenario analysis pipelines
+Collaborate with backend engineers to deploy models in production
+Evaluate signals based on real investor outcomes
+Improve attribution and explainability
+What “Good” Looks Like in This Role
+After 3 months:
+Shipping signals used internally.
+
+After 6 months:
+Signals used by customers.
+
+After 12 months:
+You shape how quant insights are built at Reflexivity.
+
+Who You Are (Must-Haves)
+5 plus years experience in quant, ML, or financial modeling
+Strong Python skills
+Startup experience on core systems
+Investment domain knowledge
+AI-assisted coding experience
+Nice-to-Haves (Not Deal Breakers)
+Prior buy-side or sell-side experience
+Experience with alternative data
+How We Work
+In-office team with high trust and high ownership
+Direct communication, minimal process, strong opinions backed by data
+Engineers are expected to think about product impact, not just code
+We move fast when it matters and slow down when correctness matters more
+Why This Role Is Worth Your Time
+Direct influence on how professional investors make decisions
+Hard problems at the edge of AI, data, and finance
+Real ownership and technical autonomy
+Senior peers who care about quality and outcomes
+Compensation & Practicalities
+Base salary: £110,000 to £200,000 depending on experience
+Equity included
+In-office role based in London
+No agency candidates
+£110,000—£200,000 GBP

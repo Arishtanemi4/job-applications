@@ -1,0 +1,14 @@
+Dear Hiring Team,
+
+I'm applying for the AI Engineer role because turning incoming information into structured, traceable output that users can inspect is the problem I have already worked on in financial services, and I want to do it in a small team that owns its production systems.
+
+At HDFC Asset Management I spent three years building and running LLM systems for real internal users. The closest match to your work is a daily pipeline that parsed over 300 credit-rating-agency emails into structured data: it fuzzy-matched each email to the companies analysts track, dropped the rest, and sent a consolidated summary of previous and changed ratings, saving about 60 analyst hours a month. When one agency began sending images, I replaced Textract with Azure OpenAI. I also ingested Morningstar fund data into PostgreSQL for every fund in the Indian mutual fund market, so financial-market data is familiar ground. Beyond that, I built a WhatsApp fund-comparison bot on Azure OpenAI tool calling that roughly 50 to 100 Sales staff used daily. It broke first on parameter extraction, and I fixed it by adding example inputs to the tool definitions. I designed the RAG applications end to end (FastAPI microservices in Docker, pgvector retrieval, Llama-3 self-hosted on a GPU EC2 instance for the largest department, Azure OpenAI for the others, chosen on cost) and kept them running after release on AWS with Jenkins and GitLab CI/CD.
+
+My MSc at Bristol (result awaited) included a dissertation with AstraZeneca, where I worked on the data preprocessing, the scoring algorithm and the RAG layer, and a team study training CNN, ResNet and ViT encoders with LSTM decoders from scratch, compared across five seeds.
+
+Where I fall short of the listing: it is a senior role and I have about three years of industry experience. HDFC had no formal evaluation suite, only prompt versioning in Git and review by users and Compliance, so I would want to build repeatable evaluations properly here. I ran no dedicated monitoring or tracing tooling, only fixes driven by what users reported. I have not fine-tuned a model, and my agents were tool-calling ones rather than multi-agent workflows. I have not used Airflow (my scheduling was EventBridge and Lambda), Pulumi or GitHub Actions. I can contribute from day one on the Python, AWS, Docker and pipeline side and would close the rest quickly.
+
+I'm on a UK Student Visa and eligible for the Graduate Visa, which gives two years of full working rights after my MSc.
+
+Kind regards,
+Kaustubh Sonawane

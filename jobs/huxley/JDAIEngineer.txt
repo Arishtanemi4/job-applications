@@ -1,0 +1,77 @@
+AI Engineer
+
+About this job
+Key facts
+Job Title
+AI Engineer
+
+Role type
+Permanent
+
+Start date
+ASAP
+
+Remote friendly
+No
+
+Location
+London, England, United Kingdom
+
+Salary
+£90000 - £120000 per annum + + Bonus & Benefits Package £
+
+AI Engineer
+
+London (Hybrid, 1 Day per Week Onsite)
+
+
+Are you ready to help build the future of AI from the ground up?
+
+Our client isn't buying off-the-shelf solutions or stitching together existing products. They're building a proprietary AI platform from first principles, creating intelligent systems capable of reasoning, planning, and acting autonomously across complex business environments.
+
+We're looking for a highly skilled AI Engineer to join a growing London-based team and play a key role in designing and developing cutting-edge agentic AI systems that will power the next generation of enterprise automation.
+
+
+What You'll Be Doing
+
+Designing and developing agentic AI systems capable of autonomous decision-making and task execution.
+Building sophisticated LLM-powered applications, orchestration frameworks, memory architectures, and tool-use capabilities.
+Developing custom AI workflows using large language models, retrieval systems, and multi-agent architectures.
+Collaborating closely with product and engineering teams to embed AI into real-world business processes.
+Contributing to the architecture and evolution of a proprietary AI platform in a truly greenfield environment.
+Evaluating emerging AI technologies and helping shape technical direction and best practices.
+
+What We're Looking For
+
+Commercial experience designing and building AI, machine learning, or generative AI applications.
+Strong Python engineering skills and experience developing production-grade software.
+Hands-on experience with technologies such as Azure OpenAI, Azure AI Services, and Azure Machine Learning.
+Knowledge of modern AI frameworks including LangChain, Hugging Face, PyTorch, or similar technologies.
+Deep understanding of LLMs, RAG architectures, vector databases, prompt engineering, agentic AI, and multi-agent systems.
+Experience deploying, monitoring, and optimising AI solutions in production environments.
+A builder's mindset with a passion for solving complex technical challenges from first principles.
+Ability to commute to a London office once per week.
+
+Desirable Experience
+
+AI orchestration and workflow frameworks.
+Knowledge graph or semantic search technologies.
+Model fine-tuning and evaluation.
+MLOps, CI/CD, containerisation, and cloud-native deployment practices.
+Experience developing autonomous agents and reasoning systems.
+
+Why Join?
+
+Join a high-calibre team building a genuinely differentiated AI platform.
+Work on some of the most challenging and innovative problems in modern AI.
+Influence architecture, product direction, and technical strategy from an early stage.
+Enjoy significant ownership, autonomy, and creative freedom.
+Competitive salary, equity participation, and comprehensive benefits.
+Hybrid working with a collaborative London-based team.
+
+If you're excited by agentic AI, autonomous systems, and building something entirely from scratch, we'd love to hear from you. Apply Now to Avoid Disappointment!
+
+To find out more about Huxley, please visit www.huxley.com
+
+Huxley, a trading division of SThree Partnership LLP is acting as an Employment Business in relation to this vacancy | Registered office | 8 Bishopsgate, London, EC2N 4BQ, United Kingdom | Partnership Number | OC387148 England and Wales
+

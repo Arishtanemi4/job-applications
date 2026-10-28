@@ -1,0 +1,39 @@
+Location:London
+Salary:£100,000 - £120,000
+Sector:AI  
+Type:Permanent
+Posted:05/29/2026
+This is an opportunity to join a highly technical team working within the AI space, focused on building scalable and impactful technology.
+
+You’ll be involved in shaping the product and technical direction from an early stage, with real ownership across the engineering process.
+
+This would suit someone who enjoys solving difficult technical problems, working at pace, and building technology with real impact.
+
+This role would be fully on-site in London.
+
+About the Role
+
+Join as one of the early engineering hires within a venture-backed startup led by experienced founders
+Architect systems capable of analysing billions of AI interactions
+Help define the company’s technical culture and engineering standards from the beginning
+Work on genuinely complex technical challenges beyond traditional CRUD applications
+Contribute to a product used by enterprise-level organisations and global brands
+About You
+
+We’re looking for someone with a genuine passion for building exceptional software. Someone who:
+
+Takes pride in their craft and enjoys solving difficult technical challenges
+Questions existing approaches and looks for better solutions
+Thrives in uncertain or fast-moving environments
+Takes ownership of problems, regardless of formal responsibility
+Wants to build meaningful products that change how people work and interact with technology
+
+What You’ll Do
+
+Own the full stack, from database architecture through to user-facing features
+Build scalable production systems designed to support millions of users
+Ship quickly and iterate in a fast-paced environment
+Make technical decisions that align closely with business goals and product strategy
+Help shape the future engineering team and mentor new hires as the business grows
+
+Don’t miss out on this fantastic opportunity – apply today!

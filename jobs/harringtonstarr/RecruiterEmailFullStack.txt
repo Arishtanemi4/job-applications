@@ -1,0 +1,16 @@
+Subject: Full-Stack Developer (ref 22405) - Kaustubh Sonawane
+
+Hi,
+
+I'm applying for the Full-Stack Developer role (ref 22405) with your investment management technology client. My CV is attached.
+
+For three years at HDFC Asset Management I built and supported internal web applications for the investment, Compliance and Client Service teams. I designed and built them end to end: a React frontend, Python FastAPI backends over PostgreSQL, and the schema and ingestion behind them, including the Morningstar fund data for every Indian mutual fund. I released each application to real users and changed it based on what they found. The WhatsApp fund-comparison bot I built is used daily by the Sales team (roughly 50 to 100 people), and I fixed its tool-call failures once real users exposed them. I also rebuilt the investment team's Power BI dashboards in React so the wider organization could use them.
+
+To be upfront on the gaps. I have no C# or SQL Server experience: my database work is PostgreSQL and my backends are Python. My investment data was mutual funds and credit ratings, not equities, and I have not worked on front-office trading technology or systematic investing. I have about three years of experience, which may sit below the level you are hiring for, and I have not worked in a formally run agile team. The Python, React, SQL and stakeholder work carries over, and I would rather say this now than have you find out at interview.
+
+I'm based in Bristol, on a Student Visa and eligible for the 2-year Graduate Visa. If the client is open to a strong Python, React and PostgreSQL background for this role, I'd be glad to talk this week.
+
+Thank you,
+Kaustubh Sonawane
++44 7388229743
+ksstubh.sonawane@gmail.com

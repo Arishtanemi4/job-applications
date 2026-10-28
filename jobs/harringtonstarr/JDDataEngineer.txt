@@ -1,0 +1,66 @@
+Data Engineer
+22478
+Posted: 05/10/2026
+£600 - £800 per day inside IR35
+London, , United Kingdom
+Contract
+Data
+Investment Data Engineer – Private Markets Data Platform (Banking / Investments)
+
+ 
+
+£700–£800 per day Inside IR35 for an initial 6 months. Hybrid working 2 days working from home.
+
+ 
+
+Investment Data Engineer – VP Level - 6 month rolling Contract
+
+ 
+
+I’m working with Global Private Bank on a senior contract hire within its Private Markets Data & Analytics team.
+
+ 
+
+They are looking for an experienced Investment Data Engineer to take ownership of key elements of their data architecture, integration and platform development environment.
+
+This is a role for someone who can get under the bonnet of a complex investment data landscape, make strong technical decisions and build solutions that can genuinely improve how Private Markets data is structured, integrated and used.
+
+ 
+
+The Role
+
+This is a high-impact, hands-on VP-level engineering contract with significant ownership across the data platform.
+
+ 
+
+You’ll be focused on:
+
+Designing and developing SQL Server database architecture
+Building robust data integration capabilities across the Private Markets environment
+Developing and enhancing the underlying data platform
+Taking ownership of complex investment datasets from ingestion through to consumption
+Improving data structures, quality and accessibility for analytics and business users
+Working directly with senior investment, data and technology stakeholders
+Making pragmatic architectural decisions rather than simply working through a delivery backlog
+ 
+
+What We’re Looking For
+
+Strong SQL Server engineering and database architecture experience
+Deep experience building data platforms and integration solutions
+Background within banking, asset management, private markets or financial services
+Ability to operate across architecture and hands-on engineering
+Track record of building or materially enhancing data capabilities, rather than simply supporting established platforms
+Confidence dealing directly with senior stakeholders
+Experience working with complex investment or financial datasets would be particularly valuable
+ 
+
+Why This Role
+
+VP-level contract with genuine technical ownership
+Work at the heart of a Private Markets Data & Analytics function
+Opportunity to influence the architecture rather than just execute against it
+Initial six-month engagement with potential to extend
+ 
+
+To apply – click the link or email Barry.Ansell@HarringtonStarr.com for a faster response

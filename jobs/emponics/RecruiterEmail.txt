@@ -1,0 +1,16 @@
+To: tony@emponics.com
+Subject: AI / Data Engineer (3 years, financial services) - Kaustubh Sonawane
+
+Hi Tony,
+
+I'm a Bristol-based AI and data engineer, and I'm writing to ask whether you have, or expect, any IT roles I could be put forward for. My CV is attached.
+
+For three years at HDFC Asset Management I designed and built production GenAI applications end to end (React frontend, FastAPI backend, RAG on Azure OpenAI and pgvector, deployed on AWS with Jenkins and GitLab CI/CD) for the Compliance, Client Service and Investment teams. I also built the data layer behind them: the PostgreSQL schema, Morningstar API ingestion, Power BI dashboards, and an email-parsing pipeline that saved analysts 60 hours a month. I have just completed an MSc in Data Science at the University of Bristol (result awaited).
+
+The roles I'm looking for are AI / GenAI engineer, machine learning engineer, data scientist, data engineer, full stack developer and MLOps, in the UK, with financial services and technology firms a particularly good fit.
+
+I'm on a Student Visa and eligible for the 2-year Graduate Visa, which gives full working rights. I'd be glad to talk whenever suits you.
+
+Thank you,
+Kaustubh Sonawane
++44 7388229743 | www.linkedin.com/in/kaustubhson4

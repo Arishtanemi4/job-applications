@@ -1,0 +1,12 @@
+Dear Hiring Team,
+
+I'm applying for the AI Engineer contract in the Efficiency and Automation team. The work you describe, taking AI use cases from idea to production safely inside a regulated bank, is what I did for three years at HDFC Asset Management, working directly with Compliance, Client Service and Investment.
+
+The closest match to your team is an automation pipeline I built in Python. It parsed over 300 credit-rating-agency emails a day, fuzzy-matched them to the companies analysts track, and sent a daily consolidated summary of previous and changed ratings, saving about 60 analyst hours a month. When one agency began sending images, I replaced AWS Textract with Azure OpenAI. I also built a WhatsApp fund-comparison bot on Azure OpenAI tool calling that roughly 50 to 100 Sales staff used daily, and RAG applications on pgvector for three departments, delivered as FastAPI microservices in Docker on AWS through a Jenkins and GitLab CI/CD pipeline. I implemented RBAC with LDAP authentication, restricted access with Security Groups and worked with the security team until the applications passed their VAPT. I also integrated Morningstar, email and legacy Excel data into a PostgreSQL schema I designed.
+
+Where I fall short of your listing: I have about three years of industry experience, so I am not a senior hire. I have not used Kubernetes, Airflow, MLflow or Azure DevOps (my scheduling was EventBridge and Lambda, my CI/CD Jenkins), and I have no banking or CRM background beyond asset management. HDFC had no automated test suite or formal model monitoring; I relied on user feedback, versioned prompts in Git and Compliance review of each release, and I would want to build proper testing, monitoring and audit trails here. I can contribute from day one on Python, SQL, APIs, Docker, AWS and the LLM and RAG side, and would pick up the rest quickly.
+
+I am on a UK Student Visa and eligible for the Graduate Visa, which gives me two years of full working rights after my MSc at the University of Bristol (result awaited).
+
+Kind regards,
+Kaustubh Sonawane

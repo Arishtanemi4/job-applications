@@ -1,0 +1,14 @@
+Dear Hiring Team,
+
+I'm applying for the Machine Learning Engineer role because turning unstructured information into something financial institutions can act on is the kind of problem I have already worked on, and I want to do it in a small team where I follow the work through to production.
+
+At HDFC Asset Management I spent three years building and running GenAI and data systems for real internal users. I designed the full stack for the RAG applications: FastAPI microservices in Docker, a pgvector retrieval layer on Azure OpenAI embeddings, and Llama-3 self-hosted on a GPU EC2 instance for the largest department, with Azure OpenAI for the others, chosen on cost. I also built a WhatsApp fund-comparison bot on Azure OpenAI tool calling that roughly 50 to 100 Sales staff used daily. It broke first on parameter extraction, and I fixed it by adding example inputs to the tool definitions. A separate daily pipeline parsed over 300 rating-agency emails into structured data and saved about 60 analyst hours a month; when one agency began sending images, I replaced Textract with Azure OpenAI. I also ingested Morningstar fund data into PostgreSQL, so financial-market data is familiar ground.
+
+My MSc at Bristol (result awaited) included a dissertation with AstraZeneca, where I worked on the data preprocessing, the scoring algorithm and the RAG layer, and a team study training CNN, ResNet and ViT encoders with LSTM decoders from scratch, compared across five seeds.
+
+Where I fall short of the listing: I have not fine-tuned a model, so that would be new to me. HDFC had no formal evaluation suite, only prompt versioning in Git and review by users and Compliance, and I would want to build repeatable evaluations properly here. I have not used Airflow (my scheduling was EventBridge and Lambda), Pulumi, ECS/EKS or Redshift, and my CI/CD was Jenkins and GitLab rather than GitHub Actions. I'd want to close those quickly, and I can contribute from day one on the Python, AWS, Docker and pipeline side.
+
+I'm on a UK Student Visa and eligible for the Graduate Visa, which gives two years of full working rights after my MSc.
+
+Kind regards,
+Kaustubh Sonawane

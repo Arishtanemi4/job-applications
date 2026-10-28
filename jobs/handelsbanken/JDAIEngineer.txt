@@ -1,0 +1,87 @@
+AI Engineer - 12 Month Day Rate Contract
+Job Introduction
+4adgnBIjK62YVVlphEeqpqkooEh7nCPwo7kB1oTL.png
+
+
+
+Handelsbanken combines a long-established relationship banking model with secure, resilient, and customer-focused technology. Our technology teams enable the Bank’s decentralised way of working, delivering systems built for stability, trust, and long-term value.
+
+We are on a multi-year technology and digital transformation journey to enhance customer experience and improve how colleagues work together. By modernising platforms, simplifying processes, and better connecting data and systems, we help relationship teams focus on customers and less on complexity.
+
+Our decentralised culture extends to technology. Teams are trusted to take ownership, make informed decisions, and deliver sustainable, high-quality solutions. We value engineering excellence, pragmatic problem-solving, and strong collaboration across technology, business, and risk.
+
+We offer technologists the opportunity to build lasting careers, deepen their expertise, and contribute to meaningful change. We look for people who care about quality, security, long-term impact, and who want to shape the future of a relationship-led bank.
+
+We also recognise that flexibility can support people to perform at their best, and that it looks different for everyone. While arrangements will depend on the requirements of the role and the needs of the business, we are open to having a conversation around what flexibility could look like for you.
+
+Check our Handelsbanken website for further information
+
+bVPTBt7lwDSNGRXWENQpUaoLsLZaI5RwC0RfSFM8.png
+
+The opportunity 
+
+The Efficiency and Automation team is a multi-disciplinary team responsible for streamlining business processes, reducing administrative burden and enhancing operational efficiency across the Bank. Through a combination of process automation, intelligent automation, agentic workflows and Generative AI, the team delivers frequent, high-impact improvements that enable colleagues to focus more time on value-adding activities and customer service.
+
+As automation technologies continue to evolve, the team is expanding its use of Agentic Automation, Predictive and Generative AI capabilities to automate increasingly complex processes, enhance decision-making and improve employee and customer experiences.
+
+The Bank's strategy is centred around delivering operational efficiencies that create capacity to support increased business volumes and profitability, while improving customer satisfaction and outcomes. The Efficiency and Automation team supports this strategy by identifying and delivering small, frequent improvements that drive measurable business value and accelerate digital transformation.
+
+Key responsibilities 
+
+As an AI Engineer you will design build and maintain the software foundations that enable AI use cases to move from idea to production. You will work across backend engineering, data integration, model integration, APIs, orchestration, monitoring and deployment. The role requires strong software engineering discipline and practical experience building and productionise AI use cases from machine learning models to GenAI systems whilst ensuring they are safely deployed.
+
+You will work closely with Product Managers and Data Scientists and should be comfortable working through the phases of the product development cycle end-to-end: understanding the business problem, shaping the technical approach, integrating data sources, building services, connecting models or LLMs, implementing controls and supporting solutions after release.
+
+Design, build and maintain backend services, APIs and orchestration layers that support AI and data-driven use cases across the bank.
+Develop robust, production-grade software using modern engineering practices, including clean code, automated testing, version control and secure development standards.
+Integrate AI models, machine learning services and GenAI capabilities into banking workflows, CRM systems and Bank Manager facing applications.
+Build and maintain data pipelines, feature pipelines and service integrations required to support AI products.
+Support the deployment and operation of models and AI services, including monitoring, logging, alerting, performance management and incident response.
+Work with Data Scientists to productionise models, expose model outputs through reliable services and ensure outputs are usable by business applications.
+Implement safeguards for AI use cases, audit trails and access controls.
+Collaborate with Risk, Compliance, Security and Architecture teams to ensure AI solutions meet internal governance, regulatory and operational resilience expectations.
+Contribute to reusable engineering patterns, shared components, reference architectures and deployment standards for AI-enabled solutions.
+Support experimentation and prototyping while ensuring successful use cases can scale into maintainable, production-ready solutions.
+Contribute to a high-quality engineering culture focused on pragmatism, collaboration, learning and delivery.
+What we’re looking for
+
+Research (by Harvard University) shows that women are particularly likely to second guess themselves and not apply - so if you are worried you don't meet all the criteria, get in touch anyhow and let us do the worrying…
+
+Relevant Experience:
+
+Strong software engineering background, ideally with experience building production systems in a complex enterprise or regulated environment.
+Hands-on experience with Python and SQL, with the ability to build reliable services, data workflows and automation.
+Experience designing APIs, backend services, batch processes, event-driven workflows or data processing applications.
+Experience working with containerised environments such as Docker, Kubernetes or similar platforms.
+Understanding of machine learning lifecycle concepts, including model development, deployment, monitoring and retraining.
+Experience building and productionising AI use cases GenAI concepts such as LLM integration, prompt orchestration, RAG, Machine Learning Models.
+Experience integrating data from multiple systems and turning raw data into reliable, usable services or pipelines.
+Ability to work closely with product, business, data, architecture, security and risk stakeholders.
+Strong problem-solving skills, with the ability to take ambiguous business problems and turn them into practical technical solutions.
+Technical Skills:
+
+Python, SQL and modern backend engineering frameworks.
+REST APIs, event-driven architecture, microservices or service-oriented architecture.
+Cloud platforms such as AWS and Azure.
+CI/CD tooling such as Git, Azure DevOps or similar.
+Containerisation and orchestration tools such as Docker and Kubernetes.
+Data and workflow orchestration tools such as Airflow, Prefect or Spark.
+MLOps tools and concepts such as MLflow, model registries, feature stores, model monitoring and automated deployment pipelines.
+Familiarity with banking data, customer data, product data, CRM systems, lending workflows, fraud, risk or compliance use cases would be valuable.
+Why join Handelsbanken
+
+We want everyone at Handelsbanken to feel supported, motivated, and able to do great work. That’s why, alongside brilliant colleagues, meaningful work and training and development opportunities, we provide a variety of benefits designed with your wellbeing in mind. 
+
+In addition, there is a flexible benefits package with the key highlights detailed below.
+
+ YC5FDE6MSF4djbaWsA0qoa24TfLbCsQwG36rNBX7.png 
+
+Application next steps
+
+Your journey with us begins once you have submitted your application. One of our Handelsbanken Talent Acquisition Partners will be reviewing your details and will later organise a phone conversation if your experience aligns with our requirements, we will extend an invitation for you to participate in an interview.  
+
+This advert will be live for a minimum of two weeks. However, please note that after the two weeks, the closing date could change at any time depending on the number of responses received.
+
+The Bank is deeply committed to embedding good equality and diversity practice into all of our activities. This is so that we are an inclusive, welcoming and inspiring place to work that encourages everyone to apply, regardless of socio-economic background, age, disability, pregnancy and/or parental status, race (including colour, nationality, and ethnic or national origin), veteran status, marital and civil partnership status, religion or belief, sex, gender reassignment or sexual orientation.
+
+#LI-DS1

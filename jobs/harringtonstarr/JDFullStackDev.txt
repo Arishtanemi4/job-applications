@@ -1,0 +1,41 @@
+Full-Stack Developer
+22405
+Posted: 26/08/2026
+£120,000 - £140,000
+London, , United Kingdom
+Permanent
+Software Engineering
+Full-Stack Developer
+London | Fully Onsite | Permanent
+
+Harrington Starr is partnering with a leading investment management technology firm to hire a Full-Stack Developer.
+
+This is a hands-on role working closely with front-office users to develop, support and enhance a business-critical investment platform.
+
+The Role:
+Build features across the full stack
+Diagnose and resolve production issues
+Deliver enhancements and longer-term projects
+Monitor platform performance and data quality
+Turn user requirements into practical solutions
+Contribute to testing, code reviews and engineering standards
+Balance live support with new development
+Work closely with senior investment stakeholders
+
+What We're Looking For:
+Strong Python and C# experience
+Front-end experience with React
+Strong SQL Server skills
+Excellent debugging and problem-solving ability
+Experience supporting production systems
+Background in agile software development
+Experience with equities and front-office technology
+Understanding of systematic or quantitative investing
+Pragmatic and delivery-focused approach
+
+Benefits:
+Working closely with key business stakeholders and C-suite
+Development with new and emerging technologies
+Excellent base and bonus structure
+
+If you’re a Full-Stack Developer with strong Python, C#, React and SQL Server skills and experience in front-office investment technology, we’d love to hear from you.

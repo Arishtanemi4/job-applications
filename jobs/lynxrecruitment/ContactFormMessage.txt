@@ -1,0 +1,22 @@
+FORM FIELDS (https://www.lynxrecruitment.co.uk/services/ contact form)
+Name: Kaustubh Sonawane
+Email: ksstubh.sonawane@gmail.com
+Phone: +44 7388229743
+Attachment: KaustubhSonawaneRecruiterCV.pdf
+
+MESSAGE (843 characters, limit 1000):
+Hi,
+
+I'm a Bristol-based AI and data engineer seeking permanent roles in software development, data science or cloud/DevOps. CV attached.
+
+For three years at HDFC Asset Management I built production GenAI applications end to end (React, FastAPI, RAG on Azure OpenAI and pgvector, deployed on AWS with CI/CD) for the Compliance, Client Service and Investment teams. I also built their data layer: PostgreSQL schema, Morningstar API ingestion, Power BI dashboards, and an email pipeline that saved analysts 60 hours a month. MSc Data Science, University of Bristol (result awaited).
+
+Targets: AI/GenAI, ML, data science, data engineering, full stack, MLOps/DevOps.
+
+On a Student Visa, eligible for the 2-year Graduate Visa (full working rights). Happy to talk any time.
+
+Thank you,
+Kaustubh Sonawane
++44 7388229743 | linkedin.com/in/kaustubhson4
+
+ALTERNATIVE: email info@lynxrecruitment.co.uk with a longer version (subject: "AI / Data / Software Engineer (3 years, financial services) - Kaustubh Sonawane").

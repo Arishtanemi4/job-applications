@@ -1,0 +1,16 @@
+Subject: AI Engineer (London, GBP 100-120k) - Kaustubh Sonawane
+
+Hi,
+
+I'm applying for the AI engineering role with your venture-backed London client (permanent, GBP 100,000-120,000, on-site). My CV is attached.
+
+The "own the full stack, from database architecture through to user-facing features" line is the work I did for three years at HDFC Asset Management. I started as the first engineer on the GenAI systems, alongside my manager, and designed them end to end: the PostgreSQL schema and the Python ingestion behind it (the Morningstar data for every Indian mutual fund), FastAPI backends, a React frontend, RAG on pgvector and tool-calling agents on Azure OpenAI, deployed on AWS through a Jenkins and GitLab pipeline. I released each application to real users and changed it based on what they found. The WhatsApp fund-comparison bot I built is used daily by the Sales team (roughly 50 to 100 people), and I fixed its tool-call failures once real users exposed them. In my final year I acted as de facto team lead for up to 4 interns.
+
+To be upfront on the gaps. The JD talks about analysing billions of AI interactions and supporting millions of users, and I have not worked at that scale: my systems served internal teams, and my data volumes were fund and credit-rating data. HDFC is an established asset manager, not a startup, so my early-hire experience is limited to being the first engineer on those systems. I have about three years of experience, which may sit below what the client expects, and I have not shaped a company's engineering standards or hired and mentored a team. The schema-to-UI ownership, the LLM work and the pace of shipping to real users carry over, and I would rather say this now than have you find out at interview.
+
+I'm currently based in Bristol, on a Student Visa and eligible for the 2-year Graduate Visa. I'm happy to discuss the on-site London arrangement. If the client is open to a strong full-stack and applied-LLM background at this level, I'd be glad to talk this week.
+
+Thank you,
+Kaustubh Sonawane
++44 7388229743
+ksstubh.sonawane@gmail.com

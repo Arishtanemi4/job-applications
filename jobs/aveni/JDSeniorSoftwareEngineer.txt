@@ -1,0 +1,120 @@
+Senior AI Software Engineer
+Location
+United Kingdom
+
+Employment Type
+Full time
+
+Location Type
+Remote
+
+Department
+Engineering
+
+Overview
+Application
+Aveni is redefining how financial institutions use AI. We build real, production-ready agentic systems that reshape how banks, advisers, and financial services firms operate, replacing fragmented processes with intelligent, end-to-end workflows. Our achievements include being recognised as Fintech of the Year for two consecutive years and winning Best Specialist Technology Service at the Professional Adviser Awards 2025.
+
+ 
+Backed by leading investors, including Puma Private Equity, and commercially supported by Lloyds Banking Group and Nationwide Building Society, we previously completed one of Scotland’s largest Series A rounds. As the adoption of AI accelerates in financial services, we’re scaling our team to meet growing demand.
+
+ 
+The Role
+We're seeking a hands-on Senior AI Software Engineer with strong full-stack experience to build and ship AI-powered products into production, leveraging FinLLM (the UK's first LLM for Financial Services) and other LLMs. You won’t build or train models—instead, you'll engineer the systems, services, interfaces, and integrations that bring those models to life for advisers, analysts, and banking teams. You'll own features end-to-end, covering selection, implementation, deployment, observability, and iteration across backend, frontend, and cloud infrastructure.
+
+ 
+Key Responsibilities
+Build production-ready, AI-powered products integrating LLM capabilities, RAG, and agentic workflows into real-world processes.
+
+Select models, orchestrate prompts, design systems, and implement AI tooling (e.g., LangGraph, Langfuse).
+
+Design evaluation, monitoring, and observability to ensure reliability and readiness for production.
+
+Develop scalable, event-driven microservices and APIs using Node.js and TypeScript.
+
+Build modern, responsive React frontends to make AI useful in customer workflows.
+
+Architect cloud-native systems on AWS (Lambda, ECS/Fargate, API Gateway, SQS/SNS, DynamoDB, RDS).
+
+Implement microservices, distributed-system principles, and strong operational controls for integration into financial products.
+
+Uphold engineering best practices: clean code, automated testing, CI/CD, and operational excellence.
+
+Diagnose and improve production behaviours relating to reliability, latency, cost, and AI quality.
+
+Mentor engineers, contribute to team growth, and collaborate closely with product and engineering to deliver customer-ready features.
+
+ 
+What We’re Looking For
+Essential Experience
+Extensive software engineering background, building, deploying, and running production LLM/AI applications.
+
+Strong hands-on experience with Node.js, TypeScript, and production React.
+
+Experience with prompt engineering, agentic workflows, RAG, and LLM integration.
+
+Knowledge of AI evaluation frameworks, monitoring, and observability.
+
+Deep understanding of AWS, cloud-native engineering, APIs, and integration patterns.
+
+Experience with microservices, messaging patterns, event-driven, and distributed architectures.
+
+Commitment to quality, clean code, testing, and operational excellence.
+
+ 
+Nice to Have
+Experience with NestJS or similar backend frameworks.
+
+Familiarity with LangGraph, Langfuse, or other AI orchestration and observability tools.
+
+Knowledge of AI implementation in regulated/high-trust environments, ideally in financial services.
+
+Systematic evaluation design for LLM outputs and agentic workflows.
+
+Experience delivering agentic systems in production.
+
+ 
+Skills & Mindset
+Effective working in ambiguity and complex problem-solving.
+
+Designing robust solutions and making pragmatic technical choices.
+
+Clear communication with technical and non-technical stakeholders.
+
+Awareness of production AI challenges: reliability, latency, and cost.
+
+Technical mentorship, influencing decisions, and raising team standards.
+
+ 
+Qualifications
+Relevant degree or equivalent practical experience (production engineering capability is more important than a specific academic background).
+
+ 
+Benefits
+Remote-first working across the UK
+
+Work abroad policy
+
+Co-working spaces available
+
+34 days holiday (including flexible bank holidays) plus your birthday off
+
+Company-wide off-sites
+
+Optional Personal Development Plan
+
+Flexible benefits platform
+
+Protection essentials: Life Insurance, Income Protection, Critical Illness cover, and Pension (up to 5% matched employer contribution, with optional increases)
+
+Private health and dental care
+
+Potential share options
+
+Enhanced family leave
+
+Why Join Aveni?
+At Aveni, we believe diversity drives innovation. We’re committed to building an inclusive workplace where everyone feels valued and empowered. If you’re passionate about using technology to drive positive change in financial services, we’d love to hear from you. Even if you don’t meet every requirement, please consider applying if you think this role could be a fit.
+
+ 
+Apply now to help us transform the financial services industry through AI!

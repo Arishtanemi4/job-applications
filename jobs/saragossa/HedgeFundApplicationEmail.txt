@@ -1,0 +1,17 @@
+Subject: AI Engineer (Hedge Fund) - Kaustubh Sonawane
+
+LinkedIn job post: <paste LinkedIn job post URL>
+
+Hi <Name>,
+
+I'm applying for the AI Engineer role at the hedge fund you're hiring for. My CV is attached.
+
+For three years at HDFC Asset Management I built and ran RAG applications and tool-calling agents for the Compliance, Client Service and Investment teams, taking them from prototype to real users and iterating on what broke. Quality control there was practical: system-prompt guardrails, every prompt change versioned in Git, and Compliance review of each release. I also made the cost-versus-quality call on models, self-hosting Llama-3 for the largest department and using Azure OpenAI for decision makers. In my MSc I benchmarked several deep learning architectures across five seeds against pre-trained VLMs, and noted where the comparison was not like-for-like.
+
+To be upfront, I have not built formal evaluation tooling in production (LLM-as-judge, human-labelled datasets, retrieval metrics). That is the part I would like to build properly here, and I know the RAG and agent systems it has to measure.
+
+I'm based in Bristol, on a Student Visa and eligible for the 2-year Graduate Visa. I'd be glad to talk this week.
+
+Thank you,
+Kaustubh Sonawane
++44 7388229743 | www.linkedin.com/in/kaustubhson4
